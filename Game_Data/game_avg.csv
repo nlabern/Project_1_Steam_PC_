@@ -1,6 +1,6 @@
 ,Title,Average Score,Score Count
-0,Valheim,87.99313343606723,165
-1,Palworld,70.72620269412138,162
+0,Valheim,87.99375260840064,166
+1,Palworld,70.71082919086297,163
 2,7 Days to Die,54.10697216625002,141
 3,Satisfactory,74.77459600398358,110
 4,Project Zomboid,82.13136103484771,106
@@ -14,15 +14,15 @@
 12,Green Hell,84.93378901747568,38
 13,WorldBox: God Simulator,64.55591786211168,36
 14,Ultrakill,85.29712890792595,35
-15,My Summer Car,70.096623595826,34
-16,V Rising,84.82082498695354,33
+15,V Rising,84.48749165362021,34
+16,My Summer Car,70.096623595826,34
 17,Dark and Darker,72.08843031971311,29
 18,BattleBit Remastered,70.37900501439468,29
 19,Dyson Sphere Program,80.76003534170542,28
 20,Sons of the Forest,73.22119719999064,26
 21,Project: Gorgon,76.94138297165841,26
 22,Universe Sandbox,81.69742305725927,26
-23,Enshrouded,78.50799614430261,23
+23,Enshrouded,78.45473297130495,24
 24,NFUT Cards,94.78260869565217,23
 25,Super Animal Royale,64.93824809812908,23
 26,The Isle,85.33971479400523,22
@@ -58,356 +58,359 @@
 56,Colony Survival,80.18728587470066,13
 57,Exanima,79.92067603935372,13
 58,Core Keeper,60.7937433820678,12
-59,The Vagrant,85.76387143650447,12
-60,Earthfall,62.00689680303385,12
-61,SpaceEngine,89.92809987401883,12
-62,Gloam,92.5925925925926,11
-63,We Went Back,59.37043486935174,11
-64,Eco,91.56719640004408,11
-65,AdVenture Communist,59.89794158321573,11
-66,Another Brick in the Mall,66.85778470329305,11
-67,Pavlov VR,80.6610844584933,11
-68,Vainglory,69.93801827775835,11
-69,Suck Up!,81.21951219512195,10
-70,Death Must Die,79.99721216906516,10
-71,Supremacy: The Metaverse Game,87.84260515603799,10
-72,Coral Island,75.64660493827161,10
-73,Peglin,86.15768958222841,10
-74,Havocado,77.0,10
-75,Blade & Sorcery,80.05454161613338,10
-76,"Good Pizza, Great Pizza",64.25620110828709,10
-77,Ravenfield,70.95404021222224,10
-78,Passpartout: The Starving Artist,59.94069549359882,10
-79,Serious Sam Classics: Revolution,87.61706494111856,10
-80,Who's Your Daddy,43.32214964721245,10
-81,No Rest for the Wicked,79.96556164465606,9
-82,Slime Rancher 2,65.9702479338843,9
-83,Seen,54.26400260464785,9
-84,Russian Fishing 4,68.56625763972927,9
-85,Rico,53.13678278816184,9
-86,Savage Lands,59.61447578996194,9
-87,The Universim,65.72087908908081,9
-88,Hades II,85.0754897653551,8
-89,Big Time,87.05882352941175,8
-90,Achilles: Legends Untold,57.53421887637653,8
-91,Second Extinction,72.61604711117297,8
-92,Craftopia,71.79325842696629,8
-93,Dinkum,83.38946077023459,8
-94,Foundation,63.68350171809344,8
-95,Nova Drift,39.54285714285714,8
-96,Academia: School Simulator,69.81034505672702,8
-97,Staxel,54.56949609190651,8
-98,Oriental Empires,53.375,8
-99,ARK: Survival of the Fittest,14.66815512119835,8
-100,Echo of Soul,56.72286707808303,8
-101,Riot: Civil Unrest,50.91514610670846,8
-102,Overpower,70.17241379310346,8
-103,Labyrinth,81.04545454545453,8
-104,Dead Effect 2,54.32579989842559,8
-105,The Guild 3,59.3083623245374,8
-106,Interstellar Marines,39.70762760263374,8
-107,The Coffin of Andy and Leyley,74.32765544938374,7
-108,Soulstone Survivors,74.81166094561975,7
-109,Lightyear Frontier,34.60674157303371,7
-110,Age of Darkness: Final Stand,70.80317539589043,7
-111,Mad Games Tycoon 2,71.13177779651197,7
-112,Foundry,86.20689655172414,7
-113,Tiny Bunny,71.41721795289932,7
-114,Timberborn,71.91697415473745,7
-115,Atlas,58.89921777576238,7
-116,Torque Drift,90.0,7
-117,Legion TD 2,51.16048146568269,7
-118,Infinite Minigolf,62.66666666666666,7
-119,Stationeers,95.20050654284509,7
-120,Death Trash,68.52367872511509,7
-121,Grav,56.24543788632251,7
-122,Blockade 3D,59.81505490544451,7
-123,Of Guards and Thieves,58.56139364990166,7
-124,Between Me and the Night,77.27534502733315,7
-125,Project: Playtime,53.33333333333333,6
-126,Yet Another Zombie Survivors,80.01239517362927,6
-127,Shatterline,79.82540790582537,6
-128,The Anacrusis,53.60345222633449,6
-129,Farthest Frontier,79.98012175425518,6
-130,All Over,83.33333333333334,6
-131,Orbital Bullet,70.42121316700332,6
-132,Firestone Idle RPG,47.06422018348624,6
-133,Trials of Fire,75.83333333333334,6
-134,War Selection,62.2308979364194,6
-135,Deeeer Simulator,62.07143660752438,6
-136,Workers & Resources: Soviet Republic,68.50416764302213,6
-137,Half-Life: Uplink,70.08421892086201,6
-138,Maximum Action,63.80596290181607,6
-139,Pandemic: The Board Game,61.13560829183328,6
-140,PixArk,71.30528907377536,6
-141,Gene Shift Auto,69.95083232193197,6
-142,Demonologist,55.71428571428571,5
-143,Nightingale,61.34468910123252,5
-144,Turing Complete,83.37078651685394,5
-145,Dominion,90.07874015748031,5
-146,Anvil Saga,67.72131316470231,5
-147,IdleOn: The Idle MMO,60.14821496751836,5
-148,Population: One,96.0,5
-149,Manor Lords,70.82163789842319,5
-150,Hokko Life,43.0,5
-151,Hunter's Arena: Legends,51.0809954501272,5
-152,Going Medieval,61.75159575149583,5
-153,Dungeon of Dragon Knight,46.62921348314606,5
-154,Size Matters,50.84093736992634,5
-155,Drunken Wrestlers 2,76.0,5
-156,Vegas Infinite by PokerStars,88.0,5
-157,Scarf,66.4,5
-158,Among Trees,69.54784831221782,5
-159,Space Haven,63.80323791759334,5
-160,Headsnatchers,47.78376298576376,5
-161,The Lord of the Rings: Adventure Card Game,68.92047568695789,5
-162,Witchfire,49.69721893740783,5
-163,Computer Tycoon,68.4416367775665,5
-164,Desolate,76.41030041246324,5
-165,Bio Inc. Redemption,70.0,5
-166,AdventureQuest 3D,63.14621339834339,5
-167,Paranormal Activity: The Lost Soul,69.02774897875744,5
-168,Tower Unite,80.81601636208076,5
-169,WWII Online,72.5,5
-170,Chime Sharp,78.16666666666666,5
-171,StarCrawlers,70.03088533873589,5
-172,Bang-On Balls: Chronicles,80.0,4
-173,The Long Drive,60.0,4
-174,Black Skylands,80.0,4
-175,Gamecraft,60.0,4
-176,Shortest Trip to Earth,64.83333333333334,4
-177,Mist Survival,80.0,4
-178,Meow Motors,65.5,4
-179,Mars Horizon,80.0,4
-180,The Coin Game,70.0,4
-181,Chinese Parents,80.0,4
-182,Fault: Elder Orb,50.0,4
-183,Yorkshire Gubbins,79.0,4
-184,Rise to Ruins,80.0,4
-185,Knockout League,76.0,4
-186,Long Gone Days,72.0,4
-187,Guild Quest,60.0,4
-188,Derail Valley,80.0,4
-189,Terroir,60.0,4
-190,Pocket Rumble,62.5,4
-191,Can't Drive This,50.0,4
-192,Windscape,66.16666666666667,4
-193,Volo Airsport,50.0,4
-194,Salt,80.0,4
-195,Automation: The Car Company Tycoon Game,80.0,4
-196,The Way of Life,66.16795317036319,4
-197,Medieval Engineers,60.0,4
-198,Secrets of Grindea,80.0,4
-199,Realms of Arkania: Star Trail,50.0,4
-200,Stranded: Alien Dawn,83.66666666666667,3
-201,Power Chord,60.0,3
-202,Instruments of Destruction,87.0,3
-203,Tinker Racers,70.0,3
-204,The Political Process,80.0,3
-205,10 Miles to Safety,80.0,3
-206,Hot Shot Burn,70.0,3
-207,Quantum League,71.0,3
-208,A Year of Rain,50.0,3
-209,Rogue Star Rescue,70.0,3
-210,Blazing Sails,80.0,3
-211,Mystic Vale,75.0,3
-212,Nanotale: Typing Chronicles,65.0,3
-213,Down to Hell,45.0,3
-214,Tapsonic Bold,25.0,3
-215,Beasts of Bermuda,50.0,3
-216,Rising Hell,70.0,3
-217,The Waylanders,60.0,3
-218,Factory Town,70.0,3
-219,Deadly Days,60.0,3
-220,Clicker Heroes 2,60.0,3
-221,Fugl,71.5,3
-222,Intruder,80.0,3
-223,Cogmind,80.0,3
-224,Null Vector,78.5,3
-225,Broke Protocol: Online City RPG,50.0,3
-226,Guns'n'Stories: Bulletproof VR,71.5,3
-227,CAT Interstellar,60.0,3
-228,Head Shot,50.0,3
-229,UBoat,60.0,3
-230,Atomic Society,70.0,3
-231,Pylon: Rogue,62.0,3
-232,Onward,80.0,3
-233,Quarantine,60.0,3
-234,The Spatials: Galactology,70.0,3
-235,Wayward,80.0,3
-236,Dreambreak,51.66666666666666,3
-237,Holodrive,79.0,3
-238,Saurian,60.0,3
-239,Empires of the Undergrowth,80.0,3
-240,Wartile,70.0,3
-241,KeeperRL,80.0,3
-242,Project Aura,50.0,3
-243,1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby,40.0,3
-244,Rising World,80.0,3
-245,Starforge,10.17757790959444,3
-246,Fabledom,83.0,2
-247,Kukoos: Lost Pets,61.5,2
-248,GetsuFumaDen: Undying Moon,70.5,2
-249,Fuzz Force: Spook Squad,70.0,2
-250,Knock on the Coffin Lid,70.0,2
-251,Streamer Daily,70.0,2
-252,Soviet Jump Game,80.0,2
-253,Card Hog,80.0,2
-254,Comanche,60.0,2
-255,Undying,67.0,2
-256,Killsquad,72.5,2
-257,Little Witch Nobeta,70.5,2
-258,Ashes of Oahu,50.0,2
-259,Timeflow: Time and Money Simulator,50.0,2
-260,Last Oasis,60.0,2
-261,Odd Realm,70.0,2
-262,No Time to Relax,70.0,2
-263,Pax Nova,50.0,2
-264,XO,70.0,2
-265,Never Breakup,60.0,2
-266,Newfound Courage,70.0,2
-267,CryoFall,50.0,2
-268,Godhood,50.0,2
-269,Dead or School,67.5,2
-270,This Land Is My Land,70.0,2
-271,Blast Zone! Tournament,50.0,2
-272,KurtzPel,50.0,2
-273,Blood Waves,50.0,2
-274,Forged Battalion,80.0,2
-275,Flotsam,60.0,2
-276,Wasted Pizza,50.0,2
-277,Flashing Lights: Police Fire EMS,50.0,2
-278,Witch Hunt,80.0,2
-279,Empires in Ruins,70.0,2
-280,Dog Duty,70.0,2
-281,Operation Warcade VR,72.5,2
-282,Crest,60.0,2
-283,The District,20.0,2
-284,VR Karts,57.5,2
-285,Planet Centauri,60.0,2
-286,Gamma Bros,70.0,2
-287,Project Arrhythmia,70.0,2
-288,QuiVr,80.0,2
-289,Blasters of the Universe,70.0,2
-290,Bombslinger,72.5,2
-291,Star Explorers,50.0,2
-292,Bigfoot,50.0,2
-293,Drunkn Bar Fight,80.0,2
-294,Low Magic Age,80.0,2
-295,A-Tech Cybernetic,80.0,2
-296,Production Line,60.0,2
-297,Karnage Chronicles,80.0,2
-298,Post Human W.A.R,75.0,2
-299,Sailaway,80.0,2
-300,NITE Team 4,70.0,2
-301,We Need to Go Deeper,80.0,2
-302,BattleCrew: Space Pirates,35.0,2
-303,Spellsworn,80.0,2
-304,Yore VR,50.0,2
-305,Stellar Overload,60.0,2
-306,Timber and Stone,50.0,2
-307,Drift Into Eternity,72.5,2
-308,Exoplanet: First Contact,80.0,2
-309,Feed and Grow: Fish,60.0,2
-310,DropZone,75.0,2
-311,De Mambo,74.0,2
-312,Super Indie Karts,80.0,2
-313,All Guns on Deck,40.0,2
-314,Wild Warfare,70.0,2
-315,Elea,70.0,2
-316,Kingdoms Rise,50.0,2
-317,Bombernauts,80.0,2
-318,Folk Tale,50.0,2
-319,Gabe Newell Simulator,50.0,2
-320,Subaeria,57.5,2
-321,Dispatcher,40.0,2
-322,Rodina,80.0,2
-323,Starmade,60.0,2
-324,Block Story,50.0,2
-325,Prismata,70.0,2
-326,Soulslinger: Envoy of Death,92.0,1
-327,New Star GP,80.0,1
-328,Forgive Me Father 2,70.0,1
-329,Go-Go Town!,85.0,1
-330,Trinity Fusion,85.0,1
-331,Voltaire: The Vegan Vampire,60.0,1
-332,Arto,35.0,1
-333,MythForce,65.0,1
-334,Spiritfall,66.0,1
-335,Sker Ritual,60.0,1
-336,Lovecraft's Untold Stories 2,40.0,1
-337,Thy Creature,90.0,1
-338,Oaken,65.0,1
-339,Dread Delusion,73.0,1
-340,Mortal Sin,81.0,1
-341,Ember Knights,85.0,1
-342,Puzzle Quest 3,60.0,1
-343,Patch Quest,85.0,1
-344,Graven,75.0,1
-345,Total Arcade Racing,80.0,1
-346,Titan Chaser,80.0,1
-347,Victory Road,80.0,1
-348,Mists of Noyah,60.0,1
-349,Weed Farmer Simulator,50.0,1
-350,Shaolin vs Wutang 2,70.0,1
-351,Barricadez,80.0,1
-352,Ultimate Zombie Defense,70.0,1
-353,Tainted Grail: The Fall of Avalon,0.0,1
-354,Spellsword Cards: DungeonTop,68.0,1
-355,Mad Experiments: Escape Room,70.0,1
-356,MMORPG Tycoon 2,70.0,1
-357,Tip of the Spear: Task Force Elite,80.0,1
-358,The Yellow King,70.0,1
-359,Errant Kingdom,70.0,1
-360,Day of Dragons,50.0,1
-361,Book of Travels,66.0,1
-362,Necronator: Dead Wrong,65.0,1
-363,Drift of the Hill,80.0,1
-364,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1
-365,Beat Blast,88.0,1
-366,Bastide,50.0,1
-367,MicroTown,70.0,1
-368,Devil's Deck,60.0,1
-369,Neon Tail,70.0,1
-370,Onset,70.0,1
-371,Shadows of Doubt,80.0,1
-372,Sky Link,70.0,1
-373,Ritual: Crown of Horns,75.0,1
-374,Naxia,50.0,1
-375,Ninja Legends,70.0,1
-376,Axis & Allies 1942 Online,50.0,1
-377,Siege of Centauri,65.0,1
-378,Gravity Ace,70.0,1
-379,Burned Land,70.0,1
-380,Road to Guangdong,50.0,1
-381,Winkeltje: The Little Shop,70.0,1
-382,2084,50.0,1
-383,Hotel Sowls,65.0,1
-384,Metaverse Keeper,70.0,1
-385,Murder Mystery Machine,73.0,1
-386,Fantasy Blacksmith,50.0,1
-387,Deadliest Catch: The Game,45.0,1
-388,Blink: Rogues,65.0,1
-389,Pandemic Express: Zombie Escape,60.0,1
-390,Time Warpers,70.0,1
-391,Deadside,60.0,1
-392,Lawless Lands,70.0,1
-393,Starcom: Nexus,70.0,1
-394,Good Company,60.0,1
-395,Black Paradox,35.0,1
-396,Seeds of Resilience,60.0,1
-397,Rapture Rejects,50.0,1
-398,Melting World Online,50.0,1
-399,A Long Way Down,50.0,1
-400,Adeptus Titanicus: Dominus,80.0,1
-401,The Hardest Dungeon,70.0,1
-402,Find Your Way,50.0,1
-403,Newt One,70.0,1
-404,The True Slime King,90.0,1
-405,ValeGuard,64.0,1
-406,Vox Machinae,80.0,1
-407,Final Assault,70.0,1
-408,BoxVR,80.0,1
-409,Sipho,70.0,1
-410,The Snowboard Game,60.0,1
-411,Swords 'n Magic and Stuff,80.0,1
+59,Eco,90.83148859315394,12
+60,The Vagrant,85.76387143650447,12
+61,Earthfall,62.00689680303385,12
+62,SpaceEngine,89.92809987401883,12
+63,Gloam,92.5925925925926,11
+64,BroodStar,89.16666666666666,11
+65,We Went Back,59.37043486935174,11
+66,AdVenture Communist,59.89794158321573,11
+67,Another Brick in the Mall,66.85778470329305,11
+68,Pavlov VR,80.6610844584933,11
+69,Vainglory,69.93801827775835,11
+70,Suck Up!,81.21951219512195,10
+71,Death Must Die,79.99721216906516,10
+72,Supremacy: The Metaverse Game,87.84260515603799,10
+73,Coral Island,75.64660493827161,10
+74,Peglin,86.15768958222841,10
+75,Havocado,77.0,10
+76,Blade & Sorcery,80.05454161613338,10
+77,"Good Pizza, Great Pizza",64.25620110828709,10
+78,Ravenfield,70.95404021222224,10
+79,Passpartout: The Starving Artist,59.94069549359882,10
+80,Serious Sam Classics: Revolution,87.61706494111856,10
+81,Who's Your Daddy,43.32214964721245,10
+82,No Rest for the Wicked,79.96556164465606,9
+83,Slime Rancher 2,65.9702479338843,9
+84,Seen,54.26400260464785,9
+85,Russian Fishing 4,68.56625763972927,9
+86,Rico,53.13678278816184,9
+87,Savage Lands,59.61447578996194,9
+88,The Universim,65.72087908908081,9
+89,Hades II,85.0754897653551,8
+90,Big Time,87.05882352941175,8
+91,Achilles: Legends Untold,57.53421887637653,8
+92,Second Extinction,72.61604711117297,8
+93,Craftopia,71.79325842696629,8
+94,Dinkum,83.38946077023459,8
+95,Foundation,63.68350171809344,8
+96,Nova Drift,39.54285714285714,8
+97,Academia: School Simulator,69.81034505672702,8
+98,Staxel,54.56949609190651,8
+99,Oriental Empires,53.375,8
+100,ARK: Survival of the Fittest,14.66815512119835,8
+101,Echo of Soul,56.72286707808303,8
+102,Riot: Civil Unrest,50.91514610670846,8
+103,Overpower,70.17241379310346,8
+104,Labyrinth,81.04545454545453,8
+105,Dead Effect 2,54.32579989842559,8
+106,The Guild 3,59.3083623245374,8
+107,Interstellar Marines,39.70762760263374,8
+108,The Coffin of Andy and Leyley,74.32765544938374,7
+109,Soulstone Survivors,74.81166094561975,7
+110,Lightyear Frontier,34.60674157303371,7
+111,Age of Darkness: Final Stand,70.80317539589043,7
+112,Mad Games Tycoon 2,71.13177779651197,7
+113,Foundry,86.20689655172414,7
+114,Tiny Bunny,71.41721795289932,7
+115,Timberborn,71.91697415473745,7
+116,Atlas,58.89921777576238,7
+117,Torque Drift,90.0,7
+118,Legion TD 2,51.16048146568269,7
+119,Infinite Minigolf,62.66666666666666,7
+120,Stationeers,95.20050654284509,7
+121,Death Trash,68.52367872511509,7
+122,Grav,56.24543788632251,7
+123,Blockade 3D,59.81505490544451,7
+124,Of Guards and Thieves,58.56139364990166,7
+125,Between Me and the Night,77.27534502733315,7
+126,Project: Playtime,53.33333333333333,6
+127,Yet Another Zombie Survivors,80.01239517362927,6
+128,Shatterline,79.82540790582537,6
+129,The Anacrusis,53.60345222633449,6
+130,Farthest Frontier,79.98012175425518,6
+131,Manor Lords,71.40392597690112,6
+132,All Over,83.33333333333334,6
+133,Orbital Bullet,70.42121316700332,6
+134,Firestone Idle RPG,47.06422018348624,6
+135,Trials of Fire,75.83333333333334,6
+136,War Selection,62.2308979364194,6
+137,Deeeer Simulator,62.07143660752438,6
+138,Workers & Resources: Soviet Republic,68.50416764302213,6
+139,Half-Life: Uplink,70.08421892086201,6
+140,Maximum Action,63.80596290181607,6
+141,Pandemic: The Board Game,61.13560829183328,6
+142,PixArk,71.30528907377536,6
+143,Gene Shift Auto,69.95083232193197,6
+144,Demonologist,55.71428571428571,5
+145,Nightingale,61.34468910123252,5
+146,Turing Complete,83.37078651685394,5
+147,Dominion,90.07874015748031,5
+148,Anvil Saga,67.72131316470231,5
+149,IdleOn: The Idle MMO,60.14821496751836,5
+150,Population: One,96.0,5
+151,Hokko Life,43.0,5
+152,Hunter's Arena: Legends,51.0809954501272,5
+153,Going Medieval,61.75159575149583,5
+154,Dungeon of Dragon Knight,46.62921348314606,5
+155,Size Matters,50.84093736992634,5
+156,Drunken Wrestlers 2,76.0,5
+157,Vegas Infinite by PokerStars,88.0,5
+158,Scarf,66.4,5
+159,Among Trees,69.54784831221782,5
+160,Space Haven,63.80323791759334,5
+161,Headsnatchers,47.78376298576376,5
+162,The Lord of the Rings: Adventure Card Game,68.92047568695789,5
+163,Witchfire,49.69721893740783,5
+164,Computer Tycoon,68.4416367775665,5
+165,Desolate,76.41030041246324,5
+166,Bio Inc. Redemption,70.0,5
+167,AdventureQuest 3D,63.14621339834339,5
+168,Paranormal Activity: The Lost Soul,69.02774897875744,5
+169,Tower Unite,80.81601636208076,5
+170,WWII Online,72.5,5
+171,Chime Sharp,78.16666666666666,5
+172,StarCrawlers,70.03088533873589,5
+173,Bang-On Balls: Chronicles,80.0,4
+174,The Long Drive,60.0,4
+175,Black Skylands,80.0,4
+176,Gamecraft,60.0,4
+177,Shortest Trip to Earth,64.83333333333334,4
+178,Mist Survival,80.0,4
+179,Meow Motors,65.5,4
+180,Mars Horizon,80.0,4
+181,The Coin Game,70.0,4
+182,Chinese Parents,80.0,4
+183,Fault: Elder Orb,50.0,4
+184,Yorkshire Gubbins,79.0,4
+185,Rise to Ruins,80.0,4
+186,Knockout League,76.0,4
+187,Long Gone Days,72.0,4
+188,Guild Quest,60.0,4
+189,Derail Valley,80.0,4
+190,Terroir,60.0,4
+191,Pocket Rumble,62.5,4
+192,Can't Drive This,50.0,4
+193,Windscape,66.16666666666667,4
+194,Volo Airsport,50.0,4
+195,Salt,80.0,4
+196,Automation: The Car Company Tycoon Game,80.0,4
+197,The Way of Life,66.16795317036319,4
+198,Medieval Engineers,60.0,4
+199,Secrets of Grindea,80.0,4
+200,Realms of Arkania: Star Trail,50.0,4
+201,Stranded: Alien Dawn,83.66666666666667,3
+202,Power Chord,60.0,3
+203,Instruments of Destruction,87.0,3
+204,Tinker Racers,70.0,3
+205,The Political Process,80.0,3
+206,10 Miles to Safety,80.0,3
+207,Hot Shot Burn,70.0,3
+208,Quantum League,71.0,3
+209,A Year of Rain,50.0,3
+210,Rogue Star Rescue,70.0,3
+211,Blazing Sails,80.0,3
+212,Mystic Vale,75.0,3
+213,Nanotale: Typing Chronicles,65.0,3
+214,Down to Hell,45.0,3
+215,Tapsonic Bold,25.0,3
+216,Beasts of Bermuda,50.0,3
+217,Rising Hell,70.0,3
+218,The Waylanders,60.0,3
+219,Factory Town,70.0,3
+220,Deadly Days,60.0,3
+221,Clicker Heroes 2,60.0,3
+222,Fugl,71.5,3
+223,Intruder,80.0,3
+224,Cogmind,80.0,3
+225,Null Vector,78.5,3
+226,Broke Protocol: Online City RPG,50.0,3
+227,Guns'n'Stories: Bulletproof VR,71.5,3
+228,CAT Interstellar,60.0,3
+229,Head Shot,50.0,3
+230,UBoat,60.0,3
+231,Atomic Society,70.0,3
+232,Pylon: Rogue,62.0,3
+233,Onward,80.0,3
+234,Quarantine,60.0,3
+235,The Spatials: Galactology,70.0,3
+236,Wayward,80.0,3
+237,Dreambreak,51.66666666666666,3
+238,Holodrive,79.0,3
+239,Saurian,60.0,3
+240,Empires of the Undergrowth,80.0,3
+241,Wartile,70.0,3
+242,KeeperRL,80.0,3
+243,Project Aura,50.0,3
+244,1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby,40.0,3
+245,Rising World,80.0,3
+246,Starforge,10.17757790959444,3
+247,Fabledom,83.0,2
+248,Kukoos: Lost Pets,61.5,2
+249,GetsuFumaDen: Undying Moon,70.5,2
+250,Fuzz Force: Spook Squad,70.0,2
+251,Knock on the Coffin Lid,70.0,2
+252,Streamer Daily,70.0,2
+253,Soviet Jump Game,80.0,2
+254,Card Hog,80.0,2
+255,Comanche,60.0,2
+256,Undying,67.0,2
+257,Killsquad,72.5,2
+258,Little Witch Nobeta,70.5,2
+259,Ashes of Oahu,50.0,2
+260,Timeflow: Time and Money Simulator,50.0,2
+261,Last Oasis,60.0,2
+262,Odd Realm,70.0,2
+263,No Time to Relax,70.0,2
+264,Pax Nova,50.0,2
+265,XO,70.0,2
+266,Never Breakup,60.0,2
+267,Newfound Courage,70.0,2
+268,CryoFall,50.0,2
+269,Godhood,50.0,2
+270,Dead or School,67.5,2
+271,This Land Is My Land,70.0,2
+272,Blast Zone! Tournament,50.0,2
+273,KurtzPel,50.0,2
+274,Blood Waves,50.0,2
+275,Forged Battalion,80.0,2
+276,Flotsam,60.0,2
+277,Wasted Pizza,50.0,2
+278,Flashing Lights: Police Fire EMS,50.0,2
+279,Witch Hunt,80.0,2
+280,Empires in Ruins,70.0,2
+281,Dog Duty,70.0,2
+282,Operation Warcade VR,72.5,2
+283,Crest,60.0,2
+284,The District,20.0,2
+285,VR Karts,57.5,2
+286,Planet Centauri,60.0,2
+287,Gamma Bros,70.0,2
+288,Project Arrhythmia,70.0,2
+289,QuiVr,80.0,2
+290,Blasters of the Universe,70.0,2
+291,Bombslinger,72.5,2
+292,Star Explorers,50.0,2
+293,Bigfoot,50.0,2
+294,Drunkn Bar Fight,80.0,2
+295,Brick Rigs,60.0,2
+296,Low Magic Age,80.0,2
+297,A-Tech Cybernetic,80.0,2
+298,Production Line,60.0,2
+299,Karnage Chronicles,80.0,2
+300,Post Human W.A.R,75.0,2
+301,Sailaway,80.0,2
+302,NITE Team 4,70.0,2
+303,We Need to Go Deeper,80.0,2
+304,BattleCrew: Space Pirates,35.0,2
+305,Spellsworn,80.0,2
+306,Yore VR,50.0,2
+307,Stellar Overload,60.0,2
+308,Timber and Stone,50.0,2
+309,Drift Into Eternity,72.5,2
+310,Exoplanet: First Contact,80.0,2
+311,Feed and Grow: Fish,60.0,2
+312,DropZone,75.0,2
+313,De Mambo,74.0,2
+314,Super Indie Karts,80.0,2
+315,All Guns on Deck,40.0,2
+316,Wild Warfare,70.0,2
+317,Elea,70.0,2
+318,Kingdoms Rise,50.0,2
+319,Bombernauts,80.0,2
+320,Folk Tale,50.0,2
+321,Gabe Newell Simulator,50.0,2
+322,Subaeria,57.5,2
+323,Dispatcher,40.0,2
+324,Rodina,80.0,2
+325,Starmade,60.0,2
+326,Block Story,50.0,2
+327,Prismata,70.0,2
+328,Soulslinger: Envoy of Death,92.0,1
+329,New Star GP,80.0,1
+330,Forgive Me Father 2,70.0,1
+331,Go-Go Town!,85.0,1
+332,Trinity Fusion,85.0,1
+333,Voltaire: The Vegan Vampire,60.0,1
+334,Arto,35.0,1
+335,MythForce,65.0,1
+336,Spiritfall,66.0,1
+337,Sker Ritual,60.0,1
+338,Lovecraft's Untold Stories 2,40.0,1
+339,Thy Creature,90.0,1
+340,Oaken,65.0,1
+341,Dread Delusion,73.0,1
+342,Mortal Sin,81.0,1
+343,Ember Knights,85.0,1
+344,Puzzle Quest 3,60.0,1
+345,Patch Quest,85.0,1
+346,Graven,75.0,1
+347,Total Arcade Racing,80.0,1
+348,Titan Chaser,80.0,1
+349,Victory Road,80.0,1
+350,Mists of Noyah,60.0,1
+351,Weed Farmer Simulator,50.0,1
+352,Shaolin vs Wutang 2,70.0,1
+353,Barricadez,80.0,1
+354,Ultimate Zombie Defense,70.0,1
+355,Tainted Grail: The Fall of Avalon,0.0,1
+356,Spellsword Cards: DungeonTop,68.0,1
+357,Mad Experiments: Escape Room,70.0,1
+358,MMORPG Tycoon 2,70.0,1
+359,Tip of the Spear: Task Force Elite,80.0,1
+360,The Yellow King,70.0,1
+361,Errant Kingdom,70.0,1
+362,Day of Dragons,50.0,1
+363,Book of Travels,66.0,1
+364,Necronator: Dead Wrong,65.0,1
+365,Drift of the Hill,80.0,1
+366,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1
+367,Beat Blast,88.0,1
+368,Bastide,50.0,1
+369,MicroTown,70.0,1
+370,Devil's Deck,60.0,1
+371,Neon Tail,70.0,1
+372,Onset,70.0,1
+373,Shadows of Doubt,80.0,1
+374,Sky Link,70.0,1
+375,Ritual: Crown of Horns,75.0,1
+376,Naxia,50.0,1
+377,Ninja Legends,70.0,1
+378,Axis & Allies 1942 Online,50.0,1
+379,Siege of Centauri,65.0,1
+380,Gravity Ace,70.0,1
+381,Burned Land,70.0,1
+382,Road to Guangdong,50.0,1
+383,Winkeltje: The Little Shop,70.0,1
+384,Cat and Ghostly Road,70.0,1
+385,2084,50.0,1
+386,Hotel Sowls,65.0,1
+387,Metaverse Keeper,70.0,1
+388,Murder Mystery Machine,73.0,1
+389,Fantasy Blacksmith,50.0,1
+390,Deadliest Catch: The Game,45.0,1
+391,Blink: Rogues,65.0,1
+392,Pandemic Express: Zombie Escape,60.0,1
+393,Time Warpers,70.0,1
+394,Deadside,60.0,1
+395,Lawless Lands,70.0,1
+396,Starcom: Nexus,70.0,1
+397,Good Company,60.0,1
+398,Black Paradox,35.0,1
+399,Seeds of Resilience,60.0,1
+400,Rapture Rejects,50.0,1
+401,Melting World Online,50.0,1
+402,A Long Way Down,50.0,1
+403,Adeptus Titanicus: Dominus,80.0,1
+404,The Hardest Dungeon,70.0,1
+405,Find Your Way,50.0,1
+406,Newt One,70.0,1
+407,The True Slime King,90.0,1
+408,ValeGuard,64.0,1
+409,Vox Machinae,80.0,1
+410,Final Assault,70.0,1
+411,BoxVR,80.0,1
+412,Sipho,70.0,1
+413,The Snowboard Game,60.0,1
+414,Swords 'n Magic and Stuff,80.0,1
