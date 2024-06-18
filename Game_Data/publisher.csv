@@ -1,6 +1,6 @@
 ,Title,Average Score,Score Count,Publishers,Games Published
-0,Valheim,87.99313343606723,165,Coffee Stain Publishing,22
-1,Palworld,70.72620269412138,162,PocketPair,5
+0,Valheim,87.99375260840064,166,Coffee Stain Publishing,22
+1,Palworld,70.71082919086297,163,PocketPair,5
 2,7 Days to Die,54.10697216625002,141,The Fun Pimps Entertainment LLC,1
 2,7 Days to Die,54.10697216625002,141,Telltale Games,149
 3,Satisfactory,74.77459600398358,110,Coffee Stain Studios,19
@@ -13,18 +13,18 @@
 10,Supermarket Simulator,60.64081972611066,42,Nokta Games,1
 11,Realm Royale Reforged,69.13286242859982,38,Hi-Rez Studios,13
 12,Green Hell,84.93378901747568,38,Creepy Jar,3
-12,Green Hell,84.93378901747568,38,Forever Entertainment S. A.,125
+12,Green Hell,84.93378901747568,38,Forever Entertainment S. A.,126
 13,WorldBox: God Simulator,64.55591786211168,36,Maxim Karpenko,1
 14,Ultrakill,85.29712890792595,35,New Blood Interactive,16
-15,My Summer Car,70.096623595826,34,Amistech Games,1
-16,V Rising,84.82082498695354,33,Stunlock Studios,14
-16,V Rising,84.82082498695354,33,Tencent Games,65
+15,V Rising,84.48749165362021,34,Stunlock Studios,14
+15,V Rising,84.48749165362021,34,Tencent Games,65
+16,My Summer Car,70.096623595826,34,Amistech Games,1
 17,Dark and Darker,72.08843031971311,29,IRONMACE,1
 18,BattleBit Remastered,70.37900501439468,29,OkiGames,1
 19,Dyson Sphere Program,80.76003534170542,28,Gamera Games,72
 20,Sons of the Forest,73.22119719999064,26,Newnight,1
 22,Universe Sandbox,81.69742305725927,26,Giant Army,2
-23,Enshrouded,78.50799614430261,23,Keen Games,2
+23,Enshrouded,78.45473297130495,24,Keen Games,2
 25,Super Animal Royale,64.93824809812908,23,Modus Games,48
 25,Super Animal Royale,64.93824809812908,23,Pixile,2
 26,The Isle,85.33971479400523,22,Afterthought Games,4
@@ -60,378 +60,381 @@
 55,Beast Battle Simulator,96.41172265904217,13,DOG HOGGLER,3
 56,Colony Survival,80.18728587470066,13,Pipliz,1
 58,Core Keeper,60.7937433820678,12,Fireshine Games,21
-59,The Vagrant,85.76387143650447,12,O.T.K Games,1
-60,Earthfall,62.00689680303385,12,Holospark,4
-61,SpaceEngine,89.92809987401883,12,Vladimir Romanyuk,1
-63,We Went Back,59.37043486935174,11,Dead Thread Games Team,2
-64,Eco,91.56719640004408,11,Strange Loop Games,1
-65,AdVenture Communist,59.89794158321573,11,Hyper Hippo Entertainment,8
-66,Another Brick in the Mall,66.85778470329305,11,The Quadsphere,2
-67,Pavlov VR,80.6610844584933,11,Vankrupt Games,1
-68,Vainglory,69.93801827775835,11,Super Evil Megacorp,2
-70,Death Must Die,79.99721216906516,10,Realm Archive,1
-71,Supremacy: The Metaverse Game,87.84260515603799,10,Ninja Syndicate,1
-72,Coral Island,75.64660493827161,10,Humble Games,49
-73,Peglin,86.15768958222841,10,Red Nexus Games Inc.,3
-74,Havocado,77.0,10,Webble Games,1
-75,Blade & Sorcery,80.05454161613338,10,WarpFrog,1
-76,"Good Pizza, Great Pizza",64.25620110828709,10,PM Studios,34
-77,Ravenfield,70.95404021222224,10,SteelRaven7,1
-78,Passpartout: The Starving Artist,59.94069549359882,10,Flamebait Games,4
-79,Serious Sam Classics: Revolution,87.61706494111856,10,Devolver Digital,195
-80,Who's Your Daddy,43.32214964721245,10,Joe Williams,1
-81,No Rest for the Wicked,79.96556164465606,9,Private Division,20
-82,Slime Rancher 2,65.9702479338843,9,Monomi Park,3
-83,Seen,54.26400260464785,9,Seen Games,1
-84,Russian Fishing 4,68.56625763972927,9,Russian Fishing,1
-85,Rico,53.13678278816184,9,Rising Star Games,132
-86,Savage Lands,59.61447578996194,9,Signal Studios,3
-86,Savage Lands,59.61447578996194,9,DigitalDNA Games LLC,4
-87,The Universim,65.72087908908081,9,Crytivo Games,3
-88,Hades II,85.0754897653551,8,Supergiant Games,6
-90,Achilles: Legends Untold,57.53421887637653,8,Dark Point Games,1
-91,Second Extinction,72.61604711117297,8,Systemic Reaction,24
-92,Craftopia,71.79325842696629,8,PocketPair,5
-93,Dinkum,83.38946077023459,8,The Irregular Corporation,14
-95,Nova Drift,39.54285714285714,8,Pixeljam,15
-96,Academia: School Simulator,69.81034505672702,8,Squeaky Wheel Studio,2
-97,Staxel,54.56949609190651,8,Humble Games,49
-97,Staxel,54.56949609190651,8,Plukit,1
-98,Oriental Empires,53.375,8,Iceberg Interactive,77
-99,ARK: Survival of the Fittest,14.66815512119835,8,Studio Wildcard,13
-100,Echo of Soul,56.72286707808303,8,Papaya Play,8
-101,Riot: Civil Unrest,50.91514610670846,8,Merge Games,78
-103,Labyrinth,81.04545454545453,8,Free Range Games,2
-104,Dead Effect 2,54.32579989842559,8,"BadFly Interactive, a.s.",3
-105,The Guild 3,59.3083623245374,8,Nordic Games Publishing,51
-106,Interstellar Marines,39.70762760263374,8,Zero Point Software,1
-107,The Coffin of Andy and Leyley,74.32765544938374,7,Kit9 Studio,1
-109,Lightyear Frontier,34.60674157303371,7,Amplifier Game Invest,1
-109,Lightyear Frontier,34.60674157303371,7,Frame Break,1
-110,Age of Darkness: Final Stand,70.80317539589043,7,Team17,162
-111,Mad Games Tycoon 2,71.13177779651197,7,Eggcode,2
-112,Foundry,86.20689655172414,7,Paradox Interactive,374
-113,Tiny Bunny,71.41721795289932,7,Saikono,1
-113,Tiny Bunny,71.41721795289932,7,Mars People Games,1
-114,Timberborn,71.91697415473745,7,Mechanistry,1
-115,Atlas,58.89921777576238,7,Grapeshot Games,1
-116,Torque Drift,90.0,7,Grease Monkey Games,1
-117,Legion TD 2,51.16048146568269,7,AutoAttack Games,1
-118,Infinite Minigolf,62.66666666666666,7,Zen Studios,69
-119,Stationeers,95.20050654284509,7,RocketWerkz,16
-120,Death Trash,68.52367872511509,7,Crafting Legends,1
-121,Grav,56.24543788632251,7,"BitMonster, Inc.",1
-122,Blockade 3D,59.81505490544451,7,Shumkov Dmitriy,2
-123,Of Guards and Thieves,58.56139364990166,7,Subvert Games,1
-124,Between Me and the Night,77.27534502733315,7,Lace Games,3
-124,Between Me and the Night,77.27534502733315,7,KISS ltd,112
-125,Project: Playtime,53.33333333333333,6,Mob Entertainment,6
-126,Yet Another Zombie Survivors,80.01239517362927,6,Awesome Games Studio,5
-127,Shatterline,79.82540790582537,6,Frag Lab LLC,1
-128,The Anacrusis,53.60345222633449,6,Stray Bombay,1
-129,Farthest Frontier,79.98012175425518,6,Crate Entertainment,4
-130,All Over,83.33333333333334,6,Overall adventures ltd,1
-131,Orbital Bullet,70.42121316700332,6,Assemble Entertainment,44
-132,Firestone Idle RPG,47.06422018348624,6,HolyDay Studios,1
-133,Trials of Fire,75.83333333333334,6,Whatboy Games,1
-134,War Selection,62.2308979364194,6,Glyph Worlds,3
-135,Deeeer Simulator,62.07143660752438,6,PLAYISM,131
-136,Workers & Resources: Soviet Republic,68.50416764302213,6,Hooded Horse,25
-137,Half-Life: Uplink,70.08421892086201,6,Sierra Entertainment,143
-137,Half-Life: Uplink,70.08421892086201,6,Ziff Davis Media,1
-138,Maximum Action,63.80596290181607,6,Ballon Moose Games,1
-139,Pandemic: The Board Game,61.13560829183328,6,Asmodee Digital,34
-140,PixArk,71.30528907377536,6,Snail Games,9
-141,Gene Shift Auto,69.95083232193197,6,Ben Johnson (bencelot),1
-142,Demonologist,55.71428571428571,5,Clock Wizard Games,2
-143,Nightingale,61.34468910123252,5,Inflexion Games,1
-144,Turing Complete,83.37078651685394,5,LevelHead,1
-145,Dominion,90.07874015748031,5,Temple Gates Games,5
-146,Anvil Saga,67.72131316470231,5,HeroCraft,33
-148,Population: One,96.0,5,BigBox VR,2
-149,Manor Lords,70.82163789842319,5,Hooded Horse,25
-150,Hokko Life,43.0,5,Team17,162
-151,Hunter's Arena: Legends,51.0809954501272,5,Matisco,1
-152,Going Medieval,61.75159575149583,5,The Irregular Corporation,14
-152,Going Medieval,61.75159575149583,5,Gramophone Games,1
-153,Dungeon of Dragon Knight,46.62921348314606,5,HexGameStudio,1
-154,Size Matters,50.84093736992634,5,GrabTheGames,55
-155,Drunken Wrestlers 2,76.0,5,Oleg Skutte,3
-156,Vegas Infinite by PokerStars,88.0,5,pokerstars,1
-156,Vegas Infinite by PokerStars,88.0,5,The Stars Group Inc.,1
-157,Scarf,66.4,5,THQ Nordic,183
-157,Scarf,66.4,5,Handy Games,4
-157,Scarf,66.4,5,HandyGames,48
-158,Among Trees,69.54784831221782,5,FJRD Interactive,1
-159,Space Haven,63.80323791759334,5,Bugbyte Ltd.,3
-160,Headsnatchers,47.78376298576376,5,Iceberg Interactive,77
-161,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Asmodee Digital,34
-162,Witchfire,49.69721893740783,5,The Astronauts,3
-163,Computer Tycoon,68.4416367775665,5,Progorion,2
-164,Desolate,76.41030041246324,5,HypeTrain Digital,47
-165,Bio Inc. Redemption,70.0,5,DryGin Studios,1
-165,Bio Inc. Redemption,70.0,5,Klabater,31
-166,AdventureQuest 3D,63.14621339834339,5,Artix Entertainment,18
-167,Paranormal Activity: The Lost Soul,69.02774897875744,5,VRWERX,1
-168,Tower Unite,80.81601636208076,5,PixelTail Games,1
-169,WWII Online,72.5,5,Cornered Rat Software,1
-170,Chime Sharp,78.16666666666666,5,Ste Curran,1
-170,Chime Sharp,78.16666666666666,5,Twistplay,1
-170,Chime Sharp,78.16666666666666,5,Chilled Mouse,8
-171,StarCrawlers,70.03088533873589,5,Juggernaut Games,1
-172,Bang-On Balls: Chronicles,80.0,4,Untold Tales,19
-173,The Long Drive,60.0,4,Genesz,2
-174,Black Skylands,80.0,4,tinyBuild,114
-175,Gamecraft,60.0,4,Freejam,3
-176,Shortest Trip to Earth,64.83333333333334,4,Iceberg Interactive,77
-177,Mist Survival,80.0,4,Rati Wattanakornprasit,1
-178,Meow Motors,65.5,4,Artvostok,1
-179,Mars Horizon,80.0,4,Auroch Digital,7
-179,Mars Horizon,80.0,4,The Irregular Corporation,14
-180,The Coin Game,70.0,4,devotid Media,3
-181,Chinese Parents,80.0,4,Coconut Island Games,16
-183,Yorkshire Gubbins,79.0,4,Stairfall Institute,2
-184,Rise to Ruins,80.0,4,SixtyGig Games,1
-185,Knockout League,76.0,4,Grab,2
-186,Long Gone Days,72.0,4,BURA,1
-187,Guild Quest,60.0,4,Hyper Hippo Entertainment,8
-188,Derail Valley,80.0,4,Altfuture,2
-189,Terroir,60.0,4,General Interactive,2
-190,Pocket Rumble,62.5,4,Chucklefish Games,21
-191,Can't Drive This,50.0,4,Pixel Maniacs,3
-192,Windscape,66.16666666666667,4,Headup Games,94
-193,Volo Airsport,50.0,4,Ramjet Anvil,1
-194,Salt,80.0,4,Lavaboots Studios,3
-195,Automation: The Car Company Tycoon Game,80.0,4,Camshaft Software,2
-196,The Way of Life,66.16795317036319,4,CyberCoconut,3
-197,Medieval Engineers,60.0,4,Keen Software House,4
-198,Secrets of Grindea,80.0,4,Pixel Ferrets,1
-199,Realms of Arkania: Star Trail,50.0,4,Sir-tech Software,22
-199,Realms of Arkania: Star Trail,50.0,4,U.S. Gold,184
-199,Realms of Arkania: Star Trail,50.0,4,Fantasy Productions,3
-199,Realms of Arkania: Star Trail,50.0,4,United Independent Entertainment GmbH,76
-200,Stranded: Alien Dawn,83.66666666666667,3,Frontier Foundry,10
-201,Power Chord,60.0,3,Big Blue Bubble,9
-202,Instruments of Destruction,87.0,3,Radiangames,5
-203,Tinker Racers,70.0,3,QUByte Interactive,104
-204,The Political Process,80.0,3,Verlumino Studios LLC,1
-205,10 Miles to Safety,80.0,3,Trickjump Games Ltd,2
-206,Hot Shot Burn,70.0,3,Artifex Mundi,97
-206,Hot Shot Burn,70.0,3,Forever Entertainment S. A.,125
-207,Quantum League,71.0,3,NGD Studios,4
-208,A Year of Rain,50.0,3,Daedalic Entertainment,96
-209,Rogue Star Rescue,70.0,3,Chute Apps Inc.,2
-210,Blazing Sails,80.0,3,Iceberg Interactive,77
-211,Mystic Vale,75.0,3,Nomad Games,15
-212,Nanotale: Typing Chronicles,65.0,3,Fishing Cactus,5
-212,Nanotale: Typing Chronicles,65.0,3,Plug In Digital,195
-212,Nanotale: Typing Chronicles,65.0,3,2PGames,5
-213,Down to Hell,45.0,3,Ultimate Games S.A.,49
-213,Down to Hell,45.0,3,Ultimate Games,119
-214,Tapsonic Bold,25.0,3,Neowiz,30
-215,Beasts of Bermuda,50.0,3,"Sastrei Studios, LLC",1
-216,Rising Hell,70.0,3,Chorus Worldwide,30
-217,The Waylanders,60.0,3,Gato Studio,1
-218,Factory Town,70.0,3,Erik Asmussen,1
-219,Deadly Days,60.0,3,Assemble Entertainment,44
-220,Clicker Heroes 2,60.0,3,Playsaurus,5
-221,Fugl,71.5,3,Kotori Studios,1
-222,Intruder,80.0,3,Superboss Games,1
-223,Cogmind,80.0,3,Grid Sage Games,2
-224,Null Vector,78.5,3,Optical Override,1
-225,Broke Protocol: Online City RPG,50.0,3,Cylinder Studios,1
-226,Guns'n'Stories: Bulletproof VR,71.5,3,MIROWIN,7
-227,CAT Interstellar,60.0,3,Ionized Games,2
-228,Head Shot,50.0,3,Indie Game Group,4
-229,UBoat,60.0,3,PlayWay S.A.,116
-230,Atomic Society,70.0,3,Far Road Games,1
-231,Pylon: Rogue,62.0,3,QuantumSquid Interactive,1
-232,Onward,80.0,3,Downpour Interactive,1
-233,Quarantine,60.0,3,505 Games,275
-234,The Spatials: Galactology,70.0,3,Wierd and Wry,2
-235,Wayward,80.0,3,Unlok,1
-236,Dreambreak,51.66666666666666,3,Beatshapers,15
-236,Dreambreak,51.66666666666666,3,Digerati Distribution,97
-237,Holodrive,79.0,3,Versus Evil,53
-238,Saurian,60.0,3,Urvogel Games,1
-239,Empires of the Undergrowth,80.0,3,Slug Disco,2
-239,Empires of the Undergrowth,80.0,3,Hooded Horse,25
-240,Wartile,70.0,3,Playwood Games ApS,1
-240,Wartile,70.0,3,Deck13 Interactive,20
-241,KeeperRL,80.0,3,Michal Brzozowski,1
-242,Project Aura,50.0,3,Pixel Quality Games,1
-243,1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby,40.0,3,"Dejobaan Games, LLC",9
-244,Rising World,80.0,3,KISS ltd,112
-246,Fabledom,83.0,2,Doyoyo Games,2
-246,Fabledom,83.0,2,Dear Villagers,27
-247,Kukoos: Lost Pets,61.5,2,PetitFabrik,1
-248,GetsuFumaDen: Undying Moon,70.5,2,Konami Digital Entertainment,132
-248,GetsuFumaDen: Undying Moon,70.5,2,Konami,1671
-249,Fuzz Force: Spook Squad,70.0,2,Fuzz Force,1
-250,Knock on the Coffin Lid,70.0,2,RED BOON FZE LLC,1
-251,Streamer Daily,70.0,2,Mehan Games,1
-252,Soviet Jump Game,80.0,2,Game Grumps,4
-253,Card Hog,80.0,2,SnoutUp,2
-255,Undying,67.0,2,Giant Games,3
-255,Undying,67.0,2,Skystone Games,9
-256,Killsquad,72.5,2,Novarama,2
-257,Little Witch Nobeta,70.5,2,Pupuya Games,1
-257,Little Witch Nobeta,70.5,2,Idea Factory,368
-257,Little Witch Nobeta,70.5,2,"Idea Factory International, Inc.",35
-258,Ashes of Oahu,50.0,2,Wyrmbyte,4
-260,Last Oasis,60.0,2,Donkey Crew,2
-261,Odd Realm,70.0,2,Unknown Origin Games Inc,1
-262,No Time to Relax,70.0,2,Porcelain Fortress,1
-263,Pax Nova,50.0,2,Iceberg Interactive,77
-264,XO,70.0,2,Jumpdrive Studios,1
-265,Never Breakup,60.0,2,indienova,31
-266,Newfound Courage,70.0,2,Curtis Campion,1
-267,CryoFall,50.0,2,Daedalic Entertainment,96
-268,Godhood,50.0,2,Abbey Games,5
-269,Dead or School,67.5,2,Marvelous Entertainment,70
-270,This Land Is My Land,70.0,2,Game-Labs,7
-271,Blast Zone! Tournament,50.0,2,Victory Lap Games,1
-272,KurtzPel,50.0,2,KOG studios,6
-273,Blood Waves,50.0,2,Light Road Games,2
-273,Blood Waves,50.0,2,Sometimes You,104
-274,Forged Battalion,80.0,2,Team17,162
-275,Flotsam,60.0,2,Kongregate,44
-277,Flashing Lights: Police Fire EMS,50.0,2,Excalibur Games,24
-278,Witch Hunt,80.0,2,Andrii Vintsevych,5
-279,Empires in Ruins,70.0,2,Hammer&Ravens,1
-280,Dog Duty,70.0,2,SOEDESCO Publishing,55
-281,Operation Warcade VR,72.5,2,Ivanovich Games,12
-282,Crest,60.0,2,Eat Create Sleep,4
-283,The District,20.0,2,DistrictTeam,1
-284,VR Karts,57.5,2,Viewpoint Games,3
-285,Planet Centauri,60.0,2,Permadeath,1
-286,Gamma Bros,70.0,2,Pixeljam,15
-287,Project Arrhythmia,70.0,2,Top Hat Studios Inc,9
-289,Blasters of the Universe,70.0,2,The Secret Location,3
-289,Blasters of the Universe,70.0,2,Archiact,4
-290,Bombslinger,72.5,2,Plug In Digital,195
-291,Star Explorers,50.0,2,Schmidt Workshops,3
-292,Bigfoot,50.0,2,CyberLight Game Studio,1
-293,Drunkn Bar Fight,80.0,2,The Munky,1
-294,Low Magic Age,80.0,2,Low Magic Studios,1
-295,A-Tech Cybernetic,80.0,2,XREAL Games,4
-296,Production Line,60.0,2,Positech Games,13
-297,Karnage Chronicles,80.0,2,Nordic Trolls,1
-298,Post Human W.A.R,75.0,2,PLAYDIUS Ent.,2
-298,Post Human W.A.R,75.0,2,Plug In Digital,195
-300,NITE Team 4,70.0,2,Alice & Smith,5
-301,We Need to Go Deeper,80.0,2,Deli Interactive LLC,2
-302,BattleCrew: Space Pirates,35.0,2,Dontnod Eleven,1
-303,Spellsworn,80.0,2,Frogsong Studios,1
-304,Yore VR,50.0,2,Tectonic VR,1
-305,Stellar Overload,60.0,2,Cubical Drift,1
-306,Timber and Stone,50.0,2,"Games by Robert, LLC",1
-308,Exoplanet: First Contact,80.0,2,Alersteam,1
-309,Feed and Grow: Fish,60.0,2,Greens s.r.o.,1
-310,DropZone,75.0,2,Gameforge,21
-311,De Mambo,74.0,2,The Dangerous Kitchen,1
-312,Super Indie Karts,80.0,2,One Legged Seagull,1
-313,All Guns on Deck,40.0,2,Decaying Logic,3
-314,Wild Warfare,70.0,2,Hyper Hippo Entertainment,8
-315,Elea,70.0,2,SOEDESCO Publishing,55
-315,Elea,70.0,2,Kyodai,1
-316,Kingdoms Rise,50.0,2,Flyleap Studios Pty. Ltd.,1
-317,Bombernauts,80.0,2,Eyebrow Interactive,2
-318,Folk Tale,50.0,2,Games Foundry,1
-319,Gabe Newell Simulator,50.0,2,Antonio Renna,5
-320,Subaeria,57.5,2,Illogika Studios,1
-321,Dispatcher,40.0,2,CivilSavages,4
-322,Rodina,80.0,2,Elliptic Games,1
-324,Block Story,50.0,2,"MindBlocks Studio, LLC",1
-325,Prismata,70.0,2,Lunarch Studios,1
-326,Soulslinger: Envoy of Death,92.0,1,Headup Publishing,3
-327,New Star GP,80.0,1,Five Aces Publishing,3
-328,Forgive Me Father 2,70.0,1,Fulqrum Publishing,26
-329,Go-Go Town!,85.0,1,Prideful Sloth,2
-329,Go-Go Town!,85.0,1,Cult Games,4
-330,Trinity Fusion,85.0,1,Angry Mob Games,3
-331,Voltaire: The Vegan Vampire,60.0,1,Freedom Games,94
-332,Arto,35.0,1,Freedom Games,94
-333,MythForce,65.0,1,Aspyr Media,160
-334,Spiritfall,66.0,1,Gentle Giant,1
-335,Sker Ritual,60.0,1,Wales Interactive,30
-336,Lovecraft's Untold Stories 2,40.0,1,1C Entertainment,41
-337,Thy Creature,90.0,1,Growing Seeds,4
-338,Oaken,65.0,1,Goblinz Publishing,15
-339,Dread Delusion,73.0,1,Dread XP,16
-340,Mortal Sin,81.0,1,Nikola Todorovic,1
-341,Ember Knights,85.0,1,Tiny Titan Studios,4
-342,Puzzle Quest 3,60.0,1,505 Games,275
-343,Patch Quest,85.0,1,Lychee Game Labs,1
-343,Patch Quest,85.0,1,Curve Games,8
-344,Graven,75.0,1,3D Realms,39
-344,Graven,75.0,1,1C Entertainment,41
-345,Total Arcade Racing,80.0,1,Uncasual Games,4
-346,Titan Chaser,80.0,1,Stas Shostak,4
-347,Victory Road,80.0,1,Strange Journey,1
-348,Mists of Noyah,60.0,1,Pyxeralia,2
-349,Weed Farmer Simulator,50.0,1,Polyák Kristóf,1
-350,Shaolin vs Wutang 2,70.0,1,J.Bowman,1
-351,Barricadez,80.0,1,FlyPenguin,2
-352,Ultimate Zombie Defense,70.0,1,Terror Dog Studio,4
-353,Tainted Grail: The Fall of Avalon,0.0,1,Awaken Realms,8
-354,Spellsword Cards: DungeonTop,68.0,1,Qubic Games,48
-355,Mad Experiments: Escape Room,70.0,1,PlayTogether Studio,2
-356,MMORPG Tycoon 2,70.0,1,VectorStorm,1
-357,Tip of the Spear: Task Force Elite,80.0,1,Red Jake Studios,1
-358,The Yellow King,70.0,1,Spellbook,3
-359,Errant Kingdom,70.0,1,Lunaris Games,3
-360,Day of Dragons,50.0,1,Beawesome Games,3
-361,Book of Travels,66.0,1,Might and Delight,10
-362,Necronator: Dead Wrong,65.0,1,Modern Wolf,10
-363,Drift of the Hill,80.0,1,RewindApp,52
-364,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1,Vivid Helix,2
-365,Beat Blast,88.0,1,Woolly Walrus Games,1
-366,Bastide,50.0,1,MedievalNexus,1
-367,MicroTown,70.0,1,Snowy Ash Games,1
-368,Devil's Deck,60.0,1,Chengdu zhidianshidai Technology Limited company,1
-369,Neon Tail,70.0,1,Rocket Juice Games,1
-370,Onset,70.0,1,Blue Mountains,1
-371,Shadows of Doubt,80.0,1,Fireshine Games,21
-372,Sky Link,70.0,1,Odisi Games,1
-373,Ritual: Crown of Horns,75.0,1,Feardemic,22
-374,Naxia,50.0,1,Infinite8,1
-375,Ninja Legends,70.0,1,Coinflip Studios,1
-376,Axis & Allies 1942 Online,50.0,1,Beamdog,18
-377,Siege of Centauri,65.0,1,Stardock Entertainment,35
-379,Burned Land,70.0,1,Koya Game,2
-380,Road to Guangdong,50.0,1,Excalibur Games,24
-381,Winkeltje: The Little Shop,70.0,1,Sassybot,1
-382,2084,50.0,1,Feardemic,22
-383,Hotel Sowls,65.0,1,Studio Sott,1
-383,Hotel Sowls,65.0,1,CFK,23
-384,Metaverse Keeper,70.0,1,CIRCLE Entertainment,127
-385,Murder Mystery Machine,73.0,1,Microids,149
-386,Fantasy Blacksmith,50.0,1,GrabTheGames,55
-387,Deadliest Catch: The Game,45.0,1,Ultimate Games S.A.,49
-388,Blink: Rogues,65.0,1,Ultimate Games,119
-389,Pandemic Express: Zombie Escape,60.0,1,tinyBuild,114
-390,Time Warpers,70.0,1,Proton Studio Inc,4
-391,Deadside,60.0,1,Bad Pixel,1
-392,Lawless Lands,70.0,1,Corrosive Studios LLC,6
-393,Starcom: Nexus,70.0,1,Wx3 Labs,1
-394,Good Company,60.0,1,Chasing Carrots,5
-395,Black Paradox,35.0,1,Digerati Distribution,97
-395,Black Paradox,35.0,1,Tiny Games,2
-395,Black Paradox,35.0,1,Tiny Trinket Games,3
-396,Seeds of Resilience,60.0,1,Goblinz Studio,12
-396,Seeds of Resilience,60.0,1,Maple Whispering Limited,20
-396,Seeds of Resilience,60.0,1,Forever Entertainment S. A.,125
-397,Rapture Rejects,50.0,1,tinyBuild,114
-398,Melting World Online,50.0,1,Juvty Worlds Ltd.,6
-399,A Long Way Down,50.0,1,Forever Entertainment S. A.,125
-400,Adeptus Titanicus: Dominus,80.0,1,Membraine Studios,2
-401,The Hardest Dungeon,70.0,1,Pippala Games,2
-402,Find Your Way,50.0,1,OnBlind,5
-403,Newt One,70.0,1,Whitethorn Games,28
-404,The True Slime King,90.0,1,Josh Penn-Pierson,1
-405,ValeGuard,64.0,1,Lost Tower Games,1
-406,Vox Machinae,80.0,1,Space Bullet Dynamics Corporation,2
-407,Final Assault,70.0,1,Phaser Lock Interactive,4
-408,BoxVR,80.0,1,FitXR,1
-409,Sipho,70.0,1,All Parts Connected,1
+59,Eco,90.83148859315394,12,Strange Loop Games,1
+60,The Vagrant,85.76387143650447,12,O.T.K Games,1
+61,Earthfall,62.00689680303385,12,Holospark,4
+62,SpaceEngine,89.92809987401883,12,Vladimir Romanyuk,1
+64,BroodStar,89.16666666666666,11,David Schmidthoffer,1
+65,We Went Back,59.37043486935174,11,Dead Thread Games Team,2
+66,AdVenture Communist,59.89794158321573,11,Hyper Hippo Entertainment,8
+67,Another Brick in the Mall,66.85778470329305,11,The Quadsphere,2
+68,Pavlov VR,80.6610844584933,11,Vankrupt Games,1
+69,Vainglory,69.93801827775835,11,Super Evil Megacorp,2
+71,Death Must Die,79.99721216906516,10,Realm Archive,1
+72,Supremacy: The Metaverse Game,87.84260515603799,10,Ninja Syndicate,1
+73,Coral Island,75.64660493827161,10,Humble Games,49
+74,Peglin,86.15768958222841,10,Red Nexus Games Inc.,3
+75,Havocado,77.0,10,Webble Games,1
+76,Blade & Sorcery,80.05454161613338,10,WarpFrog,1
+77,"Good Pizza, Great Pizza",64.25620110828709,10,PM Studios,34
+78,Ravenfield,70.95404021222224,10,SteelRaven7,1
+79,Passpartout: The Starving Artist,59.94069549359882,10,Flamebait Games,4
+80,Serious Sam Classics: Revolution,87.61706494111856,10,Devolver Digital,195
+81,Who's Your Daddy,43.32214964721245,10,Joe Williams,1
+82,No Rest for the Wicked,79.96556164465606,9,Private Division,20
+83,Slime Rancher 2,65.9702479338843,9,Monomi Park,3
+84,Seen,54.26400260464785,9,Seen Games,1
+85,Russian Fishing 4,68.56625763972927,9,Russian Fishing,1
+86,Rico,53.13678278816184,9,Rising Star Games,132
+87,Savage Lands,59.61447578996194,9,Signal Studios,3
+87,Savage Lands,59.61447578996194,9,DigitalDNA Games LLC,4
+88,The Universim,65.72087908908081,9,Crytivo Games,3
+89,Hades II,85.0754897653551,8,Supergiant Games,6
+91,Achilles: Legends Untold,57.53421887637653,8,Dark Point Games,1
+92,Second Extinction,72.61604711117297,8,Systemic Reaction,24
+93,Craftopia,71.79325842696629,8,PocketPair,5
+94,Dinkum,83.38946077023459,8,The Irregular Corporation,14
+96,Nova Drift,39.54285714285714,8,Pixeljam,15
+97,Academia: School Simulator,69.81034505672702,8,Squeaky Wheel Studio,2
+98,Staxel,54.56949609190651,8,Humble Games,49
+98,Staxel,54.56949609190651,8,Plukit,1
+99,Oriental Empires,53.375,8,Iceberg Interactive,78
+100,ARK: Survival of the Fittest,14.66815512119835,8,Studio Wildcard,13
+101,Echo of Soul,56.72286707808303,8,Papaya Play,8
+102,Riot: Civil Unrest,50.91514610670846,8,Merge Games,78
+104,Labyrinth,81.04545454545453,8,Free Range Games,2
+105,Dead Effect 2,54.32579989842559,8,"BadFly Interactive, a.s.",3
+106,The Guild 3,59.3083623245374,8,Nordic Games Publishing,51
+107,Interstellar Marines,39.70762760263374,8,Zero Point Software,1
+108,The Coffin of Andy and Leyley,74.32765544938374,7,Kit9 Studio,1
+110,Lightyear Frontier,34.60674157303371,7,Amplifier Game Invest,1
+110,Lightyear Frontier,34.60674157303371,7,Frame Break,1
+111,Age of Darkness: Final Stand,70.80317539589043,7,Team17,164
+112,Mad Games Tycoon 2,71.13177779651197,7,Eggcode,2
+113,Foundry,86.20689655172414,7,Paradox Interactive,374
+114,Tiny Bunny,71.41721795289932,7,Saikono,1
+114,Tiny Bunny,71.41721795289932,7,Mars People Games,1
+115,Timberborn,71.91697415473745,7,Mechanistry,1
+116,Atlas,58.89921777576238,7,Grapeshot Games,1
+117,Torque Drift,90.0,7,Grease Monkey Games,1
+118,Legion TD 2,51.16048146568269,7,AutoAttack Games,1
+119,Infinite Minigolf,62.66666666666666,7,Zen Studios,69
+120,Stationeers,95.20050654284509,7,RocketWerkz,16
+121,Death Trash,68.52367872511509,7,Crafting Legends,1
+122,Grav,56.24543788632251,7,"BitMonster, Inc.",1
+123,Blockade 3D,59.81505490544451,7,Shumkov Dmitriy,2
+124,Of Guards and Thieves,58.56139364990166,7,Subvert Games,1
+125,Between Me and the Night,77.27534502733315,7,Lace Games,3
+125,Between Me and the Night,77.27534502733315,7,KISS ltd,112
+126,Project: Playtime,53.33333333333333,6,Mob Entertainment,6
+127,Yet Another Zombie Survivors,80.01239517362927,6,Awesome Games Studio,5
+128,Shatterline,79.82540790582537,6,Frag Lab LLC,1
+129,The Anacrusis,53.60345222633449,6,Stray Bombay,1
+130,Farthest Frontier,79.98012175425518,6,Crate Entertainment,4
+131,Manor Lords,71.40392597690112,6,Hooded Horse,25
+132,All Over,83.33333333333334,6,Overall adventures ltd,1
+133,Orbital Bullet,70.42121316700332,6,Assemble Entertainment,44
+134,Firestone Idle RPG,47.06422018348624,6,HolyDay Studios,1
+135,Trials of Fire,75.83333333333334,6,Whatboy Games,1
+136,War Selection,62.2308979364194,6,Glyph Worlds,3
+137,Deeeer Simulator,62.07143660752438,6,PLAYISM,131
+138,Workers & Resources: Soviet Republic,68.50416764302213,6,Hooded Horse,25
+139,Half-Life: Uplink,70.08421892086201,6,Sierra Entertainment,143
+139,Half-Life: Uplink,70.08421892086201,6,Ziff Davis Media,1
+140,Maximum Action,63.80596290181607,6,Ballon Moose Games,1
+141,Pandemic: The Board Game,61.13560829183328,6,Asmodee Digital,34
+142,PixArk,71.30528907377536,6,Snail Games,9
+143,Gene Shift Auto,69.95083232193197,6,Ben Johnson (bencelot),1
+144,Demonologist,55.71428571428571,5,Clock Wizard Games,2
+145,Nightingale,61.34468910123252,5,Inflexion Games,1
+146,Turing Complete,83.37078651685394,5,LevelHead,1
+147,Dominion,90.07874015748031,5,Temple Gates Games,5
+148,Anvil Saga,67.72131316470231,5,HeroCraft,33
+150,Population: One,96.0,5,BigBox VR,2
+151,Hokko Life,43.0,5,Team17,164
+152,Hunter's Arena: Legends,51.0809954501272,5,Matisco,1
+153,Going Medieval,61.75159575149583,5,The Irregular Corporation,14
+153,Going Medieval,61.75159575149583,5,Gramophone Games,1
+154,Dungeon of Dragon Knight,46.62921348314606,5,HexGameStudio,1
+155,Size Matters,50.84093736992634,5,GrabTheGames,55
+156,Drunken Wrestlers 2,76.0,5,Oleg Skutte,3
+157,Vegas Infinite by PokerStars,88.0,5,pokerstars,1
+157,Vegas Infinite by PokerStars,88.0,5,The Stars Group Inc.,1
+158,Scarf,66.4,5,THQ Nordic,183
+158,Scarf,66.4,5,Handy Games,4
+158,Scarf,66.4,5,HandyGames,48
+159,Among Trees,69.54784831221782,5,FJRD Interactive,1
+160,Space Haven,63.80323791759334,5,Bugbyte Ltd.,3
+161,Headsnatchers,47.78376298576376,5,Iceberg Interactive,78
+162,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Asmodee Digital,34
+163,Witchfire,49.69721893740783,5,The Astronauts,3
+164,Computer Tycoon,68.4416367775665,5,Progorion,2
+165,Desolate,76.41030041246324,5,HypeTrain Digital,47
+166,Bio Inc. Redemption,70.0,5,DryGin Studios,1
+166,Bio Inc. Redemption,70.0,5,Klabater,31
+167,AdventureQuest 3D,63.14621339834339,5,Artix Entertainment,18
+168,Paranormal Activity: The Lost Soul,69.02774897875744,5,VRWERX,1
+169,Tower Unite,80.81601636208076,5,PixelTail Games,1
+170,WWII Online,72.5,5,Cornered Rat Software,1
+171,Chime Sharp,78.16666666666666,5,Ste Curran,1
+171,Chime Sharp,78.16666666666666,5,Twistplay,1
+171,Chime Sharp,78.16666666666666,5,Chilled Mouse,8
+172,StarCrawlers,70.03088533873589,5,Juggernaut Games,1
+173,Bang-On Balls: Chronicles,80.0,4,Untold Tales,19
+174,The Long Drive,60.0,4,Genesz,2
+175,Black Skylands,80.0,4,tinyBuild,114
+176,Gamecraft,60.0,4,Freejam,3
+177,Shortest Trip to Earth,64.83333333333334,4,Iceberg Interactive,78
+178,Mist Survival,80.0,4,Rati Wattanakornprasit,1
+179,Meow Motors,65.5,4,Artvostok,1
+180,Mars Horizon,80.0,4,Auroch Digital,8
+180,Mars Horizon,80.0,4,The Irregular Corporation,14
+181,The Coin Game,70.0,4,devotid Media,3
+182,Chinese Parents,80.0,4,Coconut Island Games,16
+184,Yorkshire Gubbins,79.0,4,Stairfall Institute,2
+185,Rise to Ruins,80.0,4,SixtyGig Games,1
+186,Knockout League,76.0,4,Grab,2
+187,Long Gone Days,72.0,4,BURA,1
+188,Guild Quest,60.0,4,Hyper Hippo Entertainment,8
+189,Derail Valley,80.0,4,Altfuture,2
+190,Terroir,60.0,4,General Interactive,2
+191,Pocket Rumble,62.5,4,Chucklefish Games,21
+192,Can't Drive This,50.0,4,Pixel Maniacs,3
+193,Windscape,66.16666666666667,4,Headup Games,94
+194,Volo Airsport,50.0,4,Ramjet Anvil,1
+195,Salt,80.0,4,Lavaboots Studios,3
+196,Automation: The Car Company Tycoon Game,80.0,4,Camshaft Software,2
+197,The Way of Life,66.16795317036319,4,CyberCoconut,3
+198,Medieval Engineers,60.0,4,Keen Software House,4
+199,Secrets of Grindea,80.0,4,Pixel Ferrets,1
+200,Realms of Arkania: Star Trail,50.0,4,Sir-tech Software,22
+200,Realms of Arkania: Star Trail,50.0,4,U.S. Gold,184
+200,Realms of Arkania: Star Trail,50.0,4,Fantasy Productions,3
+200,Realms of Arkania: Star Trail,50.0,4,United Independent Entertainment GmbH,76
+201,Stranded: Alien Dawn,83.66666666666667,3,Frontier Foundry,10
+202,Power Chord,60.0,3,Big Blue Bubble,9
+203,Instruments of Destruction,87.0,3,Radiangames,5
+204,Tinker Racers,70.0,3,QUByte Interactive,104
+205,The Political Process,80.0,3,Verlumino Studios LLC,1
+206,10 Miles to Safety,80.0,3,Trickjump Games Ltd,2
+207,Hot Shot Burn,70.0,3,Artifex Mundi,97
+207,Hot Shot Burn,70.0,3,Forever Entertainment S. A.,126
+208,Quantum League,71.0,3,NGD Studios,4
+209,A Year of Rain,50.0,3,Daedalic Entertainment,97
+210,Rogue Star Rescue,70.0,3,Chute Apps Inc.,2
+211,Blazing Sails,80.0,3,Iceberg Interactive,78
+212,Mystic Vale,75.0,3,Nomad Games,15
+213,Nanotale: Typing Chronicles,65.0,3,Fishing Cactus,5
+213,Nanotale: Typing Chronicles,65.0,3,Plug In Digital,195
+213,Nanotale: Typing Chronicles,65.0,3,2PGames,5
+214,Down to Hell,45.0,3,Ultimate Games S.A.,49
+214,Down to Hell,45.0,3,Ultimate Games,121
+215,Tapsonic Bold,25.0,3,Neowiz,30
+216,Beasts of Bermuda,50.0,3,"Sastrei Studios, LLC",1
+217,Rising Hell,70.0,3,Chorus Worldwide,30
+218,The Waylanders,60.0,3,Gato Studio,1
+219,Factory Town,70.0,3,Erik Asmussen,1
+220,Deadly Days,60.0,3,Assemble Entertainment,44
+221,Clicker Heroes 2,60.0,3,Playsaurus,5
+222,Fugl,71.5,3,Kotori Studios,1
+223,Intruder,80.0,3,Superboss Games,1
+224,Cogmind,80.0,3,Grid Sage Games,2
+225,Null Vector,78.5,3,Optical Override,1
+226,Broke Protocol: Online City RPG,50.0,3,Cylinder Studios,1
+227,Guns'n'Stories: Bulletproof VR,71.5,3,MIROWIN,7
+228,CAT Interstellar,60.0,3,Ionized Games,2
+229,Head Shot,50.0,3,Indie Game Group,4
+230,UBoat,60.0,3,PlayWay S.A.,115
+231,Atomic Society,70.0,3,Far Road Games,1
+232,Pylon: Rogue,62.0,3,QuantumSquid Interactive,1
+233,Onward,80.0,3,Downpour Interactive,1
+234,Quarantine,60.0,3,505 Games,275
+235,The Spatials: Galactology,70.0,3,Wierd and Wry,2
+236,Wayward,80.0,3,Unlok,1
+237,Dreambreak,51.66666666666666,3,Beatshapers,15
+237,Dreambreak,51.66666666666666,3,Digerati Distribution,97
+238,Holodrive,79.0,3,Versus Evil,53
+239,Saurian,60.0,3,Urvogel Games,1
+240,Empires of the Undergrowth,80.0,3,Slug Disco,2
+240,Empires of the Undergrowth,80.0,3,Hooded Horse,25
+241,Wartile,70.0,3,Playwood Games ApS,1
+241,Wartile,70.0,3,Deck13 Interactive,20
+242,KeeperRL,80.0,3,Michal Brzozowski,1
+243,Project Aura,50.0,3,Pixel Quality Games,1
+244,1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby,40.0,3,"Dejobaan Games, LLC",9
+245,Rising World,80.0,3,KISS ltd,112
+247,Fabledom,83.0,2,Doyoyo Games,2
+247,Fabledom,83.0,2,Dear Villagers,27
+248,Kukoos: Lost Pets,61.5,2,PetitFabrik,1
+249,GetsuFumaDen: Undying Moon,70.5,2,Konami Digital Entertainment,132
+249,GetsuFumaDen: Undying Moon,70.5,2,Konami,1671
+250,Fuzz Force: Spook Squad,70.0,2,Fuzz Force,1
+251,Knock on the Coffin Lid,70.0,2,RED BOON FZE LLC,1
+252,Streamer Daily,70.0,2,Mehan Games,1
+253,Soviet Jump Game,80.0,2,Game Grumps,4
+254,Card Hog,80.0,2,SnoutUp,2
+256,Undying,67.0,2,Giant Games,3
+256,Undying,67.0,2,Skystone Games,9
+257,Killsquad,72.5,2,Novarama,2
+258,Little Witch Nobeta,70.5,2,Pupuya Games,1
+258,Little Witch Nobeta,70.5,2,Idea Factory,368
+258,Little Witch Nobeta,70.5,2,"Idea Factory International, Inc.",35
+259,Ashes of Oahu,50.0,2,Wyrmbyte,4
+261,Last Oasis,60.0,2,Donkey Crew,2
+262,Odd Realm,70.0,2,Unknown Origin Games Inc,1
+263,No Time to Relax,70.0,2,Porcelain Fortress,1
+264,Pax Nova,50.0,2,Iceberg Interactive,78
+265,XO,70.0,2,Jumpdrive Studios,1
+266,Never Breakup,60.0,2,indienova,31
+267,Newfound Courage,70.0,2,Curtis Campion,1
+268,CryoFall,50.0,2,Daedalic Entertainment,97
+269,Godhood,50.0,2,Abbey Games,5
+270,Dead or School,67.5,2,Marvelous Entertainment,70
+271,This Land Is My Land,70.0,2,Game-Labs,7
+272,Blast Zone! Tournament,50.0,2,Victory Lap Games,1
+273,KurtzPel,50.0,2,KOG studios,6
+274,Blood Waves,50.0,2,Light Road Games,2
+274,Blood Waves,50.0,2,Sometimes You,106
+275,Forged Battalion,80.0,2,Team17,164
+276,Flotsam,60.0,2,Kongregate,44
+278,Flashing Lights: Police Fire EMS,50.0,2,Excalibur Games,24
+279,Witch Hunt,80.0,2,Andrii Vintsevych,5
+280,Empires in Ruins,70.0,2,Hammer&Ravens,1
+281,Dog Duty,70.0,2,SOEDESCO Publishing,55
+282,Operation Warcade VR,72.5,2,Ivanovich Games,12
+283,Crest,60.0,2,Eat Create Sleep,4
+284,The District,20.0,2,DistrictTeam,1
+285,VR Karts,57.5,2,Viewpoint Games,3
+286,Planet Centauri,60.0,2,Permadeath,1
+287,Gamma Bros,70.0,2,Pixeljam,15
+288,Project Arrhythmia,70.0,2,Top Hat Studios Inc,9
+290,Blasters of the Universe,70.0,2,The Secret Location,3
+290,Blasters of the Universe,70.0,2,Archiact,4
+291,Bombslinger,72.5,2,Plug In Digital,195
+292,Star Explorers,50.0,2,Schmidt Workshops,3
+293,Bigfoot,50.0,2,CyberLight Game Studio,1
+294,Drunkn Bar Fight,80.0,2,The Munky,1
+295,Brick Rigs,60.0,2,Fluppisoft,1
+296,Low Magic Age,80.0,2,Low Magic Studios,1
+297,A-Tech Cybernetic,80.0,2,XREAL Games,4
+298,Production Line,60.0,2,Positech Games,13
+299,Karnage Chronicles,80.0,2,Nordic Trolls,1
+300,Post Human W.A.R,75.0,2,PLAYDIUS Ent.,2
+300,Post Human W.A.R,75.0,2,Plug In Digital,195
+302,NITE Team 4,70.0,2,Alice & Smith,5
+303,We Need to Go Deeper,80.0,2,Deli Interactive LLC,2
+304,BattleCrew: Space Pirates,35.0,2,Dontnod Eleven,1
+305,Spellsworn,80.0,2,Frogsong Studios,1
+306,Yore VR,50.0,2,Tectonic VR,1
+307,Stellar Overload,60.0,2,Cubical Drift,1
+308,Timber and Stone,50.0,2,"Games by Robert, LLC",1
+310,Exoplanet: First Contact,80.0,2,Alersteam,1
+311,Feed and Grow: Fish,60.0,2,Greens s.r.o.,1
+312,DropZone,75.0,2,Gameforge,21
+313,De Mambo,74.0,2,The Dangerous Kitchen,1
+314,Super Indie Karts,80.0,2,One Legged Seagull,1
+315,All Guns on Deck,40.0,2,Decaying Logic,3
+316,Wild Warfare,70.0,2,Hyper Hippo Entertainment,8
+317,Elea,70.0,2,SOEDESCO Publishing,55
+317,Elea,70.0,2,Kyodai,1
+318,Kingdoms Rise,50.0,2,Flyleap Studios Pty. Ltd.,1
+319,Bombernauts,80.0,2,Eyebrow Interactive,2
+320,Folk Tale,50.0,2,Games Foundry,1
+321,Gabe Newell Simulator,50.0,2,Antonio Renna,5
+322,Subaeria,57.5,2,Illogika Studios,1
+323,Dispatcher,40.0,2,CivilSavages,4
+324,Rodina,80.0,2,Elliptic Games,1
+326,Block Story,50.0,2,"MindBlocks Studio, LLC",1
+327,Prismata,70.0,2,Lunarch Studios,1
+328,Soulslinger: Envoy of Death,92.0,1,Headup Publishing,3
+329,New Star GP,80.0,1,Five Aces Publishing,3
+330,Forgive Me Father 2,70.0,1,Fulqrum Publishing,26
+331,Go-Go Town!,85.0,1,Prideful Sloth,2
+331,Go-Go Town!,85.0,1,Cult Games,4
+332,Trinity Fusion,85.0,1,Angry Mob Games,3
+333,Voltaire: The Vegan Vampire,60.0,1,Freedom Games,94
+334,Arto,35.0,1,Freedom Games,94
+335,MythForce,65.0,1,Aspyr Media,160
+336,Spiritfall,66.0,1,Gentle Giant,1
+337,Sker Ritual,60.0,1,Wales Interactive,30
+338,Lovecraft's Untold Stories 2,40.0,1,1C Entertainment,41
+339,Thy Creature,90.0,1,Growing Seeds,4
+340,Oaken,65.0,1,Goblinz Publishing,15
+341,Dread Delusion,73.0,1,Dread XP,16
+342,Mortal Sin,81.0,1,Nikola Todorovic,1
+343,Ember Knights,85.0,1,Tiny Titan Studios,4
+344,Puzzle Quest 3,60.0,1,505 Games,275
+345,Patch Quest,85.0,1,Lychee Game Labs,1
+345,Patch Quest,85.0,1,Curve Games,8
+346,Graven,75.0,1,3D Realms,39
+346,Graven,75.0,1,1C Entertainment,41
+347,Total Arcade Racing,80.0,1,Uncasual Games,4
+348,Titan Chaser,80.0,1,Stas Shostak,4
+349,Victory Road,80.0,1,Strange Journey,1
+350,Mists of Noyah,60.0,1,Pyxeralia,2
+351,Weed Farmer Simulator,50.0,1,Polyák Kristóf,1
+352,Shaolin vs Wutang 2,70.0,1,J.Bowman,1
+353,Barricadez,80.0,1,FlyPenguin,2
+354,Ultimate Zombie Defense,70.0,1,Terror Dog Studio,4
+355,Tainted Grail: The Fall of Avalon,0.0,1,Awaken Realms,8
+356,Spellsword Cards: DungeonTop,68.0,1,Qubic Games,48
+357,Mad Experiments: Escape Room,70.0,1,PlayTogether Studio,2
+358,MMORPG Tycoon 2,70.0,1,VectorStorm,1
+359,Tip of the Spear: Task Force Elite,80.0,1,Red Jake Studios,1
+360,The Yellow King,70.0,1,Spellbook,3
+361,Errant Kingdom,70.0,1,Lunaris Games,3
+362,Day of Dragons,50.0,1,Beawesome Games,3
+363,Book of Travels,66.0,1,Might and Delight,10
+364,Necronator: Dead Wrong,65.0,1,Modern Wolf,10
+365,Drift of the Hill,80.0,1,RewindApp,52
+366,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1,Vivid Helix,2
+367,Beat Blast,88.0,1,Woolly Walrus Games,1
+368,Bastide,50.0,1,MedievalNexus,1
+369,MicroTown,70.0,1,Snowy Ash Games,1
+370,Devil's Deck,60.0,1,Chengdu zhidianshidai Technology Limited company,1
+371,Neon Tail,70.0,1,Rocket Juice Games,1
+372,Onset,70.0,1,Blue Mountains,1
+373,Shadows of Doubt,80.0,1,Fireshine Games,21
+374,Sky Link,70.0,1,Odisi Games,1
+375,Ritual: Crown of Horns,75.0,1,Feardemic,22
+376,Naxia,50.0,1,Infinite8,1
+377,Ninja Legends,70.0,1,Coinflip Studios,1
+378,Axis & Allies 1942 Online,50.0,1,Beamdog,18
+379,Siege of Centauri,65.0,1,Stardock Entertainment,35
+381,Burned Land,70.0,1,Koya Game,2
+382,Road to Guangdong,50.0,1,Excalibur Games,24
+383,Winkeltje: The Little Shop,70.0,1,Sassybot,1
+384,Cat and Ghostly Road,70.0,1,Sometimes You,106
+385,2084,50.0,1,Feardemic,22
+386,Hotel Sowls,65.0,1,Studio Sott,1
+386,Hotel Sowls,65.0,1,CFK,23
+387,Metaverse Keeper,70.0,1,CIRCLE Entertainment,127
+388,Murder Mystery Machine,73.0,1,Microids,150
+389,Fantasy Blacksmith,50.0,1,GrabTheGames,55
+390,Deadliest Catch: The Game,45.0,1,Ultimate Games S.A.,49
+391,Blink: Rogues,65.0,1,Ultimate Games,121
+392,Pandemic Express: Zombie Escape,60.0,1,tinyBuild,114
+393,Time Warpers,70.0,1,Proton Studio Inc,4
+394,Deadside,60.0,1,Bad Pixel,1
+395,Lawless Lands,70.0,1,Corrosive Studios LLC,6
+396,Starcom: Nexus,70.0,1,Wx3 Labs,1
+397,Good Company,60.0,1,Chasing Carrots,5
+398,Black Paradox,35.0,1,Digerati Distribution,97
+398,Black Paradox,35.0,1,Tiny Games,2
+398,Black Paradox,35.0,1,Tiny Trinket Games,3
+399,Seeds of Resilience,60.0,1,Goblinz Studio,12
+399,Seeds of Resilience,60.0,1,Maple Whispering Limited,20
+399,Seeds of Resilience,60.0,1,Forever Entertainment S. A.,126
+400,Rapture Rejects,50.0,1,tinyBuild,114
+401,Melting World Online,50.0,1,Juvty Worlds Ltd.,6
+402,A Long Way Down,50.0,1,Forever Entertainment S. A.,126
+403,Adeptus Titanicus: Dominus,80.0,1,Membraine Studios,2
+404,The Hardest Dungeon,70.0,1,Pippala Games,2
+405,Find Your Way,50.0,1,OnBlind,5
+406,Newt One,70.0,1,Whitethorn Games,28
+407,The True Slime King,90.0,1,Josh Penn-Pierson,1
+408,ValeGuard,64.0,1,Lost Tower Games,1
+409,Vox Machinae,80.0,1,Space Bullet Dynamics Corporation,2
+410,Final Assault,70.0,1,Phaser Lock Interactive,4
+411,BoxVR,80.0,1,FitXR,1
+412,Sipho,70.0,1,All Parts Connected,1

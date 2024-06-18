@@ -1,12 +1,12 @@
 ,Title,Average Score,Score Count,Genres
-0,Valheim,87.99313343606723,165,Role-playing (RPG)
-0,Valheim,87.99313343606723,165,Adventure
-0,Valheim,87.99313343606723,165,Indie
-1,Palworld,70.72620269412138,162,Shooter
-1,Palworld,70.72620269412138,162,Role-playing (RPG)
-1,Palworld,70.72620269412138,162,Hack and slash/Beat 'em up
-1,Palworld,70.72620269412138,162,Adventure
-1,Palworld,70.72620269412138,162,Indie
+0,Valheim,87.99375260840064,166,Role-playing (RPG)
+0,Valheim,87.99375260840064,166,Adventure
+0,Valheim,87.99375260840064,166,Indie
+1,Palworld,70.71082919086297,163,Shooter
+1,Palworld,70.71082919086297,163,Role-playing (RPG)
+1,Palworld,70.71082919086297,163,Hack and slash/Beat 'em up
+1,Palworld,70.71082919086297,163,Adventure
+1,Palworld,70.71082919086297,163,Indie
 2,7 Days to Die,54.10697216625002,141,Shooter
 2,7 Days to Die,54.10697216625002,141,Role-playing (RPG)
 2,7 Days to Die,54.10697216625002,141,Simulator
@@ -47,12 +47,12 @@
 14,Ultrakill,85.29712890792595,35,Platform
 14,Ultrakill,85.29712890792595,35,Indie
 14,Ultrakill,85.29712890792595,35,Arcade
-15,My Summer Car,70.096623595826,34,Racing
-15,My Summer Car,70.096623595826,34,Simulator
-15,My Summer Car,70.096623595826,34,Sport
-15,My Summer Car,70.096623595826,34,Indie
-16,V Rising,84.82082498695354,33,Role-playing (RPG)
-16,V Rising,84.82082498695354,33,Adventure
+15,V Rising,84.48749165362021,34,Role-playing (RPG)
+15,V Rising,84.48749165362021,34,Adventure
+16,My Summer Car,70.096623595826,34,Racing
+16,My Summer Car,70.096623595826,34,Simulator
+16,My Summer Car,70.096623595826,34,Sport
+16,My Summer Car,70.096623595826,34,Indie
 17,Dark and Darker,72.08843031971311,29,Shooter
 17,Dark and Darker,72.08843031971311,29,Role-playing (RPG)
 17,Dark and Darker,72.08843031971311,29,Tactical
@@ -71,8 +71,8 @@
 21,Project: Gorgon,76.94138297165841,26,Indie
 22,Universe Sandbox,81.69742305725927,26,Simulator
 22,Universe Sandbox,81.69742305725927,26,Indie
-23,Enshrouded,78.50799614430261,23,Role-playing (RPG)
-23,Enshrouded,78.50799614430261,23,Adventure
+23,Enshrouded,78.45473297130495,24,Role-playing (RPG)
+23,Enshrouded,78.45473297130495,24,Adventure
 24,NFUT Cards,94.78260869565217,23,Simulator
 24,NFUT Cards,94.78260869565217,23,Sport
 24,NFUT Cards,94.78260869565217,23,Strategy
@@ -199,1126 +199,1135 @@
 58,Core Keeper,60.7937433820678,12,Role-playing (RPG)
 58,Core Keeper,60.7937433820678,12,Adventure
 58,Core Keeper,60.7937433820678,12,Indie
-59,The Vagrant,85.76387143650447,12,Role-playing (RPG)
-59,The Vagrant,85.76387143650447,12,Adventure
-59,The Vagrant,85.76387143650447,12,Indie
-60,Earthfall,62.00689680303385,12,Shooter
-60,Earthfall,62.00689680303385,12,Adventure
-61,SpaceEngine,89.92809987401883,12,Simulator
-61,SpaceEngine,89.92809987401883,12,Indie
-62,Gloam,92.5925925925926,11,Indie
-62,Gloam,92.5925925925926,11,Arcade
-63,We Went Back,59.37043486935174,11,Puzzle
-63,We Went Back,59.37043486935174,11,Adventure
-63,We Went Back,59.37043486935174,11,Indie
-64,Eco,91.56719640004408,11,Simulator
-64,Eco,91.56719640004408,11,Adventure
-64,Eco,91.56719640004408,11,Indie
-65,AdVenture Communist,59.89794158321573,11,Simulator
-65,AdVenture Communist,59.89794158321573,11,Strategy
-65,AdVenture Communist,59.89794158321573,11,Indie
-66,Another Brick in the Mall,66.85778470329305,11,Simulator
-66,Another Brick in the Mall,66.85778470329305,11,Strategy
-66,Another Brick in the Mall,66.85778470329305,11,Indie
-67,Pavlov VR,80.6610844584933,11,Shooter
-67,Pavlov VR,80.6610844584933,11,Indie
-68,Vainglory,69.93801827775835,11,MOBA
-69,Suck Up!,81.21951219512195,10,Role-playing (RPG)
-69,Suck Up!,81.21951219512195,10,Indie
-70,Death Must Die,79.99721216906516,10,Role-playing (RPG)
-70,Death Must Die,79.99721216906516,10,Indie
-71,Supremacy: The Metaverse Game,87.84260515603799,10,Fighting
-71,Supremacy: The Metaverse Game,87.84260515603799,10,Real Time Strategy (RTS)
-71,Supremacy: The Metaverse Game,87.84260515603799,10,Simulator
-71,Supremacy: The Metaverse Game,87.84260515603799,10,Strategy
-71,Supremacy: The Metaverse Game,87.84260515603799,10,Tactical
-72,Coral Island,75.64660493827161,10,Role-playing (RPG)
-72,Coral Island,75.64660493827161,10,Simulator
-72,Coral Island,75.64660493827161,10,Strategy
-72,Coral Island,75.64660493827161,10,Adventure
-72,Coral Island,75.64660493827161,10,Indie
-73,Peglin,86.15768958222841,10,Puzzle
-73,Peglin,86.15768958222841,10,Strategy
-73,Peglin,86.15768958222841,10,Indie
-73,Peglin,86.15768958222841,10,Arcade
-74,Havocado,77.0,10,Indie
-75,Blade & Sorcery,80.05454161613338,10,Role-playing (RPG)
-75,Blade & Sorcery,80.05454161613338,10,Simulator
-75,Blade & Sorcery,80.05454161613338,10,Adventure
-75,Blade & Sorcery,80.05454161613338,10,Indie
-76,"Good Pizza, Great Pizza",64.25620110828709,10,Simulator
-76,"Good Pizza, Great Pizza",64.25620110828709,10,Strategy
-76,"Good Pizza, Great Pizza",64.25620110828709,10,Indie
-76,"Good Pizza, Great Pizza",64.25620110828709,10,Arcade
-77,Ravenfield,70.95404021222224,10,Shooter
-77,Ravenfield,70.95404021222224,10,Indie
-78,Passpartout: The Starving Artist,59.94069549359882,10,Simulator
-78,Passpartout: The Starving Artist,59.94069549359882,10,Adventure
-78,Passpartout: The Starving Artist,59.94069549359882,10,Indie
-79,Serious Sam Classics: Revolution,87.61706494111856,10,Shooter
-79,Serious Sam Classics: Revolution,87.61706494111856,10,Indie
-80,Who's Your Daddy,43.32214964721245,10,Simulator
-80,Who's Your Daddy,43.32214964721245,10,Indie
-81,No Rest for the Wicked,79.96556164465606,9,Role-playing (RPG)
-81,No Rest for the Wicked,79.96556164465606,9,Strategy
-82,Slime Rancher 2,65.9702479338843,9,Shooter
-82,Slime Rancher 2,65.9702479338843,9,Simulator
-82,Slime Rancher 2,65.9702479338843,9,Adventure
-82,Slime Rancher 2,65.9702479338843,9,Indie
-83,Seen,54.26400260464785,9,Platform
-83,Seen,54.26400260464785,9,Puzzle
-83,Seen,54.26400260464785,9,Adventure
-83,Seen,54.26400260464785,9,Indie
-84,Russian Fishing 4,68.56625763972927,9,Role-playing (RPG)
-84,Russian Fishing 4,68.56625763972927,9,Simulator
-84,Russian Fishing 4,68.56625763972927,9,Sport
-84,Russian Fishing 4,68.56625763972927,9,Adventure
-85,Rico,53.13678278816184,9,Shooter
-85,Rico,53.13678278816184,9,Indie
-85,Rico,53.13678278816184,9,Arcade
-86,Savage Lands,59.61447578996194,9,Role-playing (RPG)
-86,Savage Lands,59.61447578996194,9,Adventure
-86,Savage Lands,59.61447578996194,9,Indie
-87,The Universim,65.72087908908081,9,Simulator
-87,The Universim,65.72087908908081,9,Strategy
-87,The Universim,65.72087908908081,9,Indie
-88,Hades II,85.0754897653551,8,Role-playing (RPG)
-88,Hades II,85.0754897653551,8,Adventure
-88,Hades II,85.0754897653551,8,Indie
-89,Big Time,87.05882352941175,8,Role-playing (RPG)
-89,Big Time,87.05882352941175,8,Adventure
-90,Achilles: Legends Untold,57.53421887637653,8,Role-playing (RPG)
-90,Achilles: Legends Untold,57.53421887637653,8,Hack and slash/Beat 'em up
-90,Achilles: Legends Untold,57.53421887637653,8,Indie
-91,Second Extinction,72.61604711117297,8,Shooter
-92,Craftopia,71.79325842696629,8,Role-playing (RPG)
-92,Craftopia,71.79325842696629,8,Hack and slash/Beat 'em up
-92,Craftopia,71.79325842696629,8,Adventure
-92,Craftopia,71.79325842696629,8,Indie
-93,Dinkum,83.38946077023459,8,Role-playing (RPG)
-93,Dinkum,83.38946077023459,8,Simulator
-93,Dinkum,83.38946077023459,8,Indie
-94,Foundation,63.68350171809344,8,Simulator
-94,Foundation,63.68350171809344,8,Strategy
-94,Foundation,63.68350171809344,8,Indie
-95,Nova Drift,39.54285714285714,8,Indie
-95,Nova Drift,39.54285714285714,8,Arcade
-96,Academia: School Simulator,69.81034505672702,8,Simulator
-96,Academia: School Simulator,69.81034505672702,8,Strategy
-96,Academia: School Simulator,69.81034505672702,8,Indie
-97,Staxel,54.56949609190651,8,Role-playing (RPG)
-97,Staxel,54.56949609190651,8,Simulator
-97,Staxel,54.56949609190651,8,Indie
-98,Oriental Empires,53.375,8,Simulator
-98,Oriental Empires,53.375,8,Strategy
-98,Oriental Empires,53.375,8,Indie
-99,ARK: Survival of the Fittest,14.66815512119835,8,Shooter
-99,ARK: Survival of the Fittest,14.66815512119835,8,Role-playing (RPG)
-99,ARK: Survival of the Fittest,14.66815512119835,8,Strategy
-99,ARK: Survival of the Fittest,14.66815512119835,8,Adventure
-99,ARK: Survival of the Fittest,14.66815512119835,8,Indie
-100,Echo of Soul,56.72286707808303,8,Role-playing (RPG)
-101,Riot: Civil Unrest,50.91514610670846,8,Simulator
-101,Riot: Civil Unrest,50.91514610670846,8,Strategy
-101,Riot: Civil Unrest,50.91514610670846,8,Indie
-102,Overpower,70.17241379310346,8,Role-playing (RPG)
-102,Overpower,70.17241379310346,8,Indie
-103,Labyrinth,81.04545454545453,8,Role-playing (RPG)
-103,Labyrinth,81.04545454545453,8,Strategy
-103,Labyrinth,81.04545454545453,8,Indie
-104,Dead Effect 2,54.32579989842559,8,Shooter
-104,Dead Effect 2,54.32579989842559,8,Role-playing (RPG)
-104,Dead Effect 2,54.32579989842559,8,Indie
-105,The Guild 3,59.3083623245374,8,Role-playing (RPG)
-105,The Guild 3,59.3083623245374,8,Simulator
-105,The Guild 3,59.3083623245374,8,Strategy
-106,Interstellar Marines,39.70762760263374,8,Shooter
-106,Interstellar Marines,39.70762760263374,8,Role-playing (RPG)
-106,Interstellar Marines,39.70762760263374,8,Simulator
-106,Interstellar Marines,39.70762760263374,8,Tactical
-106,Interstellar Marines,39.70762760263374,8,Indie
-107,The Coffin of Andy and Leyley,74.32765544938374,7,Role-playing (RPG)
-107,The Coffin of Andy and Leyley,74.32765544938374,7,Adventure
-107,The Coffin of Andy and Leyley,74.32765544938374,7,Visual Novel
-108,Soulstone Survivors,74.81166094561975,7,Role-playing (RPG)
-108,Soulstone Survivors,74.81166094561975,7,Hack and slash/Beat 'em up
-108,Soulstone Survivors,74.81166094561975,7,Indie
-108,Soulstone Survivors,74.81166094561975,7,Arcade
-109,Lightyear Frontier,34.60674157303371,7,Simulator
-109,Lightyear Frontier,34.60674157303371,7,Adventure
-109,Lightyear Frontier,34.60674157303371,7,Indie
-110,Age of Darkness: Final Stand,70.80317539589043,7,Real Time Strategy (RTS)
-110,Age of Darkness: Final Stand,70.80317539589043,7,Strategy
-111,Mad Games Tycoon 2,71.13177779651197,7,Simulator
-111,Mad Games Tycoon 2,71.13177779651197,7,Strategy
-111,Mad Games Tycoon 2,71.13177779651197,7,Indie
-112,Foundry,86.20689655172414,7,Simulator
-112,Foundry,86.20689655172414,7,Strategy
-112,Foundry,86.20689655172414,7,Indie
-113,Tiny Bunny,71.41721795289932,7,Adventure
-113,Tiny Bunny,71.41721795289932,7,Indie
-113,Tiny Bunny,71.41721795289932,7,Visual Novel
-114,Timberborn,71.91697415473745,7,Simulator
-114,Timberborn,71.91697415473745,7,Strategy
-114,Timberborn,71.91697415473745,7,Indie
-115,Atlas,58.89921777576238,7,Role-playing (RPG)
-115,Atlas,58.89921777576238,7,Adventure
-116,Torque Drift,90.0,7,Racing
-116,Torque Drift,90.0,7,Sport
-117,Legion TD 2,51.16048146568269,7,Real Time Strategy (RTS)
-117,Legion TD 2,51.16048146568269,7,Strategy
-117,Legion TD 2,51.16048146568269,7,Indie
-118,Infinite Minigolf,62.66666666666666,7,Simulator
-118,Infinite Minigolf,62.66666666666666,7,Sport
-118,Infinite Minigolf,62.66666666666666,7,Indie
-118,Infinite Minigolf,62.66666666666666,7,Arcade
-119,Stationeers,95.20050654284509,7,Simulator
-119,Stationeers,95.20050654284509,7,Indie
-120,Death Trash,68.52367872511509,7,Role-playing (RPG)
-120,Death Trash,68.52367872511509,7,Adventure
-120,Death Trash,68.52367872511509,7,Indie
-121,Grav,56.24543788632251,7,Shooter
-121,Grav,56.24543788632251,7,Role-playing (RPG)
-121,Grav,56.24543788632251,7,Adventure
-121,Grav,56.24543788632251,7,Indie
-122,Blockade 3D,59.81505490544451,7,Shooter
-123,Of Guards and Thieves,58.56139364990166,7,Racing
-123,Of Guards and Thieves,58.56139364990166,7,Strategy
-123,Of Guards and Thieves,58.56139364990166,7,Indie
-124,Between Me and the Night,77.27534502733315,7,Adventure
-124,Between Me and the Night,77.27534502733315,7,Indie
-125,Project: Playtime,53.33333333333333,6,Indie
-126,Yet Another Zombie Survivors,80.01239517362927,6,Role-playing (RPG)
-126,Yet Another Zombie Survivors,80.01239517362927,6,Indie
-127,Shatterline,79.82540790582537,6,Shooter
-128,The Anacrusis,53.60345222633449,6,Shooter
-128,The Anacrusis,53.60345222633449,6,Adventure
-128,The Anacrusis,53.60345222633449,6,Indie
-129,Farthest Frontier,79.98012175425518,6,Simulator
-129,Farthest Frontier,79.98012175425518,6,Strategy
-129,Farthest Frontier,79.98012175425518,6,Indie
-130,All Over,83.33333333333334,6,Puzzle
-130,All Over,83.33333333333334,6,Role-playing (RPG)
-130,All Over,83.33333333333334,6,Adventure
-130,All Over,83.33333333333334,6,Indie
-131,Orbital Bullet,70.42121316700332,6,Shooter
-131,Orbital Bullet,70.42121316700332,6,Platform
-131,Orbital Bullet,70.42121316700332,6,Hack and slash/Beat 'em up
-131,Orbital Bullet,70.42121316700332,6,Adventure
-131,Orbital Bullet,70.42121316700332,6,Indie
-131,Orbital Bullet,70.42121316700332,6,Arcade
-132,Firestone Idle RPG,47.06422018348624,6,Role-playing (RPG)
-132,Firestone Idle RPG,47.06422018348624,6,Simulator
-132,Firestone Idle RPG,47.06422018348624,6,Adventure
-132,Firestone Idle RPG,47.06422018348624,6,Indie
-133,Trials of Fire,75.83333333333334,6,Role-playing (RPG)
-133,Trials of Fire,75.83333333333334,6,Strategy
-133,Trials of Fire,75.83333333333334,6,Indie
-134,War Selection,62.2308979364194,6,Strategy
-134,War Selection,62.2308979364194,6,Indie
-135,Deeeer Simulator,62.07143660752438,6,Simulator
-135,Deeeer Simulator,62.07143660752438,6,Indie
-136,Workers & Resources: Soviet Republic,68.50416764302213,6,Simulator
-136,Workers & Resources: Soviet Republic,68.50416764302213,6,Strategy
-136,Workers & Resources: Soviet Republic,68.50416764302213,6,Indie
-137,Half-Life: Uplink,70.08421892086201,6,Shooter
-138,Maximum Action,63.80596290181607,6,Shooter
-138,Maximum Action,63.80596290181607,6,Indie
-139,Pandemic: The Board Game,61.13560829183328,6,Simulator
-139,Pandemic: The Board Game,61.13560829183328,6,Strategy
-140,PixArk,71.30528907377536,6,Shooter
-140,PixArk,71.30528907377536,6,Role-playing (RPG)
-140,PixArk,71.30528907377536,6,Strategy
-140,PixArk,71.30528907377536,6,Adventure
-141,Gene Shift Auto,69.95083232193197,6,Shooter
-141,Gene Shift Auto,69.95083232193197,6,Role-playing (RPG)
-141,Gene Shift Auto,69.95083232193197,6,Adventure
-141,Gene Shift Auto,69.95083232193197,6,Indie
-142,Demonologist,55.71428571428571,5,Puzzle
-142,Demonologist,55.71428571428571,5,Simulator
-142,Demonologist,55.71428571428571,5,Adventure
-142,Demonologist,55.71428571428571,5,Indie
-143,Nightingale,61.34468910123252,5,Role-playing (RPG)
-143,Nightingale,61.34468910123252,5,Adventure
-144,Turing Complete,83.37078651685394,5,Puzzle
-144,Turing Complete,83.37078651685394,5,Simulator
-145,Dominion,90.07874015748031,5,Strategy
-145,Dominion,90.07874015748031,5,Card & Board Game
-146,Anvil Saga,67.72131316470231,5,Role-playing (RPG)
-146,Anvil Saga,67.72131316470231,5,Simulator
-146,Anvil Saga,67.72131316470231,5,Indie
-147,IdleOn: The Idle MMO,60.14821496751836,5,Point-and-click
-147,IdleOn: The Idle MMO,60.14821496751836,5,Role-playing (RPG)
-147,IdleOn: The Idle MMO,60.14821496751836,5,Simulator
-147,IdleOn: The Idle MMO,60.14821496751836,5,Strategy
-147,IdleOn: The Idle MMO,60.14821496751836,5,Indie
-148,Population: One,96.0,5,Shooter
-148,Population: One,96.0,5,Arcade
-149,Manor Lords,70.82163789842319,5,Real Time Strategy (RTS)
-149,Manor Lords,70.82163789842319,5,Strategy
-150,Hokko Life,43.0,5,Role-playing (RPG)
-150,Hokko Life,43.0,5,Simulator
-150,Hokko Life,43.0,5,Adventure
-150,Hokko Life,43.0,5,Indie
-151,Hunter's Arena: Legends,51.0809954501272,5,Role-playing (RPG)
-151,Hunter's Arena: Legends,51.0809954501272,5,Strategy
-151,Hunter's Arena: Legends,51.0809954501272,5,Adventure
-152,Going Medieval,61.75159575149583,5,Role-playing (RPG)
-152,Going Medieval,61.75159575149583,5,Simulator
-152,Going Medieval,61.75159575149583,5,Strategy
-152,Going Medieval,61.75159575149583,5,Indie
-153,Dungeon of Dragon Knight,46.62921348314606,5,Role-playing (RPG)
-153,Dungeon of Dragon Knight,46.62921348314606,5,Strategy
-153,Dungeon of Dragon Knight,46.62921348314606,5,Adventure
-153,Dungeon of Dragon Knight,46.62921348314606,5,Indie
-154,Size Matters,50.84093736992634,5,Racing
-154,Size Matters,50.84093736992634,5,Simulator
-154,Size Matters,50.84093736992634,5,Adventure
-154,Size Matters,50.84093736992634,5,Indie
-155,Drunken Wrestlers 2,76.0,5,Simulator
-155,Drunken Wrestlers 2,76.0,5,Sport
-155,Drunken Wrestlers 2,76.0,5,Indie
-156,Vegas Infinite by PokerStars,88.0,5,Strategy
-156,Vegas Infinite by PokerStars,88.0,5,Card & Board Game
-157,Scarf,66.4,5,Platform
-157,Scarf,66.4,5,Role-playing (RPG)
-157,Scarf,66.4,5,Strategy
-157,Scarf,66.4,5,Adventure
-157,Scarf,66.4,5,Indie
-158,Among Trees,69.54784831221782,5,Simulator
-158,Among Trees,69.54784831221782,5,Adventure
-158,Among Trees,69.54784831221782,5,Indie
-159,Space Haven,63.80323791759334,5,Role-playing (RPG)
-159,Space Haven,63.80323791759334,5,Simulator
-159,Space Haven,63.80323791759334,5,Strategy
-159,Space Haven,63.80323791759334,5,Indie
-160,Headsnatchers,47.78376298576376,5,Sport
-160,Headsnatchers,47.78376298576376,5,Indie
-161,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Role-playing (RPG)
-161,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Strategy
-161,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Turn-based strategy (TBS)
-161,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Adventure
-161,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Card & Board Game
-162,Witchfire,49.69721893740783,5,Shooter
-162,Witchfire,49.69721893740783,5,Adventure
-163,Computer Tycoon,68.4416367775665,5,Simulator
-163,Computer Tycoon,68.4416367775665,5,Strategy
-163,Computer Tycoon,68.4416367775665,5,Indie
-164,Desolate,76.41030041246324,5,Role-playing (RPG)
-164,Desolate,76.41030041246324,5,Adventure
-164,Desolate,76.41030041246324,5,Indie
-165,Bio Inc. Redemption,70.0,5,Puzzle
-165,Bio Inc. Redemption,70.0,5,Simulator
-165,Bio Inc. Redemption,70.0,5,Strategy
-165,Bio Inc. Redemption,70.0,5,Indie
-166,AdventureQuest 3D,63.14621339834339,5,Role-playing (RPG)
-166,AdventureQuest 3D,63.14621339834339,5,Adventure
-166,AdventureQuest 3D,63.14621339834339,5,Indie
-167,Paranormal Activity: The Lost Soul,69.02774897875744,5,Role-playing (RPG)
-167,Paranormal Activity: The Lost Soul,69.02774897875744,5,Adventure
-168,Tower Unite,80.81601636208076,5,Racing
-168,Tower Unite,80.81601636208076,5,Adventure
-168,Tower Unite,80.81601636208076,5,Indie
-168,Tower Unite,80.81601636208076,5,Arcade
-169,WWII Online,72.5,5,Shooter
-169,WWII Online,72.5,5,Role-playing (RPG)
-169,WWII Online,72.5,5,Simulator
-169,WWII Online,72.5,5,Strategy
-169,WWII Online,72.5,5,Indie
-170,Chime Sharp,78.16666666666666,5,Music
-170,Chime Sharp,78.16666666666666,5,Puzzle
-170,Chime Sharp,78.16666666666666,5,Arcade
-171,StarCrawlers,70.03088533873589,5,Role-playing (RPG)
-171,StarCrawlers,70.03088533873589,5,Adventure
-171,StarCrawlers,70.03088533873589,5,Indie
-172,Bang-On Balls: Chronicles,80.0,4,Platform
-172,Bang-On Balls: Chronicles,80.0,4,Adventure
-172,Bang-On Balls: Chronicles,80.0,4,Indie
-172,Bang-On Balls: Chronicles,80.0,4,Arcade
-173,The Long Drive,60.0,4,Simulator
-173,The Long Drive,60.0,4,Adventure
-173,The Long Drive,60.0,4,Indie
-174,Black Skylands,80.0,4,Shooter
-174,Black Skylands,80.0,4,Role-playing (RPG)
-174,Black Skylands,80.0,4,Simulator
-174,Black Skylands,80.0,4,Adventure
-174,Black Skylands,80.0,4,Indie
-175,Gamecraft,60.0,4,Simulator
-175,Gamecraft,60.0,4,Indie
-176,Shortest Trip to Earth,64.83333333333334,4,Real Time Strategy (RTS)
-176,Shortest Trip to Earth,64.83333333333334,4,Simulator
-176,Shortest Trip to Earth,64.83333333333334,4,Strategy
-176,Shortest Trip to Earth,64.83333333333334,4,Adventure
-176,Shortest Trip to Earth,64.83333333333334,4,Indie
-177,Mist Survival,80.0,4,Simulator
-177,Mist Survival,80.0,4,Adventure
-177,Mist Survival,80.0,4,Indie
-178,Meow Motors,65.5,4,Racing
-178,Meow Motors,65.5,4,Indie
-178,Meow Motors,65.5,4,Arcade
-179,Mars Horizon,80.0,4,Simulator
-179,Mars Horizon,80.0,4,Strategy
-179,Mars Horizon,80.0,4,Indie
-180,The Coin Game,70.0,4,Simulator
-180,The Coin Game,70.0,4,Adventure
-180,The Coin Game,70.0,4,Indie
-181,Chinese Parents,80.0,4,Role-playing (RPG)
-181,Chinese Parents,80.0,4,Simulator
-181,Chinese Parents,80.0,4,Adventure
-181,Chinese Parents,80.0,4,Indie
-182,Fault: Elder Orb,50.0,4,Strategy
-182,Fault: Elder Orb,50.0,4,MOBA
-183,Yorkshire Gubbins,79.0,4,Point-and-click
-183,Yorkshire Gubbins,79.0,4,Adventure
-183,Yorkshire Gubbins,79.0,4,Indie
-184,Rise to Ruins,80.0,4,Simulator
-184,Rise to Ruins,80.0,4,Strategy
-184,Rise to Ruins,80.0,4,Indie
-185,Knockout League,76.0,4,Fighting
-185,Knockout League,76.0,4,Sport
-185,Knockout League,76.0,4,Adventure
-185,Knockout League,76.0,4,Arcade
-186,Long Gone Days,72.0,4,Role-playing (RPG)
-186,Long Gone Days,72.0,4,Indie
-186,Long Gone Days,72.0,4,Visual Novel
-187,Guild Quest,60.0,4,Role-playing (RPG)
-187,Guild Quest,60.0,4,Simulator
-187,Guild Quest,60.0,4,Strategy
-187,Guild Quest,60.0,4,Indie
-188,Derail Valley,80.0,4,Racing
-188,Derail Valley,80.0,4,Simulator
-188,Derail Valley,80.0,4,Adventure
-188,Derail Valley,80.0,4,Indie
-189,Terroir,60.0,4,Simulator
-189,Terroir,60.0,4,Strategy
-189,Terroir,60.0,4,Indie
-190,Pocket Rumble,62.5,4,Fighting
-190,Pocket Rumble,62.5,4,Indie
-191,Can't Drive This,50.0,4,Racing
-191,Can't Drive This,50.0,4,Indie
-192,Windscape,66.16666666666667,4,Fighting
-192,Windscape,66.16666666666667,4,Puzzle
-192,Windscape,66.16666666666667,4,Role-playing (RPG)
-192,Windscape,66.16666666666667,4,Adventure
-192,Windscape,66.16666666666667,4,Indie
-193,Volo Airsport,50.0,4,Racing
-193,Volo Airsport,50.0,4,Simulator
-193,Volo Airsport,50.0,4,Sport
-193,Volo Airsport,50.0,4,Indie
-194,Salt,80.0,4,Point-and-click
-194,Salt,80.0,4,Puzzle
-194,Salt,80.0,4,Role-playing (RPG)
-194,Salt,80.0,4,Strategy
-194,Salt,80.0,4,Adventure
-194,Salt,80.0,4,Indie
-195,Automation: The Car Company Tycoon Game,80.0,4,Racing
-195,Automation: The Car Company Tycoon Game,80.0,4,Simulator
-195,Automation: The Car Company Tycoon Game,80.0,4,Strategy
-196,The Way of Life,66.16795317036319,4,Fighting
-196,The Way of Life,66.16795317036319,4,Music
-196,The Way of Life,66.16795317036319,4,Adventure
-196,The Way of Life,66.16795317036319,4,Indie
-197,Medieval Engineers,60.0,4,Simulator
-197,Medieval Engineers,60.0,4,Strategy
-197,Medieval Engineers,60.0,4,Indie
-198,Secrets of Grindea,80.0,4,Role-playing (RPG)
-198,Secrets of Grindea,80.0,4,Adventure
-198,Secrets of Grindea,80.0,4,Indie
-199,Realms of Arkania: Star Trail,50.0,4,Role-playing (RPG)
-199,Realms of Arkania: Star Trail,50.0,4,Adventure
-199,Realms of Arkania: Star Trail,50.0,4,Indie
-200,Stranded: Alien Dawn,83.66666666666667,3,Simulator
-200,Stranded: Alien Dawn,83.66666666666667,3,Strategy
-201,Power Chord,60.0,3,Strategy
-201,Power Chord,60.0,3,Turn-based strategy (TBS)
-201,Power Chord,60.0,3,Indie
-201,Power Chord,60.0,3,Card & Board Game
-202,Instruments of Destruction,87.0,3,Simulator
-203,Tinker Racers,70.0,3,Racing
-203,Tinker Racers,70.0,3,Adventure
-203,Tinker Racers,70.0,3,Indie
-204,The Political Process,80.0,3,Simulator
-204,The Political Process,80.0,3,Strategy
-204,The Political Process,80.0,3,Indie
-205,10 Miles to Safety,80.0,3,Fighting
-205,10 Miles to Safety,80.0,3,Strategy
-205,10 Miles to Safety,80.0,3,Indie
-206,Hot Shot Burn,70.0,3,Sport
-206,Hot Shot Burn,70.0,3,Indie
-206,Hot Shot Burn,70.0,3,Arcade
-207,Quantum League,71.0,3,Sport
-207,Quantum League,71.0,3,Strategy
-207,Quantum League,71.0,3,Indie
-208,A Year of Rain,50.0,3,Real Time Strategy (RTS)
-208,A Year of Rain,50.0,3,Role-playing (RPG)
-208,A Year of Rain,50.0,3,Strategy
-208,A Year of Rain,50.0,3,Indie
-209,Rogue Star Rescue,70.0,3,Shooter
-209,Rogue Star Rescue,70.0,3,Role-playing (RPG)
-209,Rogue Star Rescue,70.0,3,Strategy
-209,Rogue Star Rescue,70.0,3,Adventure
-209,Rogue Star Rescue,70.0,3,Indie
-210,Blazing Sails,80.0,3,Shooter
-210,Blazing Sails,80.0,3,Tactical
-210,Blazing Sails,80.0,3,Adventure
-210,Blazing Sails,80.0,3,Indie
-211,Mystic Vale,75.0,3,Strategy
-211,Mystic Vale,75.0,3,Indie
-211,Mystic Vale,75.0,3,Card & Board Game
-212,Nanotale: Typing Chronicles,65.0,3,Puzzle
-212,Nanotale: Typing Chronicles,65.0,3,Role-playing (RPG)
-212,Nanotale: Typing Chronicles,65.0,3,Adventure
-212,Nanotale: Typing Chronicles,65.0,3,Indie
-213,Down to Hell,45.0,3,Fighting
-213,Down to Hell,45.0,3,Role-playing (RPG)
-213,Down to Hell,45.0,3,Indie
-213,Down to Hell,45.0,3,Arcade
-214,Tapsonic Bold,25.0,3,Music
-214,Tapsonic Bold,25.0,3,Racing
-215,Beasts of Bermuda,50.0,3,Simulator
-215,Beasts of Bermuda,50.0,3,Adventure
-215,Beasts of Bermuda,50.0,3,Indie
-216,Rising Hell,70.0,3,Platform
-216,Rising Hell,70.0,3,Role-playing (RPG)
-216,Rising Hell,70.0,3,Adventure
-216,Rising Hell,70.0,3,Indie
-217,The Waylanders,60.0,3,Role-playing (RPG)
-217,The Waylanders,60.0,3,Strategy
-217,The Waylanders,60.0,3,Tactical
-217,The Waylanders,60.0,3,Adventure
-217,The Waylanders,60.0,3,Indie
-218,Factory Town,70.0,3,Simulator
-218,Factory Town,70.0,3,Strategy
-218,Factory Town,70.0,3,Indie
-219,Deadly Days,60.0,3,Shooter
-219,Deadly Days,60.0,3,Role-playing (RPG)
-219,Deadly Days,60.0,3,Strategy
-219,Deadly Days,60.0,3,Indie
-219,Deadly Days,60.0,3,Arcade
-220,Clicker Heroes 2,60.0,3,Role-playing (RPG)
-220,Clicker Heroes 2,60.0,3,Simulator
-220,Clicker Heroes 2,60.0,3,Strategy
-220,Clicker Heroes 2,60.0,3,Adventure
-220,Clicker Heroes 2,60.0,3,Indie
-221,Fugl,71.5,3,Role-playing (RPG)
-221,Fugl,71.5,3,Simulator
-221,Fugl,71.5,3,Adventure
-221,Fugl,71.5,3,Indie
-222,Intruder,80.0,3,Shooter
-222,Intruder,80.0,3,Simulator
-222,Intruder,80.0,3,Indie
-223,Cogmind,80.0,3,Role-playing (RPG)
-223,Cogmind,80.0,3,Strategy
-223,Cogmind,80.0,3,Adventure
-223,Cogmind,80.0,3,Indie
-224,Null Vector,78.5,3,Shooter
-224,Null Vector,78.5,3,Indie
-225,Broke Protocol: Online City RPG,50.0,3,Role-playing (RPG)
-225,Broke Protocol: Online City RPG,50.0,3,Simulator
-225,Broke Protocol: Online City RPG,50.0,3,Adventure
-225,Broke Protocol: Online City RPG,50.0,3,Indie
-226,Guns'n'Stories: Bulletproof VR,71.5,3,Shooter
-226,Guns'n'Stories: Bulletproof VR,71.5,3,Simulator
-226,Guns'n'Stories: Bulletproof VR,71.5,3,Adventure
-226,Guns'n'Stories: Bulletproof VR,71.5,3,Arcade
-227,CAT Interstellar,60.0,3,Adventure
-227,CAT Interstellar,60.0,3,Indie
-228,Head Shot,50.0,3,Adventure
-228,Head Shot,50.0,3,Indie
-229,UBoat,60.0,3,Simulator
-229,UBoat,60.0,3,Strategy
-229,UBoat,60.0,3,Tactical
-229,UBoat,60.0,3,Indie
-230,Atomic Society,70.0,3,Real Time Strategy (RTS)
-230,Atomic Society,70.0,3,Simulator
-230,Atomic Society,70.0,3,Strategy
-231,Pylon: Rogue,62.0,3,Role-playing (RPG)
-231,Pylon: Rogue,62.0,3,Indie
-232,Onward,80.0,3,Shooter
-232,Onward,80.0,3,Simulator
-232,Onward,80.0,3,Strategy
-232,Onward,80.0,3,Tactical
-232,Onward,80.0,3,Indie
-233,Quarantine,60.0,3,Shooter
-233,Quarantine,60.0,3,Racing
-233,Quarantine,60.0,3,Role-playing (RPG)
-233,Quarantine,60.0,3,Simulator
-233,Quarantine,60.0,3,Strategy
-233,Quarantine,60.0,3,Tactical
-233,Quarantine,60.0,3,Indie
-234,The Spatials: Galactology,70.0,3,Role-playing (RPG)
-234,The Spatials: Galactology,70.0,3,Simulator
-234,The Spatials: Galactology,70.0,3,Strategy
-234,The Spatials: Galactology,70.0,3,Indie
-235,Wayward,80.0,3,Role-playing (RPG)
-235,Wayward,80.0,3,Simulator
-235,Wayward,80.0,3,Adventure
-235,Wayward,80.0,3,Indie
-236,Dreambreak,51.66666666666666,3,Platform
-236,Dreambreak,51.66666666666666,3,Adventure
-236,Dreambreak,51.66666666666666,3,Indie
-237,Holodrive,79.0,3,Shooter
-237,Holodrive,79.0,3,Platform
-237,Holodrive,79.0,3,Indie
-238,Saurian,60.0,3,Simulator
-238,Saurian,60.0,3,Indie
-239,Empires of the Undergrowth,80.0,3,Real Time Strategy (RTS)
-239,Empires of the Undergrowth,80.0,3,Simulator
-239,Empires of the Undergrowth,80.0,3,Strategy
-239,Empires of the Undergrowth,80.0,3,Indie
-240,Wartile,70.0,3,Role-playing (RPG)
-240,Wartile,70.0,3,Strategy
-240,Wartile,70.0,3,Tactical
-240,Wartile,70.0,3,Adventure
-240,Wartile,70.0,3,Indie
-240,Wartile,70.0,3,Card & Board Game
-241,KeeperRL,80.0,3,Real Time Strategy (RTS)
-241,KeeperRL,80.0,3,Role-playing (RPG)
-241,KeeperRL,80.0,3,Strategy
-242,Project Aura,50.0,3,Simulator
-242,Project Aura,50.0,3,Strategy
-242,Project Aura,50.0,3,Indie
-243,1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby,40.0,3,Music
-243,1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby,40.0,3,Indie
-244,Rising World,80.0,3,Role-playing (RPG)
-244,Rising World,80.0,3,Adventure
-244,Rising World,80.0,3,Indie
-245,Starforge,10.17757790959444,3,Shooter
-245,Starforge,10.17757790959444,3,Simulator
-245,Starforge,10.17757790959444,3,Adventure
-245,Starforge,10.17757790959444,3,Indie
-246,Fabledom,83.0,2,Simulator
-246,Fabledom,83.0,2,Strategy
-247,Kukoos: Lost Pets,61.5,2,Platform
-247,Kukoos: Lost Pets,61.5,2,Puzzle
-247,Kukoos: Lost Pets,61.5,2,Adventure
-247,Kukoos: Lost Pets,61.5,2,Indie
-248,GetsuFumaDen: Undying Moon,70.5,2,Hack and slash/Beat 'em up
-248,GetsuFumaDen: Undying Moon,70.5,2,Indie
-249,Fuzz Force: Spook Squad,70.0,2,Role-playing (RPG)
-249,Fuzz Force: Spook Squad,70.0,2,Adventure
-249,Fuzz Force: Spook Squad,70.0,2,Card & Board Game
-250,Knock on the Coffin Lid,70.0,2,Role-playing (RPG)
-250,Knock on the Coffin Lid,70.0,2,Strategy
-250,Knock on the Coffin Lid,70.0,2,Turn-based strategy (TBS)
-250,Knock on the Coffin Lid,70.0,2,Indie
-250,Knock on the Coffin Lid,70.0,2,Card & Board Game
-251,Streamer Daily,70.0,2,Simulator
-251,Streamer Daily,70.0,2,Strategy
-251,Streamer Daily,70.0,2,Adventure
-251,Streamer Daily,70.0,2,Indie
-252,Soviet Jump Game,80.0,2,Platform
-252,Soviet Jump Game,80.0,2,Indie
-253,Card Hog,80.0,2,Puzzle
-253,Card Hog,80.0,2,Role-playing (RPG)
-253,Card Hog,80.0,2,Strategy
-253,Card Hog,80.0,2,Turn-based strategy (TBS)
-253,Card Hog,80.0,2,Indie
-253,Card Hog,80.0,2,Card & Board Game
-254,Comanche,60.0,2,Fighting
-254,Comanche,60.0,2,Shooter
-254,Comanche,60.0,2,Simulator
-255,Undying,67.0,2,Role-playing (RPG)
-255,Undying,67.0,2,Strategy
-255,Undying,67.0,2,Adventure
-255,Undying,67.0,2,Indie
-256,Killsquad,72.5,2,Role-playing (RPG)
-256,Killsquad,72.5,2,Hack and slash/Beat 'em up
-256,Killsquad,72.5,2,Indie
-256,Killsquad,72.5,2,Arcade
-257,Little Witch Nobeta,70.5,2,Shooter
-257,Little Witch Nobeta,70.5,2,Indie
-258,Ashes of Oahu,50.0,2,Role-playing (RPG)
-258,Ashes of Oahu,50.0,2,Indie
-259,Timeflow: Time and Money Simulator,50.0,2,Role-playing (RPG)
-259,Timeflow: Time and Money Simulator,50.0,2,Simulator
-259,Timeflow: Time and Money Simulator,50.0,2,Strategy
-259,Timeflow: Time and Money Simulator,50.0,2,Indie
-260,Last Oasis,60.0,2,Role-playing (RPG)
-260,Last Oasis,60.0,2,Adventure
-260,Last Oasis,60.0,2,Indie
-261,Odd Realm,70.0,2,Simulator
-261,Odd Realm,70.0,2,Strategy
-261,Odd Realm,70.0,2,Indie
-262,No Time to Relax,70.0,2,Simulator
-262,No Time to Relax,70.0,2,Strategy
-262,No Time to Relax,70.0,2,Indie
-262,No Time to Relax,70.0,2,Card & Board Game
-263,Pax Nova,50.0,2,Strategy
-263,Pax Nova,50.0,2,Indie
-264,XO,70.0,2,Role-playing (RPG)
-264,XO,70.0,2,Simulator
-264,XO,70.0,2,Strategy
-264,XO,70.0,2,Indie
-265,Never Breakup,60.0,2,Platform
-265,Never Breakup,60.0,2,Racing
-265,Never Breakup,60.0,2,Strategy
-265,Never Breakup,60.0,2,Adventure
-265,Never Breakup,60.0,2,Indie
-266,Newfound Courage,70.0,2,Puzzle
-266,Newfound Courage,70.0,2,Simulator
-266,Newfound Courage,70.0,2,Adventure
-266,Newfound Courage,70.0,2,Indie
-267,CryoFall,50.0,2,Role-playing (RPG)
-267,CryoFall,50.0,2,Simulator
-267,CryoFall,50.0,2,Strategy
-267,CryoFall,50.0,2,Adventure
-267,CryoFall,50.0,2,Indie
-268,Godhood,50.0,2,Role-playing (RPG)
-268,Godhood,50.0,2,Simulator
-268,Godhood,50.0,2,Strategy
-269,Dead or School,67.5,2,Role-playing (RPG)
-269,Dead or School,67.5,2,Hack and slash/Beat 'em up
-269,Dead or School,67.5,2,Indie
-270,This Land Is My Land,70.0,2,Role-playing (RPG)
-270,This Land Is My Land,70.0,2,Simulator
-270,This Land Is My Land,70.0,2,Indie
-271,Blast Zone! Tournament,50.0,2,Sport
-271,Blast Zone! Tournament,50.0,2,Indie
-272,KurtzPel,50.0,2,Fighting
-273,Blood Waves,50.0,2,Shooter
-273,Blood Waves,50.0,2,Strategy
-273,Blood Waves,50.0,2,Indie
-274,Forged Battalion,80.0,2,Real Time Strategy (RTS)
-274,Forged Battalion,80.0,2,Simulator
-274,Forged Battalion,80.0,2,Strategy
-274,Forged Battalion,80.0,2,Indie
-275,Flotsam,60.0,2,Simulator
-275,Flotsam,60.0,2,Strategy
-275,Flotsam,60.0,2,Indie
-276,Wasted Pizza,50.0,2,Indie
-277,Flashing Lights: Police Fire EMS,50.0,2,Simulator
-277,Flashing Lights: Police Fire EMS,50.0,2,Indie
-278,Witch Hunt,80.0,2,Adventure
-278,Witch Hunt,80.0,2,Indie
-279,Empires in Ruins,70.0,2,Role-playing (RPG)
-279,Empires in Ruins,70.0,2,Simulator
-279,Empires in Ruins,70.0,2,Strategy
-279,Empires in Ruins,70.0,2,Indie
-280,Dog Duty,70.0,2,Shooter
-280,Dog Duty,70.0,2,Strategy
-280,Dog Duty,70.0,2,Indie
-280,Dog Duty,70.0,2,Arcade
-281,Operation Warcade VR,72.5,2,Shooter
-281,Operation Warcade VR,72.5,2,Simulator
-281,Operation Warcade VR,72.5,2,Adventure
-281,Operation Warcade VR,72.5,2,Indie
-282,Crest,60.0,2,Simulator
-282,Crest,60.0,2,Strategy
-282,Crest,60.0,2,Adventure
-282,Crest,60.0,2,Indie
-283,The District,20.0,2,Adventure
-283,The District,20.0,2,Indie
-284,VR Karts,57.5,2,Racing
-284,VR Karts,57.5,2,Indie
-284,VR Karts,57.5,2,Arcade
-285,Planet Centauri,60.0,2,Role-playing (RPG)
-285,Planet Centauri,60.0,2,Adventure
-285,Planet Centauri,60.0,2,Indie
-286,Gamma Bros,70.0,2,Indie
-287,Project Arrhythmia,70.0,2,Adventure
-287,Project Arrhythmia,70.0,2,Indie
-288,QuiVr,80.0,2,Shooter
-288,QuiVr,80.0,2,Simulator
-288,QuiVr,80.0,2,Indie
-289,Blasters of the Universe,70.0,2,Shooter
-289,Blasters of the Universe,70.0,2,Arcade
-290,Bombslinger,72.5,2,Fighting
-290,Bombslinger,72.5,2,Shooter
-290,Bombslinger,72.5,2,Strategy
-290,Bombslinger,72.5,2,Adventure
-290,Bombslinger,72.5,2,Indie
-290,Bombslinger,72.5,2,Arcade
-290,Bombslinger,72.5,2,Card & Board Game
-291,Star Explorers,50.0,2,Role-playing (RPG)
-291,Star Explorers,50.0,2,Simulator
-291,Star Explorers,50.0,2,Adventure
-291,Star Explorers,50.0,2,Indie
-292,Bigfoot,50.0,2,Shooter
-292,Bigfoot,50.0,2,Adventure
-292,Bigfoot,50.0,2,Indie
-293,Drunkn Bar Fight,80.0,2,Fighting
-293,Drunkn Bar Fight,80.0,2,Hack and slash/Beat 'em up
-293,Drunkn Bar Fight,80.0,2,Indie
-293,Drunkn Bar Fight,80.0,2,Arcade
-294,Low Magic Age,80.0,2,Role-playing (RPG)
-294,Low Magic Age,80.0,2,Strategy
-294,Low Magic Age,80.0,2,Turn-based strategy (TBS)
-294,Low Magic Age,80.0,2,Tactical
-294,Low Magic Age,80.0,2,Adventure
-294,Low Magic Age,80.0,2,Indie
-295,A-Tech Cybernetic,80.0,2,Indie
-296,Production Line,60.0,2,Simulator
-296,Production Line,60.0,2,Strategy
-296,Production Line,60.0,2,Indie
-297,Karnage Chronicles,80.0,2,Role-playing (RPG)
-297,Karnage Chronicles,80.0,2,Sport
-297,Karnage Chronicles,80.0,2,Adventure
-297,Karnage Chronicles,80.0,2,Indie
-298,Post Human W.A.R,75.0,2,Strategy
-298,Post Human W.A.R,75.0,2,Indie
-299,Sailaway,80.0,2,Racing
-299,Sailaway,80.0,2,Simulator
-299,Sailaway,80.0,2,Sport
-299,Sailaway,80.0,2,Indie
-300,NITE Team 4,70.0,2,Simulator
-300,NITE Team 4,70.0,2,Strategy
-300,NITE Team 4,70.0,2,Adventure
-300,NITE Team 4,70.0,2,Indie
-301,We Need to Go Deeper,80.0,2,Simulator
-301,We Need to Go Deeper,80.0,2,Strategy
-301,We Need to Go Deeper,80.0,2,Adventure
-301,We Need to Go Deeper,80.0,2,Indie
-302,BattleCrew: Space Pirates,35.0,2,Indie
-303,Spellsworn,80.0,2,Indie
-304,Yore VR,50.0,2,Role-playing (RPG)
-304,Yore VR,50.0,2,Simulator
-304,Yore VR,50.0,2,Adventure
-304,Yore VR,50.0,2,Indie
-305,Stellar Overload,60.0,2,Role-playing (RPG)
-305,Stellar Overload,60.0,2,Adventure
-305,Stellar Overload,60.0,2,Indie
-306,Timber and Stone,50.0,2,Strategy
-306,Timber and Stone,50.0,2,Indie
-307,Drift Into Eternity,72.5,2,Adventure
-307,Drift Into Eternity,72.5,2,Indie
-308,Exoplanet: First Contact,80.0,2,Role-playing (RPG)
-308,Exoplanet: First Contact,80.0,2,Indie
-309,Feed and Grow: Fish,60.0,2,Simulator
-309,Feed and Grow: Fish,60.0,2,Adventure
-309,Feed and Grow: Fish,60.0,2,Indie
-310,DropZone,75.0,2,Real Time Strategy (RTS)
-310,DropZone,75.0,2,Strategy
-311,De Mambo,74.0,2,Fighting
-311,De Mambo,74.0,2,Platform
-311,De Mambo,74.0,2,Indie
-312,Super Indie Karts,80.0,2,Racing
-312,Super Indie Karts,80.0,2,Sport
-312,Super Indie Karts,80.0,2,Indie
-313,All Guns on Deck,40.0,2,Real Time Strategy (RTS)
-313,All Guns on Deck,40.0,2,Role-playing (RPG)
-313,All Guns on Deck,40.0,2,Simulator
-313,All Guns on Deck,40.0,2,Strategy
-313,All Guns on Deck,40.0,2,Adventure
-313,All Guns on Deck,40.0,2,Indie
-314,Wild Warfare,70.0,2,Indie
-315,Elea,70.0,2,Puzzle
-315,Elea,70.0,2,Adventure
-315,Elea,70.0,2,Indie
-316,Kingdoms Rise,50.0,2,Role-playing (RPG)
-316,Kingdoms Rise,50.0,2,Indie
-317,Bombernauts,80.0,2,Indie
-318,Folk Tale,50.0,2,Role-playing (RPG)
-318,Folk Tale,50.0,2,Simulator
-318,Folk Tale,50.0,2,Strategy
-318,Folk Tale,50.0,2,Adventure
-318,Folk Tale,50.0,2,Indie
-319,Gabe Newell Simulator,50.0,2,Shooter
-319,Gabe Newell Simulator,50.0,2,Simulator
-319,Gabe Newell Simulator,50.0,2,Adventure
-319,Gabe Newell Simulator,50.0,2,Indie
-320,Subaeria,57.5,2,Puzzle
-320,Subaeria,57.5,2,Adventure
-320,Subaeria,57.5,2,Indie
-321,Dispatcher,40.0,2,Role-playing (RPG)
-321,Dispatcher,40.0,2,Adventure
-321,Dispatcher,40.0,2,Indie
-322,Rodina,80.0,2,Indie
-323,Starmade,60.0,2,Shooter
-323,Starmade,60.0,2,Role-playing (RPG)
-323,Starmade,60.0,2,Simulator
-323,Starmade,60.0,2,Strategy
-323,Starmade,60.0,2,Adventure
-323,Starmade,60.0,2,Indie
-324,Block Story,50.0,2,Puzzle
-324,Block Story,50.0,2,Role-playing (RPG)
-324,Block Story,50.0,2,Adventure
-324,Block Story,50.0,2,Indie
-325,Prismata,70.0,2,Real Time Strategy (RTS)
-325,Prismata,70.0,2,Simulator
-325,Prismata,70.0,2,Strategy
-325,Prismata,70.0,2,Turn-based strategy (TBS)
-325,Prismata,70.0,2,Indie
-325,Prismata,70.0,2,Card & Board Game
-326,Soulslinger: Envoy of Death,92.0,1,Shooter
-326,Soulslinger: Envoy of Death,92.0,1,Adventure
-326,Soulslinger: Envoy of Death,92.0,1,Indie
-327,New Star GP,80.0,1,Racing
-327,New Star GP,80.0,1,Simulator
-327,New Star GP,80.0,1,Sport
-327,New Star GP,80.0,1,Indie
-327,New Star GP,80.0,1,Arcade
-328,Forgive Me Father 2,70.0,1,Shooter
-328,Forgive Me Father 2,70.0,1,Indie
-329,Go-Go Town!,85.0,1,Simulator
-329,Go-Go Town!,85.0,1,Indie
-330,Trinity Fusion,85.0,1,Fighting
-330,Trinity Fusion,85.0,1,Platform
-330,Trinity Fusion,85.0,1,Role-playing (RPG)
-330,Trinity Fusion,85.0,1,Indie
-331,Voltaire: The Vegan Vampire,60.0,1,Role-playing (RPG)
-331,Voltaire: The Vegan Vampire,60.0,1,Simulator
-331,Voltaire: The Vegan Vampire,60.0,1,Indie
-332,Arto,35.0,1,Role-playing (RPG)
-332,Arto,35.0,1,Adventure
-332,Arto,35.0,1,Indie
-333,MythForce,65.0,1,Role-playing (RPG)
-333,MythForce,65.0,1,Adventure
-334,Spiritfall,66.0,1,Fighting
-334,Spiritfall,66.0,1,Platform
-334,Spiritfall,66.0,1,Role-playing (RPG)
-334,Spiritfall,66.0,1,Hack and slash/Beat 'em up
-335,Sker Ritual,60.0,1,Shooter
-335,Sker Ritual,60.0,1,Indie
-336,Lovecraft's Untold Stories 2,40.0,1,Role-playing (RPG)
-336,Lovecraft's Untold Stories 2,40.0,1,Indie
-337,Thy Creature,90.0,1,Shooter
-337,Thy Creature,90.0,1,Puzzle
-337,Thy Creature,90.0,1,Adventure
-337,Thy Creature,90.0,1,Indie
-338,Oaken,65.0,1,Puzzle
-338,Oaken,65.0,1,Strategy
-338,Oaken,65.0,1,Turn-based strategy (TBS)
-338,Oaken,65.0,1,Adventure
-338,Oaken,65.0,1,Indie
-338,Oaken,65.0,1,Card & Board Game
-339,Dread Delusion,73.0,1,Role-playing (RPG)
-339,Dread Delusion,73.0,1,Adventure
-339,Dread Delusion,73.0,1,Indie
-340,Mortal Sin,81.0,1,Role-playing (RPG)
-340,Mortal Sin,81.0,1,Hack and slash/Beat 'em up
-340,Mortal Sin,81.0,1,Adventure
-340,Mortal Sin,81.0,1,Indie
-341,Ember Knights,85.0,1,Role-playing (RPG)
-341,Ember Knights,85.0,1,Hack and slash/Beat 'em up
-341,Ember Knights,85.0,1,Adventure
-342,Puzzle Quest 3,60.0,1,Puzzle
-342,Puzzle Quest 3,60.0,1,Role-playing (RPG)
-342,Puzzle Quest 3,60.0,1,Strategy
-343,Patch Quest,85.0,1,Shooter
-343,Patch Quest,85.0,1,Adventure
-343,Patch Quest,85.0,1,Indie
-344,Graven,75.0,1,Shooter
-344,Graven,75.0,1,Role-playing (RPG)
-344,Graven,75.0,1,Adventure
-345,Total Arcade Racing,80.0,1,Racing
-345,Total Arcade Racing,80.0,1,Simulator
-345,Total Arcade Racing,80.0,1,Sport
-345,Total Arcade Racing,80.0,1,Indie
-345,Total Arcade Racing,80.0,1,Arcade
-346,Titan Chaser,80.0,1,Racing
-346,Titan Chaser,80.0,1,Role-playing (RPG)
-346,Titan Chaser,80.0,1,Simulator
-346,Titan Chaser,80.0,1,Adventure
-346,Titan Chaser,80.0,1,Indie
-347,Victory Road,80.0,1,Fighting
-347,Victory Road,80.0,1,Simulator
-347,Victory Road,80.0,1,Sport
-347,Victory Road,80.0,1,Strategy
-347,Victory Road,80.0,1,Hack and slash/Beat 'em up
-347,Victory Road,80.0,1,Indie
-348,Mists of Noyah,60.0,1,Role-playing (RPG)
-348,Mists of Noyah,60.0,1,Indie
-349,Weed Farmer Simulator,50.0,1,Simulator
-349,Weed Farmer Simulator,50.0,1,Indie
-350,Shaolin vs Wutang 2,70.0,1,Fighting
-350,Shaolin vs Wutang 2,70.0,1,Indie
-351,Barricadez,80.0,1,Simulator
-351,Barricadez,80.0,1,Strategy
-351,Barricadez,80.0,1,Indie
-352,Ultimate Zombie Defense,70.0,1,Shooter
-352,Ultimate Zombie Defense,70.0,1,Strategy
-352,Ultimate Zombie Defense,70.0,1,Adventure
-353,Tainted Grail: The Fall of Avalon,0.0,1,Role-playing (RPG)
-353,Tainted Grail: The Fall of Avalon,0.0,1,Adventure
-353,Tainted Grail: The Fall of Avalon,0.0,1,Indie
-354,Spellsword Cards: DungeonTop,68.0,1,Role-playing (RPG)
-354,Spellsword Cards: DungeonTop,68.0,1,Strategy
-354,Spellsword Cards: DungeonTop,68.0,1,Adventure
-354,Spellsword Cards: DungeonTop,68.0,1,Indie
-354,Spellsword Cards: DungeonTop,68.0,1,Card & Board Game
-355,Mad Experiments: Escape Room,70.0,1,Puzzle
-355,Mad Experiments: Escape Room,70.0,1,Adventure
-355,Mad Experiments: Escape Room,70.0,1,Indie
-356,MMORPG Tycoon 2,70.0,1,Simulator
-356,MMORPG Tycoon 2,70.0,1,Strategy
-356,MMORPG Tycoon 2,70.0,1,Indie
-357,Tip of the Spear: Task Force Elite,80.0,1,Shooter
-357,Tip of the Spear: Task Force Elite,80.0,1,Indie
-358,The Yellow King,70.0,1,Role-playing (RPG)
-358,The Yellow King,70.0,1,Adventure
-358,The Yellow King,70.0,1,Indie
-359,Errant Kingdom,70.0,1,Adventure
-359,Errant Kingdom,70.0,1,Indie
-359,Errant Kingdom,70.0,1,Visual Novel
-360,Day of Dragons,50.0,1,Simulator
-360,Day of Dragons,50.0,1,Indie
-361,Book of Travels,66.0,1,Role-playing (RPG)
-361,Book of Travels,66.0,1,Adventure
-361,Book of Travels,66.0,1,Indie
-362,Necronator: Dead Wrong,65.0,1,Real Time Strategy (RTS)
-362,Necronator: Dead Wrong,65.0,1,Strategy
-362,Necronator: Dead Wrong,65.0,1,Indie
-362,Necronator: Dead Wrong,65.0,1,Card & Board Game
-363,Drift of the Hill,80.0,1,Racing
-363,Drift of the Hill,80.0,1,Simulator
-363,Drift of the Hill,80.0,1,Indie
-364,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1,Puzzle
-364,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1,Simulator
-364,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1,Indie
-365,Beat Blast,88.0,1,Adventure
-365,Beat Blast,88.0,1,Indie
-366,Bastide,50.0,1,Simulator
-366,Bastide,50.0,1,Strategy
-366,Bastide,50.0,1,Indie
-367,MicroTown,70.0,1,Strategy
-367,MicroTown,70.0,1,Indie
-368,Devil's Deck,60.0,1,Role-playing (RPG)
-368,Devil's Deck,60.0,1,Strategy
-368,Devil's Deck,60.0,1,Adventure
-368,Devil's Deck,60.0,1,Indie
-369,Neon Tail,70.0,1,Racing
-369,Neon Tail,70.0,1,Role-playing (RPG)
-369,Neon Tail,70.0,1,Sport
-369,Neon Tail,70.0,1,Adventure
-369,Neon Tail,70.0,1,Indie
-370,Onset,70.0,1,Role-playing (RPG)
-370,Onset,70.0,1,Simulator
-370,Onset,70.0,1,Indie
-371,Shadows of Doubt,80.0,1,Role-playing (RPG)
-371,Shadows of Doubt,80.0,1,Adventure
-371,Shadows of Doubt,80.0,1,Indie
-372,Sky Link,70.0,1,Simulator
-373,Ritual: Crown of Horns,75.0,1,Shooter
-373,Ritual: Crown of Horns,75.0,1,Indie
-373,Ritual: Crown of Horns,75.0,1,Arcade
-374,Naxia,50.0,1,Role-playing (RPG)
-374,Naxia,50.0,1,Hack and slash/Beat 'em up
-374,Naxia,50.0,1,Adventure
-374,Naxia,50.0,1,Indie
-375,Ninja Legends,70.0,1,Simulator
-375,Ninja Legends,70.0,1,Adventure
-375,Ninja Legends,70.0,1,Indie
-375,Ninja Legends,70.0,1,Arcade
-376,Axis & Allies 1942 Online,50.0,1,Strategy
-376,Axis & Allies 1942 Online,50.0,1,Turn-based strategy (TBS)
-376,Axis & Allies 1942 Online,50.0,1,Card & Board Game
-377,Siege of Centauri,65.0,1,Strategy
-377,Siege of Centauri,65.0,1,Indie
-378,Gravity Ace,70.0,1,Indie
-378,Gravity Ace,70.0,1,Arcade
-379,Burned Land,70.0,1,Strategy
-379,Burned Land,70.0,1,Indie
-380,Road to Guangdong,50.0,1,Simulator
-380,Road to Guangdong,50.0,1,Adventure
-380,Road to Guangdong,50.0,1,Indie
-381,Winkeltje: The Little Shop,70.0,1,Shooter
-381,Winkeltje: The Little Shop,70.0,1,Platform
-381,Winkeltje: The Little Shop,70.0,1,Simulator
-381,Winkeltje: The Little Shop,70.0,1,Strategy
-381,Winkeltje: The Little Shop,70.0,1,Indie
-382,2084,50.0,1,Shooter
-382,2084,50.0,1,Indie
-383,Hotel Sowls,65.0,1,Role-playing (RPG)
-383,Hotel Sowls,65.0,1,Simulator
-383,Hotel Sowls,65.0,1,Strategy
-383,Hotel Sowls,65.0,1,Adventure
-383,Hotel Sowls,65.0,1,Indie
-384,Metaverse Keeper,70.0,1,Role-playing (RPG)
-384,Metaverse Keeper,70.0,1,Adventure
-384,Metaverse Keeper,70.0,1,Indie
-385,Murder Mystery Machine,73.0,1,Point-and-click
-385,Murder Mystery Machine,73.0,1,Puzzle
-385,Murder Mystery Machine,73.0,1,Strategy
-385,Murder Mystery Machine,73.0,1,Adventure
-385,Murder Mystery Machine,73.0,1,Indie
-386,Fantasy Blacksmith,50.0,1,Role-playing (RPG)
-386,Fantasy Blacksmith,50.0,1,Simulator
-386,Fantasy Blacksmith,50.0,1,Indie
-387,Deadliest Catch: The Game,45.0,1,Simulator
-387,Deadliest Catch: The Game,45.0,1,Strategy
-387,Deadliest Catch: The Game,45.0,1,Adventure
-387,Deadliest Catch: The Game,45.0,1,Indie
-387,Deadliest Catch: The Game,45.0,1,Arcade
-388,Blink: Rogues,65.0,1,Shooter
-388,Blink: Rogues,65.0,1,Adventure
-388,Blink: Rogues,65.0,1,Indie
-388,Blink: Rogues,65.0,1,Arcade
-389,Pandemic Express: Zombie Escape,60.0,1,Shooter
-389,Pandemic Express: Zombie Escape,60.0,1,Indie
-390,Time Warpers,70.0,1,Role-playing (RPG)
-390,Time Warpers,70.0,1,Simulator
-390,Time Warpers,70.0,1,Strategy
-390,Time Warpers,70.0,1,Adventure
-390,Time Warpers,70.0,1,Indie
-391,Deadside,60.0,1,Adventure
-391,Deadside,60.0,1,Indie
-392,Lawless Lands,70.0,1,Role-playing (RPG)
-392,Lawless Lands,70.0,1,Strategy
-392,Lawless Lands,70.0,1,Adventure
-392,Lawless Lands,70.0,1,Indie
-393,Starcom: Nexus,70.0,1,Role-playing (RPG)
-393,Starcom: Nexus,70.0,1,Adventure
-393,Starcom: Nexus,70.0,1,Indie
-394,Good Company,60.0,1,Simulator
-394,Good Company,60.0,1,Strategy
-394,Good Company,60.0,1,Indie
-395,Black Paradox,35.0,1,Shooter
-395,Black Paradox,35.0,1,Platform
-395,Black Paradox,35.0,1,Adventure
-395,Black Paradox,35.0,1,Indie
-395,Black Paradox,35.0,1,Arcade
-396,Seeds of Resilience,60.0,1,Role-playing (RPG)
-396,Seeds of Resilience,60.0,1,Simulator
-396,Seeds of Resilience,60.0,1,Strategy
-396,Seeds of Resilience,60.0,1,Turn-based strategy (TBS)
-396,Seeds of Resilience,60.0,1,Adventure
-396,Seeds of Resilience,60.0,1,Indie
-397,Rapture Rejects,50.0,1,Shooter
-397,Rapture Rejects,50.0,1,Indie
-398,Melting World Online,50.0,1,Role-playing (RPG)
-398,Melting World Online,50.0,1,Strategy
-398,Melting World Online,50.0,1,Adventure
-398,Melting World Online,50.0,1,Indie
-399,A Long Way Down,50.0,1,Role-playing (RPG)
-399,A Long Way Down,50.0,1,Strategy
-399,A Long Way Down,50.0,1,Adventure
-399,A Long Way Down,50.0,1,Indie
-400,Adeptus Titanicus: Dominus,80.0,1,Strategy
-400,Adeptus Titanicus: Dominus,80.0,1,Turn-based strategy (TBS)
-400,Adeptus Titanicus: Dominus,80.0,1,Tactical
-401,The Hardest Dungeon,70.0,1,Role-playing (RPG)
-401,The Hardest Dungeon,70.0,1,Simulator
-401,The Hardest Dungeon,70.0,1,Strategy
-401,The Hardest Dungeon,70.0,1,Adventure
-401,The Hardest Dungeon,70.0,1,Indie
-402,Find Your Way,50.0,1,Adventure
-402,Find Your Way,50.0,1,Indie
-403,Newt One,70.0,1,Music
-403,Newt One,70.0,1,Platform
-403,Newt One,70.0,1,Adventure
-403,Newt One,70.0,1,Indie
-404,The True Slime King,90.0,1,Platform
-404,The True Slime King,90.0,1,Adventure
-404,The True Slime King,90.0,1,Indie
-405,ValeGuard,64.0,1,Role-playing (RPG)
-405,ValeGuard,64.0,1,Simulator
-405,ValeGuard,64.0,1,Strategy
-405,ValeGuard,64.0,1,Indie
-406,Vox Machinae,80.0,1,Shooter
-406,Vox Machinae,80.0,1,Simulator
-406,Vox Machinae,80.0,1,Indie
-407,Final Assault,70.0,1,Strategy
-408,BoxVR,80.0,1,Sport
-408,BoxVR,80.0,1,Indie
-409,Sipho,70.0,1,Simulator
-409,Sipho,70.0,1,Strategy
-409,Sipho,70.0,1,Indie
-410,The Snowboard Game,60.0,1,Racing
-410,The Snowboard Game,60.0,1,Simulator
-410,The Snowboard Game,60.0,1,Sport
-410,The Snowboard Game,60.0,1,Indie
-411,Swords 'n Magic and Stuff,80.0,1,Role-playing (RPG)
-411,Swords 'n Magic and Stuff,80.0,1,Simulator
-411,Swords 'n Magic and Stuff,80.0,1,Adventure
-411,Swords 'n Magic and Stuff,80.0,1,Indie
+59,Eco,90.83148859315394,12,Simulator
+59,Eco,90.83148859315394,12,Adventure
+59,Eco,90.83148859315394,12,Indie
+60,The Vagrant,85.76387143650447,12,Role-playing (RPG)
+60,The Vagrant,85.76387143650447,12,Adventure
+60,The Vagrant,85.76387143650447,12,Indie
+61,Earthfall,62.00689680303385,12,Shooter
+61,Earthfall,62.00689680303385,12,Adventure
+62,SpaceEngine,89.92809987401883,12,Simulator
+62,SpaceEngine,89.92809987401883,12,Indie
+63,Gloam,92.5925925925926,11,Indie
+63,Gloam,92.5925925925926,11,Arcade
+64,BroodStar,89.16666666666666,11,Shooter
+64,BroodStar,89.16666666666666,11,Adventure
+64,BroodStar,89.16666666666666,11,Indie
+64,BroodStar,89.16666666666666,11,Arcade
+65,We Went Back,59.37043486935174,11,Puzzle
+65,We Went Back,59.37043486935174,11,Adventure
+65,We Went Back,59.37043486935174,11,Indie
+66,AdVenture Communist,59.89794158321573,11,Simulator
+66,AdVenture Communist,59.89794158321573,11,Strategy
+66,AdVenture Communist,59.89794158321573,11,Indie
+67,Another Brick in the Mall,66.85778470329305,11,Simulator
+67,Another Brick in the Mall,66.85778470329305,11,Strategy
+67,Another Brick in the Mall,66.85778470329305,11,Indie
+68,Pavlov VR,80.6610844584933,11,Shooter
+68,Pavlov VR,80.6610844584933,11,Indie
+69,Vainglory,69.93801827775835,11,MOBA
+70,Suck Up!,81.21951219512195,10,Role-playing (RPG)
+70,Suck Up!,81.21951219512195,10,Indie
+71,Death Must Die,79.99721216906516,10,Role-playing (RPG)
+71,Death Must Die,79.99721216906516,10,Indie
+72,Supremacy: The Metaverse Game,87.84260515603799,10,Fighting
+72,Supremacy: The Metaverse Game,87.84260515603799,10,Real Time Strategy (RTS)
+72,Supremacy: The Metaverse Game,87.84260515603799,10,Simulator
+72,Supremacy: The Metaverse Game,87.84260515603799,10,Strategy
+72,Supremacy: The Metaverse Game,87.84260515603799,10,Tactical
+73,Coral Island,75.64660493827161,10,Role-playing (RPG)
+73,Coral Island,75.64660493827161,10,Simulator
+73,Coral Island,75.64660493827161,10,Strategy
+73,Coral Island,75.64660493827161,10,Adventure
+73,Coral Island,75.64660493827161,10,Indie
+74,Peglin,86.15768958222841,10,Puzzle
+74,Peglin,86.15768958222841,10,Strategy
+74,Peglin,86.15768958222841,10,Indie
+74,Peglin,86.15768958222841,10,Arcade
+75,Havocado,77.0,10,Indie
+76,Blade & Sorcery,80.05454161613338,10,Role-playing (RPG)
+76,Blade & Sorcery,80.05454161613338,10,Simulator
+76,Blade & Sorcery,80.05454161613338,10,Adventure
+76,Blade & Sorcery,80.05454161613338,10,Indie
+77,"Good Pizza, Great Pizza",64.25620110828709,10,Simulator
+77,"Good Pizza, Great Pizza",64.25620110828709,10,Strategy
+77,"Good Pizza, Great Pizza",64.25620110828709,10,Indie
+77,"Good Pizza, Great Pizza",64.25620110828709,10,Arcade
+78,Ravenfield,70.95404021222224,10,Shooter
+78,Ravenfield,70.95404021222224,10,Indie
+79,Passpartout: The Starving Artist,59.94069549359882,10,Simulator
+79,Passpartout: The Starving Artist,59.94069549359882,10,Adventure
+79,Passpartout: The Starving Artist,59.94069549359882,10,Indie
+80,Serious Sam Classics: Revolution,87.61706494111856,10,Shooter
+80,Serious Sam Classics: Revolution,87.61706494111856,10,Indie
+81,Who's Your Daddy,43.32214964721245,10,Simulator
+81,Who's Your Daddy,43.32214964721245,10,Indie
+82,No Rest for the Wicked,79.96556164465606,9,Role-playing (RPG)
+82,No Rest for the Wicked,79.96556164465606,9,Strategy
+83,Slime Rancher 2,65.9702479338843,9,Shooter
+83,Slime Rancher 2,65.9702479338843,9,Simulator
+83,Slime Rancher 2,65.9702479338843,9,Adventure
+83,Slime Rancher 2,65.9702479338843,9,Indie
+84,Seen,54.26400260464785,9,Platform
+84,Seen,54.26400260464785,9,Puzzle
+84,Seen,54.26400260464785,9,Adventure
+84,Seen,54.26400260464785,9,Indie
+85,Russian Fishing 4,68.56625763972927,9,Role-playing (RPG)
+85,Russian Fishing 4,68.56625763972927,9,Simulator
+85,Russian Fishing 4,68.56625763972927,9,Sport
+85,Russian Fishing 4,68.56625763972927,9,Adventure
+86,Rico,53.13678278816184,9,Shooter
+86,Rico,53.13678278816184,9,Indie
+86,Rico,53.13678278816184,9,Arcade
+87,Savage Lands,59.61447578996194,9,Role-playing (RPG)
+87,Savage Lands,59.61447578996194,9,Adventure
+87,Savage Lands,59.61447578996194,9,Indie
+88,The Universim,65.72087908908081,9,Simulator
+88,The Universim,65.72087908908081,9,Strategy
+88,The Universim,65.72087908908081,9,Indie
+89,Hades II,85.0754897653551,8,Role-playing (RPG)
+89,Hades II,85.0754897653551,8,Adventure
+89,Hades II,85.0754897653551,8,Indie
+90,Big Time,87.05882352941175,8,Role-playing (RPG)
+90,Big Time,87.05882352941175,8,Adventure
+91,Achilles: Legends Untold,57.53421887637653,8,Role-playing (RPG)
+91,Achilles: Legends Untold,57.53421887637653,8,Hack and slash/Beat 'em up
+91,Achilles: Legends Untold,57.53421887637653,8,Indie
+92,Second Extinction,72.61604711117297,8,Shooter
+93,Craftopia,71.79325842696629,8,Role-playing (RPG)
+93,Craftopia,71.79325842696629,8,Hack and slash/Beat 'em up
+93,Craftopia,71.79325842696629,8,Adventure
+93,Craftopia,71.79325842696629,8,Indie
+94,Dinkum,83.38946077023459,8,Role-playing (RPG)
+94,Dinkum,83.38946077023459,8,Simulator
+94,Dinkum,83.38946077023459,8,Indie
+95,Foundation,63.68350171809344,8,Simulator
+95,Foundation,63.68350171809344,8,Strategy
+95,Foundation,63.68350171809344,8,Indie
+96,Nova Drift,39.54285714285714,8,Indie
+96,Nova Drift,39.54285714285714,8,Arcade
+97,Academia: School Simulator,69.81034505672702,8,Simulator
+97,Academia: School Simulator,69.81034505672702,8,Strategy
+97,Academia: School Simulator,69.81034505672702,8,Indie
+98,Staxel,54.56949609190651,8,Role-playing (RPG)
+98,Staxel,54.56949609190651,8,Simulator
+98,Staxel,54.56949609190651,8,Indie
+99,Oriental Empires,53.375,8,Simulator
+99,Oriental Empires,53.375,8,Strategy
+99,Oriental Empires,53.375,8,Indie
+100,ARK: Survival of the Fittest,14.66815512119835,8,Shooter
+100,ARK: Survival of the Fittest,14.66815512119835,8,Role-playing (RPG)
+100,ARK: Survival of the Fittest,14.66815512119835,8,Strategy
+100,ARK: Survival of the Fittest,14.66815512119835,8,Adventure
+100,ARK: Survival of the Fittest,14.66815512119835,8,Indie
+101,Echo of Soul,56.72286707808303,8,Role-playing (RPG)
+102,Riot: Civil Unrest,50.91514610670846,8,Simulator
+102,Riot: Civil Unrest,50.91514610670846,8,Strategy
+102,Riot: Civil Unrest,50.91514610670846,8,Indie
+103,Overpower,70.17241379310346,8,Role-playing (RPG)
+103,Overpower,70.17241379310346,8,Indie
+104,Labyrinth,81.04545454545453,8,Role-playing (RPG)
+104,Labyrinth,81.04545454545453,8,Strategy
+104,Labyrinth,81.04545454545453,8,Indie
+105,Dead Effect 2,54.32579989842559,8,Shooter
+105,Dead Effect 2,54.32579989842559,8,Role-playing (RPG)
+105,Dead Effect 2,54.32579989842559,8,Indie
+106,The Guild 3,59.3083623245374,8,Role-playing (RPG)
+106,The Guild 3,59.3083623245374,8,Simulator
+106,The Guild 3,59.3083623245374,8,Strategy
+107,Interstellar Marines,39.70762760263374,8,Shooter
+107,Interstellar Marines,39.70762760263374,8,Role-playing (RPG)
+107,Interstellar Marines,39.70762760263374,8,Simulator
+107,Interstellar Marines,39.70762760263374,8,Tactical
+107,Interstellar Marines,39.70762760263374,8,Indie
+108,The Coffin of Andy and Leyley,74.32765544938374,7,Role-playing (RPG)
+108,The Coffin of Andy and Leyley,74.32765544938374,7,Adventure
+108,The Coffin of Andy and Leyley,74.32765544938374,7,Visual Novel
+109,Soulstone Survivors,74.81166094561975,7,Role-playing (RPG)
+109,Soulstone Survivors,74.81166094561975,7,Hack and slash/Beat 'em up
+109,Soulstone Survivors,74.81166094561975,7,Indie
+109,Soulstone Survivors,74.81166094561975,7,Arcade
+110,Lightyear Frontier,34.60674157303371,7,Simulator
+110,Lightyear Frontier,34.60674157303371,7,Adventure
+110,Lightyear Frontier,34.60674157303371,7,Indie
+111,Age of Darkness: Final Stand,70.80317539589043,7,Real Time Strategy (RTS)
+111,Age of Darkness: Final Stand,70.80317539589043,7,Strategy
+112,Mad Games Tycoon 2,71.13177779651197,7,Simulator
+112,Mad Games Tycoon 2,71.13177779651197,7,Strategy
+112,Mad Games Tycoon 2,71.13177779651197,7,Indie
+113,Foundry,86.20689655172414,7,Simulator
+113,Foundry,86.20689655172414,7,Strategy
+113,Foundry,86.20689655172414,7,Indie
+114,Tiny Bunny,71.41721795289932,7,Adventure
+114,Tiny Bunny,71.41721795289932,7,Indie
+114,Tiny Bunny,71.41721795289932,7,Visual Novel
+115,Timberborn,71.91697415473745,7,Simulator
+115,Timberborn,71.91697415473745,7,Strategy
+115,Timberborn,71.91697415473745,7,Indie
+116,Atlas,58.89921777576238,7,Role-playing (RPG)
+116,Atlas,58.89921777576238,7,Adventure
+117,Torque Drift,90.0,7,Racing
+117,Torque Drift,90.0,7,Sport
+118,Legion TD 2,51.16048146568269,7,Real Time Strategy (RTS)
+118,Legion TD 2,51.16048146568269,7,Strategy
+118,Legion TD 2,51.16048146568269,7,Indie
+119,Infinite Minigolf,62.66666666666666,7,Simulator
+119,Infinite Minigolf,62.66666666666666,7,Sport
+119,Infinite Minigolf,62.66666666666666,7,Indie
+119,Infinite Minigolf,62.66666666666666,7,Arcade
+120,Stationeers,95.20050654284509,7,Simulator
+120,Stationeers,95.20050654284509,7,Indie
+121,Death Trash,68.52367872511509,7,Role-playing (RPG)
+121,Death Trash,68.52367872511509,7,Adventure
+121,Death Trash,68.52367872511509,7,Indie
+122,Grav,56.24543788632251,7,Shooter
+122,Grav,56.24543788632251,7,Role-playing (RPG)
+122,Grav,56.24543788632251,7,Adventure
+122,Grav,56.24543788632251,7,Indie
+123,Blockade 3D,59.81505490544451,7,Shooter
+124,Of Guards and Thieves,58.56139364990166,7,Racing
+124,Of Guards and Thieves,58.56139364990166,7,Strategy
+124,Of Guards and Thieves,58.56139364990166,7,Indie
+125,Between Me and the Night,77.27534502733315,7,Adventure
+125,Between Me and the Night,77.27534502733315,7,Indie
+126,Project: Playtime,53.33333333333333,6,Indie
+127,Yet Another Zombie Survivors,80.01239517362927,6,Role-playing (RPG)
+127,Yet Another Zombie Survivors,80.01239517362927,6,Indie
+128,Shatterline,79.82540790582537,6,Shooter
+129,The Anacrusis,53.60345222633449,6,Shooter
+129,The Anacrusis,53.60345222633449,6,Adventure
+129,The Anacrusis,53.60345222633449,6,Indie
+130,Farthest Frontier,79.98012175425518,6,Simulator
+130,Farthest Frontier,79.98012175425518,6,Strategy
+130,Farthest Frontier,79.98012175425518,6,Indie
+131,Manor Lords,71.40392597690112,6,Real Time Strategy (RTS)
+131,Manor Lords,71.40392597690112,6,Strategy
+132,All Over,83.33333333333334,6,Puzzle
+132,All Over,83.33333333333334,6,Role-playing (RPG)
+132,All Over,83.33333333333334,6,Adventure
+132,All Over,83.33333333333334,6,Indie
+133,Orbital Bullet,70.42121316700332,6,Shooter
+133,Orbital Bullet,70.42121316700332,6,Platform
+133,Orbital Bullet,70.42121316700332,6,Hack and slash/Beat 'em up
+133,Orbital Bullet,70.42121316700332,6,Adventure
+133,Orbital Bullet,70.42121316700332,6,Indie
+133,Orbital Bullet,70.42121316700332,6,Arcade
+134,Firestone Idle RPG,47.06422018348624,6,Role-playing (RPG)
+134,Firestone Idle RPG,47.06422018348624,6,Simulator
+134,Firestone Idle RPG,47.06422018348624,6,Adventure
+134,Firestone Idle RPG,47.06422018348624,6,Indie
+135,Trials of Fire,75.83333333333334,6,Role-playing (RPG)
+135,Trials of Fire,75.83333333333334,6,Strategy
+135,Trials of Fire,75.83333333333334,6,Indie
+136,War Selection,62.2308979364194,6,Strategy
+136,War Selection,62.2308979364194,6,Indie
+137,Deeeer Simulator,62.07143660752438,6,Simulator
+137,Deeeer Simulator,62.07143660752438,6,Indie
+138,Workers & Resources: Soviet Republic,68.50416764302213,6,Simulator
+138,Workers & Resources: Soviet Republic,68.50416764302213,6,Strategy
+138,Workers & Resources: Soviet Republic,68.50416764302213,6,Indie
+139,Half-Life: Uplink,70.08421892086201,6,Shooter
+140,Maximum Action,63.80596290181607,6,Shooter
+140,Maximum Action,63.80596290181607,6,Indie
+141,Pandemic: The Board Game,61.13560829183328,6,Simulator
+141,Pandemic: The Board Game,61.13560829183328,6,Strategy
+142,PixArk,71.30528907377536,6,Shooter
+142,PixArk,71.30528907377536,6,Role-playing (RPG)
+142,PixArk,71.30528907377536,6,Strategy
+142,PixArk,71.30528907377536,6,Adventure
+143,Gene Shift Auto,69.95083232193197,6,Shooter
+143,Gene Shift Auto,69.95083232193197,6,Role-playing (RPG)
+143,Gene Shift Auto,69.95083232193197,6,Adventure
+143,Gene Shift Auto,69.95083232193197,6,Indie
+144,Demonologist,55.71428571428571,5,Puzzle
+144,Demonologist,55.71428571428571,5,Simulator
+144,Demonologist,55.71428571428571,5,Adventure
+144,Demonologist,55.71428571428571,5,Indie
+145,Nightingale,61.34468910123252,5,Role-playing (RPG)
+145,Nightingale,61.34468910123252,5,Adventure
+146,Turing Complete,83.37078651685394,5,Puzzle
+146,Turing Complete,83.37078651685394,5,Simulator
+147,Dominion,90.07874015748031,5,Strategy
+147,Dominion,90.07874015748031,5,Card & Board Game
+148,Anvil Saga,67.72131316470231,5,Role-playing (RPG)
+148,Anvil Saga,67.72131316470231,5,Simulator
+148,Anvil Saga,67.72131316470231,5,Indie
+149,IdleOn: The Idle MMO,60.14821496751836,5,Point-and-click
+149,IdleOn: The Idle MMO,60.14821496751836,5,Role-playing (RPG)
+149,IdleOn: The Idle MMO,60.14821496751836,5,Simulator
+149,IdleOn: The Idle MMO,60.14821496751836,5,Strategy
+149,IdleOn: The Idle MMO,60.14821496751836,5,Indie
+150,Population: One,96.0,5,Shooter
+150,Population: One,96.0,5,Arcade
+151,Hokko Life,43.0,5,Role-playing (RPG)
+151,Hokko Life,43.0,5,Simulator
+151,Hokko Life,43.0,5,Adventure
+151,Hokko Life,43.0,5,Indie
+152,Hunter's Arena: Legends,51.0809954501272,5,Role-playing (RPG)
+152,Hunter's Arena: Legends,51.0809954501272,5,Strategy
+152,Hunter's Arena: Legends,51.0809954501272,5,Adventure
+153,Going Medieval,61.75159575149583,5,Role-playing (RPG)
+153,Going Medieval,61.75159575149583,5,Simulator
+153,Going Medieval,61.75159575149583,5,Strategy
+153,Going Medieval,61.75159575149583,5,Indie
+154,Dungeon of Dragon Knight,46.62921348314606,5,Role-playing (RPG)
+154,Dungeon of Dragon Knight,46.62921348314606,5,Strategy
+154,Dungeon of Dragon Knight,46.62921348314606,5,Adventure
+154,Dungeon of Dragon Knight,46.62921348314606,5,Indie
+155,Size Matters,50.84093736992634,5,Racing
+155,Size Matters,50.84093736992634,5,Simulator
+155,Size Matters,50.84093736992634,5,Adventure
+155,Size Matters,50.84093736992634,5,Indie
+156,Drunken Wrestlers 2,76.0,5,Simulator
+156,Drunken Wrestlers 2,76.0,5,Sport
+156,Drunken Wrestlers 2,76.0,5,Indie
+157,Vegas Infinite by PokerStars,88.0,5,Strategy
+157,Vegas Infinite by PokerStars,88.0,5,Card & Board Game
+158,Scarf,66.4,5,Platform
+158,Scarf,66.4,5,Role-playing (RPG)
+158,Scarf,66.4,5,Strategy
+158,Scarf,66.4,5,Adventure
+158,Scarf,66.4,5,Indie
+159,Among Trees,69.54784831221782,5,Simulator
+159,Among Trees,69.54784831221782,5,Adventure
+159,Among Trees,69.54784831221782,5,Indie
+160,Space Haven,63.80323791759334,5,Role-playing (RPG)
+160,Space Haven,63.80323791759334,5,Simulator
+160,Space Haven,63.80323791759334,5,Strategy
+160,Space Haven,63.80323791759334,5,Indie
+161,Headsnatchers,47.78376298576376,5,Sport
+161,Headsnatchers,47.78376298576376,5,Indie
+162,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Role-playing (RPG)
+162,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Strategy
+162,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Turn-based strategy (TBS)
+162,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Adventure
+162,The Lord of the Rings: Adventure Card Game,68.92047568695789,5,Card & Board Game
+163,Witchfire,49.69721893740783,5,Shooter
+163,Witchfire,49.69721893740783,5,Adventure
+164,Computer Tycoon,68.4416367775665,5,Simulator
+164,Computer Tycoon,68.4416367775665,5,Strategy
+164,Computer Tycoon,68.4416367775665,5,Indie
+165,Desolate,76.41030041246324,5,Role-playing (RPG)
+165,Desolate,76.41030041246324,5,Adventure
+165,Desolate,76.41030041246324,5,Indie
+166,Bio Inc. Redemption,70.0,5,Puzzle
+166,Bio Inc. Redemption,70.0,5,Simulator
+166,Bio Inc. Redemption,70.0,5,Strategy
+166,Bio Inc. Redemption,70.0,5,Indie
+167,AdventureQuest 3D,63.14621339834339,5,Role-playing (RPG)
+167,AdventureQuest 3D,63.14621339834339,5,Adventure
+167,AdventureQuest 3D,63.14621339834339,5,Indie
+168,Paranormal Activity: The Lost Soul,69.02774897875744,5,Role-playing (RPG)
+168,Paranormal Activity: The Lost Soul,69.02774897875744,5,Adventure
+169,Tower Unite,80.81601636208076,5,Racing
+169,Tower Unite,80.81601636208076,5,Adventure
+169,Tower Unite,80.81601636208076,5,Indie
+169,Tower Unite,80.81601636208076,5,Arcade
+170,WWII Online,72.5,5,Shooter
+170,WWII Online,72.5,5,Role-playing (RPG)
+170,WWII Online,72.5,5,Simulator
+170,WWII Online,72.5,5,Strategy
+170,WWII Online,72.5,5,Indie
+171,Chime Sharp,78.16666666666666,5,Music
+171,Chime Sharp,78.16666666666666,5,Puzzle
+171,Chime Sharp,78.16666666666666,5,Arcade
+172,StarCrawlers,70.03088533873589,5,Role-playing (RPG)
+172,StarCrawlers,70.03088533873589,5,Adventure
+172,StarCrawlers,70.03088533873589,5,Indie
+173,Bang-On Balls: Chronicles,80.0,4,Platform
+173,Bang-On Balls: Chronicles,80.0,4,Adventure
+173,Bang-On Balls: Chronicles,80.0,4,Indie
+173,Bang-On Balls: Chronicles,80.0,4,Arcade
+174,The Long Drive,60.0,4,Simulator
+174,The Long Drive,60.0,4,Adventure
+174,The Long Drive,60.0,4,Indie
+175,Black Skylands,80.0,4,Shooter
+175,Black Skylands,80.0,4,Role-playing (RPG)
+175,Black Skylands,80.0,4,Simulator
+175,Black Skylands,80.0,4,Adventure
+175,Black Skylands,80.0,4,Indie
+176,Gamecraft,60.0,4,Simulator
+176,Gamecraft,60.0,4,Indie
+177,Shortest Trip to Earth,64.83333333333334,4,Real Time Strategy (RTS)
+177,Shortest Trip to Earth,64.83333333333334,4,Simulator
+177,Shortest Trip to Earth,64.83333333333334,4,Strategy
+177,Shortest Trip to Earth,64.83333333333334,4,Adventure
+177,Shortest Trip to Earth,64.83333333333334,4,Indie
+178,Mist Survival,80.0,4,Simulator
+178,Mist Survival,80.0,4,Adventure
+178,Mist Survival,80.0,4,Indie
+179,Meow Motors,65.5,4,Racing
+179,Meow Motors,65.5,4,Indie
+179,Meow Motors,65.5,4,Arcade
+180,Mars Horizon,80.0,4,Simulator
+180,Mars Horizon,80.0,4,Strategy
+180,Mars Horizon,80.0,4,Indie
+181,The Coin Game,70.0,4,Simulator
+181,The Coin Game,70.0,4,Adventure
+181,The Coin Game,70.0,4,Indie
+182,Chinese Parents,80.0,4,Role-playing (RPG)
+182,Chinese Parents,80.0,4,Simulator
+182,Chinese Parents,80.0,4,Adventure
+182,Chinese Parents,80.0,4,Indie
+183,Fault: Elder Orb,50.0,4,Strategy
+183,Fault: Elder Orb,50.0,4,MOBA
+184,Yorkshire Gubbins,79.0,4,Point-and-click
+184,Yorkshire Gubbins,79.0,4,Adventure
+184,Yorkshire Gubbins,79.0,4,Indie
+185,Rise to Ruins,80.0,4,Simulator
+185,Rise to Ruins,80.0,4,Strategy
+185,Rise to Ruins,80.0,4,Indie
+186,Knockout League,76.0,4,Fighting
+186,Knockout League,76.0,4,Sport
+186,Knockout League,76.0,4,Adventure
+186,Knockout League,76.0,4,Arcade
+187,Long Gone Days,72.0,4,Role-playing (RPG)
+187,Long Gone Days,72.0,4,Indie
+187,Long Gone Days,72.0,4,Visual Novel
+188,Guild Quest,60.0,4,Role-playing (RPG)
+188,Guild Quest,60.0,4,Simulator
+188,Guild Quest,60.0,4,Strategy
+188,Guild Quest,60.0,4,Indie
+189,Derail Valley,80.0,4,Racing
+189,Derail Valley,80.0,4,Simulator
+189,Derail Valley,80.0,4,Adventure
+189,Derail Valley,80.0,4,Indie
+190,Terroir,60.0,4,Simulator
+190,Terroir,60.0,4,Strategy
+190,Terroir,60.0,4,Indie
+191,Pocket Rumble,62.5,4,Fighting
+191,Pocket Rumble,62.5,4,Indie
+192,Can't Drive This,50.0,4,Racing
+192,Can't Drive This,50.0,4,Indie
+193,Windscape,66.16666666666667,4,Fighting
+193,Windscape,66.16666666666667,4,Puzzle
+193,Windscape,66.16666666666667,4,Role-playing (RPG)
+193,Windscape,66.16666666666667,4,Adventure
+193,Windscape,66.16666666666667,4,Indie
+194,Volo Airsport,50.0,4,Racing
+194,Volo Airsport,50.0,4,Simulator
+194,Volo Airsport,50.0,4,Sport
+194,Volo Airsport,50.0,4,Indie
+195,Salt,80.0,4,Point-and-click
+195,Salt,80.0,4,Puzzle
+195,Salt,80.0,4,Role-playing (RPG)
+195,Salt,80.0,4,Strategy
+195,Salt,80.0,4,Adventure
+195,Salt,80.0,4,Indie
+196,Automation: The Car Company Tycoon Game,80.0,4,Racing
+196,Automation: The Car Company Tycoon Game,80.0,4,Simulator
+196,Automation: The Car Company Tycoon Game,80.0,4,Strategy
+197,The Way of Life,66.16795317036319,4,Fighting
+197,The Way of Life,66.16795317036319,4,Music
+197,The Way of Life,66.16795317036319,4,Adventure
+197,The Way of Life,66.16795317036319,4,Indie
+198,Medieval Engineers,60.0,4,Simulator
+198,Medieval Engineers,60.0,4,Strategy
+198,Medieval Engineers,60.0,4,Indie
+199,Secrets of Grindea,80.0,4,Role-playing (RPG)
+199,Secrets of Grindea,80.0,4,Adventure
+199,Secrets of Grindea,80.0,4,Indie
+200,Realms of Arkania: Star Trail,50.0,4,Role-playing (RPG)
+200,Realms of Arkania: Star Trail,50.0,4,Adventure
+200,Realms of Arkania: Star Trail,50.0,4,Indie
+201,Stranded: Alien Dawn,83.66666666666667,3,Simulator
+201,Stranded: Alien Dawn,83.66666666666667,3,Strategy
+202,Power Chord,60.0,3,Strategy
+202,Power Chord,60.0,3,Turn-based strategy (TBS)
+202,Power Chord,60.0,3,Indie
+202,Power Chord,60.0,3,Card & Board Game
+203,Instruments of Destruction,87.0,3,Simulator
+204,Tinker Racers,70.0,3,Racing
+204,Tinker Racers,70.0,3,Adventure
+204,Tinker Racers,70.0,3,Indie
+205,The Political Process,80.0,3,Simulator
+205,The Political Process,80.0,3,Strategy
+205,The Political Process,80.0,3,Indie
+206,10 Miles to Safety,80.0,3,Fighting
+206,10 Miles to Safety,80.0,3,Strategy
+206,10 Miles to Safety,80.0,3,Indie
+207,Hot Shot Burn,70.0,3,Sport
+207,Hot Shot Burn,70.0,3,Indie
+207,Hot Shot Burn,70.0,3,Arcade
+208,Quantum League,71.0,3,Sport
+208,Quantum League,71.0,3,Strategy
+208,Quantum League,71.0,3,Indie
+209,A Year of Rain,50.0,3,Real Time Strategy (RTS)
+209,A Year of Rain,50.0,3,Role-playing (RPG)
+209,A Year of Rain,50.0,3,Strategy
+209,A Year of Rain,50.0,3,Indie
+210,Rogue Star Rescue,70.0,3,Shooter
+210,Rogue Star Rescue,70.0,3,Role-playing (RPG)
+210,Rogue Star Rescue,70.0,3,Strategy
+210,Rogue Star Rescue,70.0,3,Adventure
+210,Rogue Star Rescue,70.0,3,Indie
+211,Blazing Sails,80.0,3,Shooter
+211,Blazing Sails,80.0,3,Tactical
+211,Blazing Sails,80.0,3,Adventure
+211,Blazing Sails,80.0,3,Indie
+212,Mystic Vale,75.0,3,Strategy
+212,Mystic Vale,75.0,3,Indie
+212,Mystic Vale,75.0,3,Card & Board Game
+213,Nanotale: Typing Chronicles,65.0,3,Puzzle
+213,Nanotale: Typing Chronicles,65.0,3,Role-playing (RPG)
+213,Nanotale: Typing Chronicles,65.0,3,Adventure
+213,Nanotale: Typing Chronicles,65.0,3,Indie
+214,Down to Hell,45.0,3,Fighting
+214,Down to Hell,45.0,3,Role-playing (RPG)
+214,Down to Hell,45.0,3,Indie
+214,Down to Hell,45.0,3,Arcade
+215,Tapsonic Bold,25.0,3,Music
+215,Tapsonic Bold,25.0,3,Racing
+216,Beasts of Bermuda,50.0,3,Simulator
+216,Beasts of Bermuda,50.0,3,Adventure
+216,Beasts of Bermuda,50.0,3,Indie
+217,Rising Hell,70.0,3,Platform
+217,Rising Hell,70.0,3,Role-playing (RPG)
+217,Rising Hell,70.0,3,Adventure
+217,Rising Hell,70.0,3,Indie
+218,The Waylanders,60.0,3,Role-playing (RPG)
+218,The Waylanders,60.0,3,Strategy
+218,The Waylanders,60.0,3,Tactical
+218,The Waylanders,60.0,3,Adventure
+218,The Waylanders,60.0,3,Indie
+219,Factory Town,70.0,3,Simulator
+219,Factory Town,70.0,3,Strategy
+219,Factory Town,70.0,3,Indie
+220,Deadly Days,60.0,3,Shooter
+220,Deadly Days,60.0,3,Role-playing (RPG)
+220,Deadly Days,60.0,3,Strategy
+220,Deadly Days,60.0,3,Indie
+220,Deadly Days,60.0,3,Arcade
+221,Clicker Heroes 2,60.0,3,Role-playing (RPG)
+221,Clicker Heroes 2,60.0,3,Simulator
+221,Clicker Heroes 2,60.0,3,Strategy
+221,Clicker Heroes 2,60.0,3,Adventure
+221,Clicker Heroes 2,60.0,3,Indie
+222,Fugl,71.5,3,Role-playing (RPG)
+222,Fugl,71.5,3,Simulator
+222,Fugl,71.5,3,Adventure
+222,Fugl,71.5,3,Indie
+223,Intruder,80.0,3,Shooter
+223,Intruder,80.0,3,Simulator
+223,Intruder,80.0,3,Indie
+224,Cogmind,80.0,3,Role-playing (RPG)
+224,Cogmind,80.0,3,Strategy
+224,Cogmind,80.0,3,Adventure
+224,Cogmind,80.0,3,Indie
+225,Null Vector,78.5,3,Shooter
+225,Null Vector,78.5,3,Indie
+226,Broke Protocol: Online City RPG,50.0,3,Role-playing (RPG)
+226,Broke Protocol: Online City RPG,50.0,3,Simulator
+226,Broke Protocol: Online City RPG,50.0,3,Adventure
+226,Broke Protocol: Online City RPG,50.0,3,Indie
+227,Guns'n'Stories: Bulletproof VR,71.5,3,Shooter
+227,Guns'n'Stories: Bulletproof VR,71.5,3,Simulator
+227,Guns'n'Stories: Bulletproof VR,71.5,3,Adventure
+227,Guns'n'Stories: Bulletproof VR,71.5,3,Arcade
+228,CAT Interstellar,60.0,3,Adventure
+228,CAT Interstellar,60.0,3,Indie
+229,Head Shot,50.0,3,Adventure
+229,Head Shot,50.0,3,Indie
+230,UBoat,60.0,3,Simulator
+230,UBoat,60.0,3,Strategy
+230,UBoat,60.0,3,Tactical
+230,UBoat,60.0,3,Indie
+231,Atomic Society,70.0,3,Real Time Strategy (RTS)
+231,Atomic Society,70.0,3,Simulator
+231,Atomic Society,70.0,3,Strategy
+232,Pylon: Rogue,62.0,3,Role-playing (RPG)
+232,Pylon: Rogue,62.0,3,Indie
+233,Onward,80.0,3,Shooter
+233,Onward,80.0,3,Simulator
+233,Onward,80.0,3,Strategy
+233,Onward,80.0,3,Tactical
+233,Onward,80.0,3,Indie
+234,Quarantine,60.0,3,Shooter
+234,Quarantine,60.0,3,Racing
+234,Quarantine,60.0,3,Role-playing (RPG)
+234,Quarantine,60.0,3,Simulator
+234,Quarantine,60.0,3,Strategy
+234,Quarantine,60.0,3,Tactical
+234,Quarantine,60.0,3,Indie
+235,The Spatials: Galactology,70.0,3,Role-playing (RPG)
+235,The Spatials: Galactology,70.0,3,Simulator
+235,The Spatials: Galactology,70.0,3,Strategy
+235,The Spatials: Galactology,70.0,3,Indie
+236,Wayward,80.0,3,Role-playing (RPG)
+236,Wayward,80.0,3,Simulator
+236,Wayward,80.0,3,Adventure
+236,Wayward,80.0,3,Indie
+237,Dreambreak,51.66666666666666,3,Platform
+237,Dreambreak,51.66666666666666,3,Adventure
+237,Dreambreak,51.66666666666666,3,Indie
+238,Holodrive,79.0,3,Shooter
+238,Holodrive,79.0,3,Platform
+238,Holodrive,79.0,3,Indie
+239,Saurian,60.0,3,Simulator
+239,Saurian,60.0,3,Indie
+240,Empires of the Undergrowth,80.0,3,Real Time Strategy (RTS)
+240,Empires of the Undergrowth,80.0,3,Simulator
+240,Empires of the Undergrowth,80.0,3,Strategy
+240,Empires of the Undergrowth,80.0,3,Indie
+241,Wartile,70.0,3,Role-playing (RPG)
+241,Wartile,70.0,3,Strategy
+241,Wartile,70.0,3,Tactical
+241,Wartile,70.0,3,Adventure
+241,Wartile,70.0,3,Indie
+241,Wartile,70.0,3,Card & Board Game
+242,KeeperRL,80.0,3,Real Time Strategy (RTS)
+242,KeeperRL,80.0,3,Role-playing (RPG)
+242,KeeperRL,80.0,3,Strategy
+243,Project Aura,50.0,3,Simulator
+243,Project Aura,50.0,3,Strategy
+243,Project Aura,50.0,3,Indie
+244,1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby,40.0,3,Music
+244,1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby,40.0,3,Indie
+245,Rising World,80.0,3,Role-playing (RPG)
+245,Rising World,80.0,3,Adventure
+245,Rising World,80.0,3,Indie
+246,Starforge,10.17757790959444,3,Shooter
+246,Starforge,10.17757790959444,3,Simulator
+246,Starforge,10.17757790959444,3,Adventure
+246,Starforge,10.17757790959444,3,Indie
+247,Fabledom,83.0,2,Simulator
+247,Fabledom,83.0,2,Strategy
+248,Kukoos: Lost Pets,61.5,2,Platform
+248,Kukoos: Lost Pets,61.5,2,Puzzle
+248,Kukoos: Lost Pets,61.5,2,Adventure
+248,Kukoos: Lost Pets,61.5,2,Indie
+249,GetsuFumaDen: Undying Moon,70.5,2,Hack and slash/Beat 'em up
+249,GetsuFumaDen: Undying Moon,70.5,2,Indie
+250,Fuzz Force: Spook Squad,70.0,2,Role-playing (RPG)
+250,Fuzz Force: Spook Squad,70.0,2,Adventure
+250,Fuzz Force: Spook Squad,70.0,2,Card & Board Game
+251,Knock on the Coffin Lid,70.0,2,Role-playing (RPG)
+251,Knock on the Coffin Lid,70.0,2,Strategy
+251,Knock on the Coffin Lid,70.0,2,Turn-based strategy (TBS)
+251,Knock on the Coffin Lid,70.0,2,Indie
+251,Knock on the Coffin Lid,70.0,2,Card & Board Game
+252,Streamer Daily,70.0,2,Simulator
+252,Streamer Daily,70.0,2,Strategy
+252,Streamer Daily,70.0,2,Adventure
+252,Streamer Daily,70.0,2,Indie
+253,Soviet Jump Game,80.0,2,Platform
+253,Soviet Jump Game,80.0,2,Indie
+254,Card Hog,80.0,2,Puzzle
+254,Card Hog,80.0,2,Role-playing (RPG)
+254,Card Hog,80.0,2,Strategy
+254,Card Hog,80.0,2,Turn-based strategy (TBS)
+254,Card Hog,80.0,2,Indie
+254,Card Hog,80.0,2,Card & Board Game
+255,Comanche,60.0,2,Fighting
+255,Comanche,60.0,2,Shooter
+255,Comanche,60.0,2,Simulator
+256,Undying,67.0,2,Role-playing (RPG)
+256,Undying,67.0,2,Strategy
+256,Undying,67.0,2,Adventure
+256,Undying,67.0,2,Indie
+257,Killsquad,72.5,2,Role-playing (RPG)
+257,Killsquad,72.5,2,Hack and slash/Beat 'em up
+257,Killsquad,72.5,2,Indie
+257,Killsquad,72.5,2,Arcade
+258,Little Witch Nobeta,70.5,2,Shooter
+258,Little Witch Nobeta,70.5,2,Indie
+259,Ashes of Oahu,50.0,2,Role-playing (RPG)
+259,Ashes of Oahu,50.0,2,Indie
+260,Timeflow: Time and Money Simulator,50.0,2,Role-playing (RPG)
+260,Timeflow: Time and Money Simulator,50.0,2,Simulator
+260,Timeflow: Time and Money Simulator,50.0,2,Strategy
+260,Timeflow: Time and Money Simulator,50.0,2,Indie
+261,Last Oasis,60.0,2,Role-playing (RPG)
+261,Last Oasis,60.0,2,Adventure
+261,Last Oasis,60.0,2,Indie
+262,Odd Realm,70.0,2,Simulator
+262,Odd Realm,70.0,2,Strategy
+262,Odd Realm,70.0,2,Indie
+263,No Time to Relax,70.0,2,Simulator
+263,No Time to Relax,70.0,2,Strategy
+263,No Time to Relax,70.0,2,Indie
+263,No Time to Relax,70.0,2,Card & Board Game
+264,Pax Nova,50.0,2,Strategy
+264,Pax Nova,50.0,2,Indie
+265,XO,70.0,2,Role-playing (RPG)
+265,XO,70.0,2,Simulator
+265,XO,70.0,2,Strategy
+265,XO,70.0,2,Indie
+266,Never Breakup,60.0,2,Platform
+266,Never Breakup,60.0,2,Racing
+266,Never Breakup,60.0,2,Strategy
+266,Never Breakup,60.0,2,Adventure
+266,Never Breakup,60.0,2,Indie
+267,Newfound Courage,70.0,2,Puzzle
+267,Newfound Courage,70.0,2,Simulator
+267,Newfound Courage,70.0,2,Adventure
+267,Newfound Courage,70.0,2,Indie
+268,CryoFall,50.0,2,Role-playing (RPG)
+268,CryoFall,50.0,2,Simulator
+268,CryoFall,50.0,2,Strategy
+268,CryoFall,50.0,2,Adventure
+268,CryoFall,50.0,2,Indie
+269,Godhood,50.0,2,Role-playing (RPG)
+269,Godhood,50.0,2,Simulator
+269,Godhood,50.0,2,Strategy
+270,Dead or School,67.5,2,Role-playing (RPG)
+270,Dead or School,67.5,2,Hack and slash/Beat 'em up
+270,Dead or School,67.5,2,Indie
+271,This Land Is My Land,70.0,2,Role-playing (RPG)
+271,This Land Is My Land,70.0,2,Simulator
+271,This Land Is My Land,70.0,2,Indie
+272,Blast Zone! Tournament,50.0,2,Sport
+272,Blast Zone! Tournament,50.0,2,Indie
+273,KurtzPel,50.0,2,Fighting
+274,Blood Waves,50.0,2,Shooter
+274,Blood Waves,50.0,2,Strategy
+274,Blood Waves,50.0,2,Indie
+275,Forged Battalion,80.0,2,Real Time Strategy (RTS)
+275,Forged Battalion,80.0,2,Simulator
+275,Forged Battalion,80.0,2,Strategy
+275,Forged Battalion,80.0,2,Indie
+276,Flotsam,60.0,2,Simulator
+276,Flotsam,60.0,2,Strategy
+276,Flotsam,60.0,2,Indie
+277,Wasted Pizza,50.0,2,Indie
+278,Flashing Lights: Police Fire EMS,50.0,2,Simulator
+278,Flashing Lights: Police Fire EMS,50.0,2,Indie
+279,Witch Hunt,80.0,2,Adventure
+279,Witch Hunt,80.0,2,Indie
+280,Empires in Ruins,70.0,2,Role-playing (RPG)
+280,Empires in Ruins,70.0,2,Simulator
+280,Empires in Ruins,70.0,2,Strategy
+280,Empires in Ruins,70.0,2,Indie
+281,Dog Duty,70.0,2,Shooter
+281,Dog Duty,70.0,2,Strategy
+281,Dog Duty,70.0,2,Indie
+281,Dog Duty,70.0,2,Arcade
+282,Operation Warcade VR,72.5,2,Shooter
+282,Operation Warcade VR,72.5,2,Simulator
+282,Operation Warcade VR,72.5,2,Adventure
+282,Operation Warcade VR,72.5,2,Indie
+283,Crest,60.0,2,Simulator
+283,Crest,60.0,2,Strategy
+283,Crest,60.0,2,Adventure
+283,Crest,60.0,2,Indie
+284,The District,20.0,2,Adventure
+284,The District,20.0,2,Indie
+285,VR Karts,57.5,2,Racing
+285,VR Karts,57.5,2,Indie
+285,VR Karts,57.5,2,Arcade
+286,Planet Centauri,60.0,2,Role-playing (RPG)
+286,Planet Centauri,60.0,2,Adventure
+286,Planet Centauri,60.0,2,Indie
+287,Gamma Bros,70.0,2,Indie
+288,Project Arrhythmia,70.0,2,Adventure
+288,Project Arrhythmia,70.0,2,Indie
+289,QuiVr,80.0,2,Shooter
+289,QuiVr,80.0,2,Simulator
+289,QuiVr,80.0,2,Indie
+290,Blasters of the Universe,70.0,2,Shooter
+290,Blasters of the Universe,70.0,2,Arcade
+291,Bombslinger,72.5,2,Fighting
+291,Bombslinger,72.5,2,Shooter
+291,Bombslinger,72.5,2,Strategy
+291,Bombslinger,72.5,2,Adventure
+291,Bombslinger,72.5,2,Indie
+291,Bombslinger,72.5,2,Arcade
+291,Bombslinger,72.5,2,Card & Board Game
+292,Star Explorers,50.0,2,Role-playing (RPG)
+292,Star Explorers,50.0,2,Simulator
+292,Star Explorers,50.0,2,Adventure
+292,Star Explorers,50.0,2,Indie
+293,Bigfoot,50.0,2,Shooter
+293,Bigfoot,50.0,2,Adventure
+293,Bigfoot,50.0,2,Indie
+294,Drunkn Bar Fight,80.0,2,Fighting
+294,Drunkn Bar Fight,80.0,2,Hack and slash/Beat 'em up
+294,Drunkn Bar Fight,80.0,2,Indie
+294,Drunkn Bar Fight,80.0,2,Arcade
+295,Brick Rigs,60.0,2,Simulator
+296,Low Magic Age,80.0,2,Role-playing (RPG)
+296,Low Magic Age,80.0,2,Strategy
+296,Low Magic Age,80.0,2,Turn-based strategy (TBS)
+296,Low Magic Age,80.0,2,Tactical
+296,Low Magic Age,80.0,2,Adventure
+296,Low Magic Age,80.0,2,Indie
+297,A-Tech Cybernetic,80.0,2,Indie
+298,Production Line,60.0,2,Simulator
+298,Production Line,60.0,2,Strategy
+298,Production Line,60.0,2,Indie
+299,Karnage Chronicles,80.0,2,Role-playing (RPG)
+299,Karnage Chronicles,80.0,2,Sport
+299,Karnage Chronicles,80.0,2,Adventure
+299,Karnage Chronicles,80.0,2,Indie
+300,Post Human W.A.R,75.0,2,Strategy
+300,Post Human W.A.R,75.0,2,Indie
+301,Sailaway,80.0,2,Racing
+301,Sailaway,80.0,2,Simulator
+301,Sailaway,80.0,2,Sport
+301,Sailaway,80.0,2,Indie
+302,NITE Team 4,70.0,2,Simulator
+302,NITE Team 4,70.0,2,Strategy
+302,NITE Team 4,70.0,2,Adventure
+302,NITE Team 4,70.0,2,Indie
+303,We Need to Go Deeper,80.0,2,Simulator
+303,We Need to Go Deeper,80.0,2,Strategy
+303,We Need to Go Deeper,80.0,2,Adventure
+303,We Need to Go Deeper,80.0,2,Indie
+304,BattleCrew: Space Pirates,35.0,2,Indie
+305,Spellsworn,80.0,2,Indie
+306,Yore VR,50.0,2,Role-playing (RPG)
+306,Yore VR,50.0,2,Simulator
+306,Yore VR,50.0,2,Adventure
+306,Yore VR,50.0,2,Indie
+307,Stellar Overload,60.0,2,Role-playing (RPG)
+307,Stellar Overload,60.0,2,Adventure
+307,Stellar Overload,60.0,2,Indie
+308,Timber and Stone,50.0,2,Strategy
+308,Timber and Stone,50.0,2,Indie
+309,Drift Into Eternity,72.5,2,Adventure
+309,Drift Into Eternity,72.5,2,Indie
+310,Exoplanet: First Contact,80.0,2,Role-playing (RPG)
+310,Exoplanet: First Contact,80.0,2,Indie
+311,Feed and Grow: Fish,60.0,2,Simulator
+311,Feed and Grow: Fish,60.0,2,Adventure
+311,Feed and Grow: Fish,60.0,2,Indie
+312,DropZone,75.0,2,Real Time Strategy (RTS)
+312,DropZone,75.0,2,Strategy
+313,De Mambo,74.0,2,Fighting
+313,De Mambo,74.0,2,Platform
+313,De Mambo,74.0,2,Indie
+314,Super Indie Karts,80.0,2,Racing
+314,Super Indie Karts,80.0,2,Sport
+314,Super Indie Karts,80.0,2,Indie
+315,All Guns on Deck,40.0,2,Real Time Strategy (RTS)
+315,All Guns on Deck,40.0,2,Role-playing (RPG)
+315,All Guns on Deck,40.0,2,Simulator
+315,All Guns on Deck,40.0,2,Strategy
+315,All Guns on Deck,40.0,2,Adventure
+315,All Guns on Deck,40.0,2,Indie
+316,Wild Warfare,70.0,2,Indie
+317,Elea,70.0,2,Puzzle
+317,Elea,70.0,2,Adventure
+317,Elea,70.0,2,Indie
+318,Kingdoms Rise,50.0,2,Role-playing (RPG)
+318,Kingdoms Rise,50.0,2,Indie
+319,Bombernauts,80.0,2,Indie
+320,Folk Tale,50.0,2,Role-playing (RPG)
+320,Folk Tale,50.0,2,Simulator
+320,Folk Tale,50.0,2,Strategy
+320,Folk Tale,50.0,2,Adventure
+320,Folk Tale,50.0,2,Indie
+321,Gabe Newell Simulator,50.0,2,Shooter
+321,Gabe Newell Simulator,50.0,2,Simulator
+321,Gabe Newell Simulator,50.0,2,Adventure
+321,Gabe Newell Simulator,50.0,2,Indie
+322,Subaeria,57.5,2,Puzzle
+322,Subaeria,57.5,2,Adventure
+322,Subaeria,57.5,2,Indie
+323,Dispatcher,40.0,2,Role-playing (RPG)
+323,Dispatcher,40.0,2,Adventure
+323,Dispatcher,40.0,2,Indie
+324,Rodina,80.0,2,Indie
+325,Starmade,60.0,2,Shooter
+325,Starmade,60.0,2,Role-playing (RPG)
+325,Starmade,60.0,2,Simulator
+325,Starmade,60.0,2,Strategy
+325,Starmade,60.0,2,Adventure
+325,Starmade,60.0,2,Indie
+326,Block Story,50.0,2,Puzzle
+326,Block Story,50.0,2,Role-playing (RPG)
+326,Block Story,50.0,2,Adventure
+326,Block Story,50.0,2,Indie
+327,Prismata,70.0,2,Real Time Strategy (RTS)
+327,Prismata,70.0,2,Simulator
+327,Prismata,70.0,2,Strategy
+327,Prismata,70.0,2,Turn-based strategy (TBS)
+327,Prismata,70.0,2,Indie
+327,Prismata,70.0,2,Card & Board Game
+328,Soulslinger: Envoy of Death,92.0,1,Shooter
+328,Soulslinger: Envoy of Death,92.0,1,Adventure
+328,Soulslinger: Envoy of Death,92.0,1,Indie
+329,New Star GP,80.0,1,Racing
+329,New Star GP,80.0,1,Simulator
+329,New Star GP,80.0,1,Sport
+329,New Star GP,80.0,1,Indie
+329,New Star GP,80.0,1,Arcade
+330,Forgive Me Father 2,70.0,1,Shooter
+330,Forgive Me Father 2,70.0,1,Indie
+331,Go-Go Town!,85.0,1,Simulator
+331,Go-Go Town!,85.0,1,Indie
+332,Trinity Fusion,85.0,1,Fighting
+332,Trinity Fusion,85.0,1,Platform
+332,Trinity Fusion,85.0,1,Role-playing (RPG)
+332,Trinity Fusion,85.0,1,Indie
+333,Voltaire: The Vegan Vampire,60.0,1,Role-playing (RPG)
+333,Voltaire: The Vegan Vampire,60.0,1,Simulator
+333,Voltaire: The Vegan Vampire,60.0,1,Indie
+334,Arto,35.0,1,Role-playing (RPG)
+334,Arto,35.0,1,Adventure
+334,Arto,35.0,1,Indie
+335,MythForce,65.0,1,Role-playing (RPG)
+335,MythForce,65.0,1,Adventure
+336,Spiritfall,66.0,1,Fighting
+336,Spiritfall,66.0,1,Platform
+336,Spiritfall,66.0,1,Role-playing (RPG)
+336,Spiritfall,66.0,1,Hack and slash/Beat 'em up
+337,Sker Ritual,60.0,1,Shooter
+337,Sker Ritual,60.0,1,Indie
+338,Lovecraft's Untold Stories 2,40.0,1,Role-playing (RPG)
+338,Lovecraft's Untold Stories 2,40.0,1,Indie
+339,Thy Creature,90.0,1,Shooter
+339,Thy Creature,90.0,1,Puzzle
+339,Thy Creature,90.0,1,Adventure
+339,Thy Creature,90.0,1,Indie
+340,Oaken,65.0,1,Puzzle
+340,Oaken,65.0,1,Strategy
+340,Oaken,65.0,1,Turn-based strategy (TBS)
+340,Oaken,65.0,1,Adventure
+340,Oaken,65.0,1,Indie
+340,Oaken,65.0,1,Card & Board Game
+341,Dread Delusion,73.0,1,Role-playing (RPG)
+341,Dread Delusion,73.0,1,Adventure
+341,Dread Delusion,73.0,1,Indie
+342,Mortal Sin,81.0,1,Role-playing (RPG)
+342,Mortal Sin,81.0,1,Hack and slash/Beat 'em up
+342,Mortal Sin,81.0,1,Adventure
+342,Mortal Sin,81.0,1,Indie
+343,Ember Knights,85.0,1,Role-playing (RPG)
+343,Ember Knights,85.0,1,Hack and slash/Beat 'em up
+343,Ember Knights,85.0,1,Adventure
+344,Puzzle Quest 3,60.0,1,Puzzle
+344,Puzzle Quest 3,60.0,1,Role-playing (RPG)
+344,Puzzle Quest 3,60.0,1,Strategy
+345,Patch Quest,85.0,1,Shooter
+345,Patch Quest,85.0,1,Adventure
+345,Patch Quest,85.0,1,Indie
+346,Graven,75.0,1,Shooter
+346,Graven,75.0,1,Role-playing (RPG)
+346,Graven,75.0,1,Adventure
+347,Total Arcade Racing,80.0,1,Racing
+347,Total Arcade Racing,80.0,1,Simulator
+347,Total Arcade Racing,80.0,1,Sport
+347,Total Arcade Racing,80.0,1,Indie
+347,Total Arcade Racing,80.0,1,Arcade
+348,Titan Chaser,80.0,1,Racing
+348,Titan Chaser,80.0,1,Role-playing (RPG)
+348,Titan Chaser,80.0,1,Simulator
+348,Titan Chaser,80.0,1,Adventure
+348,Titan Chaser,80.0,1,Indie
+349,Victory Road,80.0,1,Fighting
+349,Victory Road,80.0,1,Simulator
+349,Victory Road,80.0,1,Sport
+349,Victory Road,80.0,1,Strategy
+349,Victory Road,80.0,1,Hack and slash/Beat 'em up
+349,Victory Road,80.0,1,Indie
+350,Mists of Noyah,60.0,1,Role-playing (RPG)
+350,Mists of Noyah,60.0,1,Indie
+351,Weed Farmer Simulator,50.0,1,Simulator
+351,Weed Farmer Simulator,50.0,1,Indie
+352,Shaolin vs Wutang 2,70.0,1,Fighting
+352,Shaolin vs Wutang 2,70.0,1,Indie
+353,Barricadez,80.0,1,Simulator
+353,Barricadez,80.0,1,Strategy
+353,Barricadez,80.0,1,Indie
+354,Ultimate Zombie Defense,70.0,1,Shooter
+354,Ultimate Zombie Defense,70.0,1,Strategy
+354,Ultimate Zombie Defense,70.0,1,Adventure
+355,Tainted Grail: The Fall of Avalon,0.0,1,Role-playing (RPG)
+355,Tainted Grail: The Fall of Avalon,0.0,1,Adventure
+355,Tainted Grail: The Fall of Avalon,0.0,1,Indie
+356,Spellsword Cards: DungeonTop,68.0,1,Role-playing (RPG)
+356,Spellsword Cards: DungeonTop,68.0,1,Strategy
+356,Spellsword Cards: DungeonTop,68.0,1,Adventure
+356,Spellsword Cards: DungeonTop,68.0,1,Indie
+356,Spellsword Cards: DungeonTop,68.0,1,Card & Board Game
+357,Mad Experiments: Escape Room,70.0,1,Puzzle
+357,Mad Experiments: Escape Room,70.0,1,Adventure
+357,Mad Experiments: Escape Room,70.0,1,Indie
+358,MMORPG Tycoon 2,70.0,1,Simulator
+358,MMORPG Tycoon 2,70.0,1,Strategy
+358,MMORPG Tycoon 2,70.0,1,Indie
+359,Tip of the Spear: Task Force Elite,80.0,1,Shooter
+359,Tip of the Spear: Task Force Elite,80.0,1,Indie
+360,The Yellow King,70.0,1,Role-playing (RPG)
+360,The Yellow King,70.0,1,Adventure
+360,The Yellow King,70.0,1,Indie
+361,Errant Kingdom,70.0,1,Adventure
+361,Errant Kingdom,70.0,1,Indie
+361,Errant Kingdom,70.0,1,Visual Novel
+362,Day of Dragons,50.0,1,Simulator
+362,Day of Dragons,50.0,1,Indie
+363,Book of Travels,66.0,1,Role-playing (RPG)
+363,Book of Travels,66.0,1,Adventure
+363,Book of Travels,66.0,1,Indie
+364,Necronator: Dead Wrong,65.0,1,Real Time Strategy (RTS)
+364,Necronator: Dead Wrong,65.0,1,Strategy
+364,Necronator: Dead Wrong,65.0,1,Indie
+364,Necronator: Dead Wrong,65.0,1,Card & Board Game
+365,Drift of the Hill,80.0,1,Racing
+365,Drift of the Hill,80.0,1,Simulator
+365,Drift of the Hill,80.0,1,Indie
+366,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1,Puzzle
+366,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1,Simulator
+366,Neon Noodles: Cyberpunk Kitchen Automation,70.0,1,Indie
+367,Beat Blast,88.0,1,Adventure
+367,Beat Blast,88.0,1,Indie
+368,Bastide,50.0,1,Simulator
+368,Bastide,50.0,1,Strategy
+368,Bastide,50.0,1,Indie
+369,MicroTown,70.0,1,Strategy
+369,MicroTown,70.0,1,Indie
+370,Devil's Deck,60.0,1,Role-playing (RPG)
+370,Devil's Deck,60.0,1,Strategy
+370,Devil's Deck,60.0,1,Adventure
+370,Devil's Deck,60.0,1,Indie
+371,Neon Tail,70.0,1,Racing
+371,Neon Tail,70.0,1,Role-playing (RPG)
+371,Neon Tail,70.0,1,Sport
+371,Neon Tail,70.0,1,Adventure
+371,Neon Tail,70.0,1,Indie
+372,Onset,70.0,1,Role-playing (RPG)
+372,Onset,70.0,1,Simulator
+372,Onset,70.0,1,Indie
+373,Shadows of Doubt,80.0,1,Role-playing (RPG)
+373,Shadows of Doubt,80.0,1,Adventure
+373,Shadows of Doubt,80.0,1,Indie
+374,Sky Link,70.0,1,Simulator
+375,Ritual: Crown of Horns,75.0,1,Shooter
+375,Ritual: Crown of Horns,75.0,1,Indie
+375,Ritual: Crown of Horns,75.0,1,Arcade
+376,Naxia,50.0,1,Role-playing (RPG)
+376,Naxia,50.0,1,Hack and slash/Beat 'em up
+376,Naxia,50.0,1,Adventure
+376,Naxia,50.0,1,Indie
+377,Ninja Legends,70.0,1,Simulator
+377,Ninja Legends,70.0,1,Adventure
+377,Ninja Legends,70.0,1,Indie
+377,Ninja Legends,70.0,1,Arcade
+378,Axis & Allies 1942 Online,50.0,1,Strategy
+378,Axis & Allies 1942 Online,50.0,1,Turn-based strategy (TBS)
+378,Axis & Allies 1942 Online,50.0,1,Card & Board Game
+379,Siege of Centauri,65.0,1,Strategy
+379,Siege of Centauri,65.0,1,Indie
+380,Gravity Ace,70.0,1,Indie
+380,Gravity Ace,70.0,1,Arcade
+381,Burned Land,70.0,1,Strategy
+381,Burned Land,70.0,1,Indie
+382,Road to Guangdong,50.0,1,Simulator
+382,Road to Guangdong,50.0,1,Adventure
+382,Road to Guangdong,50.0,1,Indie
+383,Winkeltje: The Little Shop,70.0,1,Shooter
+383,Winkeltje: The Little Shop,70.0,1,Platform
+383,Winkeltje: The Little Shop,70.0,1,Simulator
+383,Winkeltje: The Little Shop,70.0,1,Strategy
+383,Winkeltje: The Little Shop,70.0,1,Indie
+384,Cat and Ghostly Road,70.0,1,Point-and-click
+384,Cat and Ghostly Road,70.0,1,Puzzle
+384,Cat and Ghostly Road,70.0,1,Adventure
+384,Cat and Ghostly Road,70.0,1,Indie
+385,2084,50.0,1,Shooter
+385,2084,50.0,1,Indie
+386,Hotel Sowls,65.0,1,Role-playing (RPG)
+386,Hotel Sowls,65.0,1,Simulator
+386,Hotel Sowls,65.0,1,Strategy
+386,Hotel Sowls,65.0,1,Adventure
+386,Hotel Sowls,65.0,1,Indie
+387,Metaverse Keeper,70.0,1,Role-playing (RPG)
+387,Metaverse Keeper,70.0,1,Adventure
+387,Metaverse Keeper,70.0,1,Indie
+388,Murder Mystery Machine,73.0,1,Point-and-click
+388,Murder Mystery Machine,73.0,1,Puzzle
+388,Murder Mystery Machine,73.0,1,Strategy
+388,Murder Mystery Machine,73.0,1,Adventure
+388,Murder Mystery Machine,73.0,1,Indie
+389,Fantasy Blacksmith,50.0,1,Role-playing (RPG)
+389,Fantasy Blacksmith,50.0,1,Simulator
+389,Fantasy Blacksmith,50.0,1,Indie
+390,Deadliest Catch: The Game,45.0,1,Simulator
+390,Deadliest Catch: The Game,45.0,1,Strategy
+390,Deadliest Catch: The Game,45.0,1,Adventure
+390,Deadliest Catch: The Game,45.0,1,Indie
+390,Deadliest Catch: The Game,45.0,1,Arcade
+391,Blink: Rogues,65.0,1,Shooter
+391,Blink: Rogues,65.0,1,Adventure
+391,Blink: Rogues,65.0,1,Indie
+391,Blink: Rogues,65.0,1,Arcade
+392,Pandemic Express: Zombie Escape,60.0,1,Shooter
+392,Pandemic Express: Zombie Escape,60.0,1,Indie
+393,Time Warpers,70.0,1,Role-playing (RPG)
+393,Time Warpers,70.0,1,Simulator
+393,Time Warpers,70.0,1,Strategy
+393,Time Warpers,70.0,1,Adventure
+393,Time Warpers,70.0,1,Indie
+394,Deadside,60.0,1,Adventure
+394,Deadside,60.0,1,Indie
+395,Lawless Lands,70.0,1,Role-playing (RPG)
+395,Lawless Lands,70.0,1,Strategy
+395,Lawless Lands,70.0,1,Adventure
+395,Lawless Lands,70.0,1,Indie
+396,Starcom: Nexus,70.0,1,Role-playing (RPG)
+396,Starcom: Nexus,70.0,1,Adventure
+396,Starcom: Nexus,70.0,1,Indie
+397,Good Company,60.0,1,Simulator
+397,Good Company,60.0,1,Strategy
+397,Good Company,60.0,1,Indie
+398,Black Paradox,35.0,1,Shooter
+398,Black Paradox,35.0,1,Platform
+398,Black Paradox,35.0,1,Adventure
+398,Black Paradox,35.0,1,Indie
+398,Black Paradox,35.0,1,Arcade
+399,Seeds of Resilience,60.0,1,Role-playing (RPG)
+399,Seeds of Resilience,60.0,1,Simulator
+399,Seeds of Resilience,60.0,1,Strategy
+399,Seeds of Resilience,60.0,1,Turn-based strategy (TBS)
+399,Seeds of Resilience,60.0,1,Adventure
+399,Seeds of Resilience,60.0,1,Indie
+400,Rapture Rejects,50.0,1,Shooter
+400,Rapture Rejects,50.0,1,Indie
+401,Melting World Online,50.0,1,Role-playing (RPG)
+401,Melting World Online,50.0,1,Strategy
+401,Melting World Online,50.0,1,Adventure
+401,Melting World Online,50.0,1,Indie
+402,A Long Way Down,50.0,1,Role-playing (RPG)
+402,A Long Way Down,50.0,1,Strategy
+402,A Long Way Down,50.0,1,Adventure
+402,A Long Way Down,50.0,1,Indie
+403,Adeptus Titanicus: Dominus,80.0,1,Strategy
+403,Adeptus Titanicus: Dominus,80.0,1,Turn-based strategy (TBS)
+403,Adeptus Titanicus: Dominus,80.0,1,Tactical
+404,The Hardest Dungeon,70.0,1,Role-playing (RPG)
+404,The Hardest Dungeon,70.0,1,Simulator
+404,The Hardest Dungeon,70.0,1,Strategy
+404,The Hardest Dungeon,70.0,1,Adventure
+404,The Hardest Dungeon,70.0,1,Indie
+405,Find Your Way,50.0,1,Adventure
+405,Find Your Way,50.0,1,Indie
+406,Newt One,70.0,1,Music
+406,Newt One,70.0,1,Platform
+406,Newt One,70.0,1,Adventure
+406,Newt One,70.0,1,Indie
+407,The True Slime King,90.0,1,Platform
+407,The True Slime King,90.0,1,Adventure
+407,The True Slime King,90.0,1,Indie
+408,ValeGuard,64.0,1,Role-playing (RPG)
+408,ValeGuard,64.0,1,Simulator
+408,ValeGuard,64.0,1,Strategy
+408,ValeGuard,64.0,1,Indie
+409,Vox Machinae,80.0,1,Shooter
+409,Vox Machinae,80.0,1,Simulator
+409,Vox Machinae,80.0,1,Indie
+410,Final Assault,70.0,1,Strategy
+411,BoxVR,80.0,1,Sport
+411,BoxVR,80.0,1,Indie
+412,Sipho,70.0,1,Simulator
+412,Sipho,70.0,1,Strategy
+412,Sipho,70.0,1,Indie
+413,The Snowboard Game,60.0,1,Racing
+413,The Snowboard Game,60.0,1,Simulator
+413,The Snowboard Game,60.0,1,Sport
+413,The Snowboard Game,60.0,1,Indie
+414,Swords 'n Magic and Stuff,80.0,1,Role-playing (RPG)
+414,Swords 'n Magic and Stuff,80.0,1,Simulator
+414,Swords 'n Magic and Stuff,80.0,1,Adventure
+414,Swords 'n Magic and Stuff,80.0,1,Indie
