@@ -1,73 +1,95 @@
-# Project_1_Steam_PC_
-Steam Overview:
-Steam, developed by Valve Corporation, offers a vast library of PC games across various genres. Here are some popular categories and notable games:
-
-#Action/Adventure
-Grand Theft Auto V
-Red Dead Redemption 2
-The Witcher 3: Wild Hunt
-#RPG
-Cyberpunk 2077
-Divinity: Original Sin 2
-Dark Souls III
-#Strategy
-Civilization VI
-Total War: Three Kingdoms
-Stellaris
-#Simulation
-The Sims 4
-Cities: Skylines
-Microsoft Flight Simulator
-#Indie
-Hades
-Hollow Knight
-Celeste
-#Horror
-Resident Evil Village
-Phasmophobia
-Outlast
-#Multiplayer
-Among Us
-CS
-Dota 2
-#Puzzle
-Portal 2
-The Talos Principle
-Baba Is You
-#VR
-Half-Life: Alyx
-Beat Saber
-Superhot VR
-#Free-to-Play
-Dota 2
-Warframe
-Apex Legends
-#Upcoming Releases
-Starfield
-Elder Scrolls VI
-Hollow Knight: Silksong
-
-Steam’s ever-growing catalog and frequent sales make it an excellent platform for gamers to explore diverse genres and titles.
-##########################################################################################################
-Motivation:
-
-STEM-focused video games engage players in real-time analysis, strategic planning, and decision-making, thereby enhancing critical thinking and problem-solving skills. As players navigate through various challenges and obstacles, they employ logical reasoning and creativity to succeed.
-
-Key Areas of Focus:
-
-Market Trends and Consumer Behavior
-Game Performance Analysis
-Competitive Analysis
-Predictive Analytics
-Business Intelligence
+# IGDB Video Game Database API
+Video Game Data Analysis – Early Release Popularity.
 
 
-Why steam pc?
+=======
+# API Overview and Purpose:
+•	The IGDB API is free for non-commercial usage.
 
-Steam PC is ideal for projects due to its extensive game library, accessibility, community support, developer resources, regular updates, sales, and integration with other tools.
+•	This API taps into complete, holistic, accurate and an up-to-date data representation of the video game market, it’s game products and consumer opinions.
 
-What problem does it solve?
+•	This project gathers data from the IGDB API to aggregate all games, no matter which platform.   The data includes popularity by region, release date and game type such as First Person Shooter, Top-Down Strategy and many more.
 
-What did you learn?
+•	Our main objective was to find out which video game titles were most popular during the early-access phase regardless of region, platform, genre and game style.
 
-What makes your project stand out?
+
+# Installation/Setup/Usage:
+
+•	Using a “Client ID and a “Client Secret”, we gained access to this API as a “Twitch Developer”. We crafted a custom POST request to the endpoint and obtained an authentication token from the streaming platform TWITCH.  We then used that token to pass POST and GET requests to the Internet Games Database API (IGDB).
+
+
+•	The data was then received in JSON format which we then converted to DataFrames using Python and Pandas Jupyter Notebook.
+
+•	Most of the requests to the API use the POST method.  Using the base URL, we defined which endpoint to query by appending /{endpoint name} to the base URL.  We included the CLIENT ID and ACCESS TOKEN in the HEADER of the request.  This was obtained in the JSON data received in the request and response we received initially.
+
+
+# Endpoints and Documentation:
+
+•	https://api.igdb.com/v4/age_ratings - Age Rating according to various rating organisations
+
+•	https://api.igdb.com/v4/age_rating_content_descriptions - Age Rating Descriptors
+
+•	https://api.igdb.com/v4/companies - Video game companies. Both publishers & developers
+
+•	https://api.igdb.com/v4/games - Video games
+
+•	https://api.igdb.com/v4/game_modes - Single player, Multiplayer etc
+
+•	https://api.igdb.com/v4/genres - Genres of video games
+
+•	https://api.igdb.com/v4/involved_companies - Companies involved in the creation/publication of the games
+
+•	https://api.igdb.com/v4/platforms - The hardware used to run the game or game delivery network
+
+•	https://api.igdb.com/v4/platform_version_release_dates - Platform release dates, platforms and versions
+
+•	https://api.igdb.com/v4/regions - The region for game localization
+
+•	https://api.igdb.com/v4/release_dates - Platform release dates, platforms and versions
+
+
+# Data Models Created:
+
+•	Game mode summary using “value counts” (Python/Pandas)
+
+•	Genre summary using “value counts” (Python/Pandas)
+
+
+=======
+•	Release date summary “value counts” (Python/Pandas)
+
+•	Platform summary “value counts” (Python/Pandas)
+
+•	Region summary “value counts” (Python/Pandas)
+
+•	Developer summary “value counts” (Python/Pandas)
+
+•	Publisher summary “value counts” (Python/Pandas)
+
+
+# Data Visualizations Created:
+
+•	Bin the average score rating into human-readable grades using the “binning” option in Python/Pandas
+
+•	Summarized the number of games according to grades
+
+•	Grouped “Very High” graded games by the number of games per region
+
+•	Generated a Pie Graph for Top Rated Games by Region
+
+•	Grouped all games by region
+
+•	Generated a Pie Graph for Games by Region
+
+•	Generated a Stacked Bar Graph for Genres and Average Score
+
+•	Generated a Stacked Bar Graph representing the Number of Games by Genre
+
+•	Generated a Stacked Bar Graph for Game Modes and Average Score
+
+•	Generated a Stacked Bar Graph for Number of Games by Game Modes
+
+•	Generated a Scatter Plot to show the Developer Experience and Average Score using Linear Regression calculations
+
+•	Generated a Scatter Plot to show the Publisher Experience and Average Score using Linear Regression calculations
+
