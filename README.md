@@ -1,4 +1,4 @@
-IGDB Video Game Database API
+# IGDB Video Game Database API
 Video Game Data Analysis – Early Release Popularity.
 # API Overview and Purpose:
 •	The IGDB API is free for non-commercial usage.
