@@ -2,6 +2,7 @@
 Video Game Data Analysis – Early Release Popularity.
 
 
+=======
 # API Overview and Purpose:
 •	The IGDB API is free for non-commercial usage.
 
@@ -15,6 +16,7 @@ Video Game Data Analysis – Early Release Popularity.
 # Installation/Setup/Usage:
 
 •	Using a “Client ID and a “Client Secret”, we gained access to this API as a “Twitch Developer”. We crafted a custom POST request to the endpoint and obtained an authentication token from the streaming platform TWITCH.  We then used that token to pass POST and GET requests to the Internet Games Database API (IGDB).
+
 
 •	The data was then received in JSON format which we then converted to DataFrames using Python and Pandas Jupyter Notebook.
 
@@ -52,6 +54,8 @@ Video Game Data Analysis – Early Release Popularity.
 
 •	Genre summary using “value counts” (Python/Pandas)
 
+
+=======
 •	Release date summary “value counts” (Python/Pandas)
 
 •	Platform summary “value counts” (Python/Pandas)
@@ -88,3 +92,4 @@ Video Game Data Analysis – Early Release Popularity.
 •	Generated a Scatter Plot to show the Developer Experience and Average Score using Linear Regression calculations
 
 •	Generated a Scatter Plot to show the Publisher Experience and Average Score using Linear Regression calculations
+
