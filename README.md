@@ -1,5 +1,8 @@
 # IGDB Video Game Database API
 Video Game Data Analysis – Early Release Popularity.
+
+
+=======
 # API Overview and Purpose:
 •	The IGDB API is free for non-commercial usage.
 
@@ -14,11 +17,10 @@ Video Game Data Analysis – Early Release Popularity.
 
 •	Using a “Client ID and a “Client Secret”, we gained access to this API as a “Twitch Developer”. We crafted a custom POST request to the endpoint and obtained an authentication token from the streaming platform TWITCH.  We then used that token to pass POST and GET requests to the Internet Games Database API (IGDB).
 
-•	Most of the requests to the API use the POST method.  Using the base URL, we defined which endpoint to query by appending /{endpoint name} to the base URL.  We included the CLIENT ID and ACCESS TOKEN in the HEADER of the request.  This was obtained in the JSON data received in the request and response we received initially.
 
 •	The data was then received in JSON format which we then converted to DataFrames using Python and Pandas Jupyter Notebook.
 
-•	We then converted each DataFrame into CSV files in order to clean, manipulate and extract relevant data to present in various graph formats such as Pie Charts, Bar Graphs and Scatter Plots.
+•	Most of the requests to the API use the POST method.  Using the base URL, we defined which endpoint to query by appending /{endpoint name} to the base URL.  We included the CLIENT ID and ACCESS TOKEN in the HEADER of the request.  This was obtained in the JSON data received in the request and response we received initially.
 
 
 # Endpoints and Documentation:
@@ -51,6 +53,9 @@ Video Game Data Analysis – Early Release Popularity.
 •	Game mode summary using “value counts” (Python/Pandas)
 
 •	Genre summary using “value counts” (Python/Pandas)
+
+
+=======
 •	Release date summary “value counts” (Python/Pandas)
 
 •	Platform summary “value counts” (Python/Pandas)
@@ -85,3 +90,6 @@ Video Game Data Analysis – Early Release Popularity.
 •	Generated a Stacked Bar Graph for Number of Games by Game Modes
 
 •	Generated a Scatter Plot to show the Developer Experience and Average Score using Linear Regression calculations
+
+•	Generated a Scatter Plot to show the Publisher Experience and Average Score using Linear Regression calculations
+
